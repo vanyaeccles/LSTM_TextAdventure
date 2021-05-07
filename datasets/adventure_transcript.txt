@@ -1,0 +1,190 @@
+>l
+
+At End Of Road
+You are standing at the end of a road before a small brick building. Around you is a forest. A small stream flows out of the building and down a gully.
+
+>* It's the original Adventure. Cool.
+[Comment recorded.]
+
+>x building
+It's a small brick building. It seems to be a well house.
+
+>enter building
+
+Inside Building
+You are inside a building, a well house for a large spring.
+
+There are some keys on the ground here.
+
+There is tasty food here.
+
+There is a shiny brass lamp nearby.
+
+There is an empty bottle here.
+
+>get all
+set of keys: Taken.
+tasty food: Taken.
+brass lantern: Taken.
+small bottle: Taken.
+stream: The bottle is now full of water.
+well house: That's hardly portable.
+spring: That's hardly portable.
+pair of 1 foot diameter sewer pipes: That's hardly portable.
+
+>* Get all is my favourite command.
+[Comment recorded.]
+
+>x pipes
+Too small. The only exit is to the west.
+
+>* What's that supposed to mean?
+[Comment recorded.]
+
+>open pipes
+That's not something you can open.
+
+>x set
+It's just a normal-looking set of keys.
+
+>l
+
+Inside Building
+You are inside a building, a well house for a large spring.
+
+>exit
+
+At End Of Road
+
+>e
+
+Inside Building
+
+>w
+
+At End Of Road
+
+>w
+
+At Hill In Road
+You have walked up a hill, still in the forest. The road slopes back down the other side of the hill. There is a building in the distance.
+
+>w
+You can't go that way.
+
+>n
+
+At End Of Road
+
+>n
+
+In Forest
+
+>l
+
+In Forest
+You are in open forest near both a valley and a road.
+
+>n
+
+At End Of Road
+
+>s
+
+In A Valley
+You are in a valley in the forest beside a stream tumbling along a rocky bed.
+
+>s
+
+At Slit In Streambed
+At your feet all the water of the stream splashes into a 2-inch slit in the rock. Downstream the streambed is bare rock.
+
+>x rock
+You can't see any such thing.
+
+>go downstream
+You can't go that way.
+
+>s
+
+Outside Grate
+You are in a 20-foot depression floored with bare dirt. Set into the dirt is a strong steel grate mounted in concrete. A dry streambed leads into the depression.
+
+>x depression
+You're standing in it.
+
+>* Not too lavish descriptions, eh?
+[Comment recorded.]
+
+>open grate
+It seems to be locked.
+
+>open grate with keys
+You unlock the steel grate.
+
+>open grate
+You open the steel grate.
+
+>d
+
+Below the Grate
+You are in a small chamber beneath a 3x3 steel grate to the surface. A low crawl over cobbles leads inward to the west.
+
+The grate stands open.
+
+>w
+
+In Cobble Crawl
+You are crawling over cobbles in a low passage. There is a dim light at the east end of the passage.
+
+There is a small wicker cage discarded nearby.
+
+>get cage
+Taken.
+
+>w
+
+Darkness
+It is pitch dark, and you can't see a thing.
+
+>light lamp
+You switch the brass lantern on.
+
+In Debris Room
+You are in a debris room filled with stuff washed in from the surface. A low wide passage with cobbles becomes plugged with mud and debris here, but an awkward canyon leads upward and west.
+
+A note on the wall says, "Magic word XYZZY."
+
+A three foot black rod with a rusty star on one end lies nearby.
+
+>xyzzy
+
+Inside Building
+You are inside a building, a well house for a large spring.
+
+>* D'oh
+[Comment recorded.]
+
+>xyzzy
+
+In Debris Room
+You are in a debris room filled with stuff washed in from the surface. A low wide passage with cobbles becomes plugged with mud and debris here, but an awkward canyon leads upward and west.
+
+A note on the wall says, "Magic word XYZZY."
+
+A three foot black rod with a rusty star on one end lies nearby.
+
+>get rod
+Taken.
+
+>x it
+It's a three foot black rod with a rusty star on an end.
+
+>wave it
+Nothing happens.
+
+>* Ok, that's enough for now
+[Comment recorded.]
+
+>quit
+Are you sure you want to quit? y

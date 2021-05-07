@@ -1,0 +1,152 @@
+> APPLY THE BRAKES
+The Frobozz Magic Go-Cart coasts to a stop.
+Moss-lined Tunnel, in the Go-Cart
+This is a long east-west tunnel whose walls are covered
+with green and yellow mosses.
+There is a jewel-studded monkey wrench here. (outside
+the Go-Cart)
+A bent and rusted monkey wrench is lying here. (outside
+the Go-Cart)
+> TAKE THE WRENCH
+Which wrench do you mean, the jeweled monkey
+wrench or the rusty monkey wrench?
+> JEWELED
+You canít reach it from inside the Go-Cart.
+> WEST
+Youíre not going anywhere until you stand up.
+> GET OUT OF THE GO-CART
+You are on your own feet again.
+> TAKE THE JEWELED WRENCH
+Taken.
+> WEST
+Lumber Yard
+This is a huge room lined with metal shelves. There are
+exits to the east, northeast, and west.
+There is a small cardboard box here.
+Piled on one of the shelves is a supply of lumber.
+> TAKE THE BOX AND THE LUMBER
+small cardboard box: Taken.
+supply of lumber: Your load is too heavy.
+> INVENTORY
+You are carrying:
+ a lamp (providing light)
+ a glass jar
+ The glass jar contains:
+ a quantity of pomegranate juice
+ a jeweled monkey wrench
+ a dart gun
+ a small cardboard box
+> DROP THE DART GUN
+Dropped.
+> TAKE THE LUMBER
+Taken.
+> LOOK INSIDE THE BOX
+The small cardboard box is closed.
+> OPEN IT
+Opening the small cardboard box reveals a bunch of
+two-inch nails.
+> EXAMINE THE LUMBER
+It consists of two rectangular pieces of wood, about 10
+feet long, and perhaps a dozen shorter dowel-shaped
+pieces.
+> WALK NORTHEAST
+Foremanís Office
+This is the office of the lumber yard foreman. The only
+exit is to the southwest.
+> SW
+Lumber Yard
+There is a dart gun here.
+> WALK WEST
+Carpentry Shop
+You are in a room furnished with wooden shelves, cabinets, mantels and moldings, all gracefully carved out of
+fine wood. An array of precision tools adorns the walls.
+The only exit is south... unless you want to count the
+opening in the roof.
+A carpenter gnome is sitting here, twiddling his thumbs.
+>UP
+The opening is too high to reach.
+>GNOME, BUILD A LADDER
+ìIíd be glad to, but not for free!î
+> GIVE THE JEWELED MONKEY WRENCH TO THE
+GNOME
+The gnome examines the jeweled monkey wrench carefully. "Thank you," he exclaims, adding it to his collection
+of tools.
+> GNOME, BUILD A LADDER
+ìOh, yes, your ladder. Unfortunately, I have no
+lumber.î
+> GIVE THE LUMBER TO THE GNOME
+The gnome accepts the supply of lumber.
+> GNOME, BUILD LADDER
+ìDarn it! Iím fresh out of nails.î
+> GIVE NAILS
+(to the gnome)
+The gnome accepts the bunch of nails.
+> GIVE THE LAMP TO THE GNOME
+The gnome attempts to build a beautiful set of kitchen
+cabinets out of the lamp. Finally, he gives up and hands
+it back to you.
+> GNOME, BUILD LADDER
+The gnome grumbles but constructs a handsome
+wooden ladder. He admires his handiwork and hands
+you the ladder.
+> PUT THE LADER THROUGH THE HOLE
+I donít know the word ìlader.î
+> PUT THE LADDER THROUGH THE HOLE
+The ladder is now resting against the rim of the hole.
+> UP
+Youíre carrying too much to climb a ladder.
+>I
+You are carrying:
+ a lamp (providing light)
+ a glass jar
+ The glass jar contains:
+ a quantity of pomegranate juice
+ a small cardboard box
+> DROP ALL BUT THE LAMP
+glass jar: Dropped.
+small cardboard box: Dropped.
+> LOOK
+Carpentry Shop
+You are in a room furnished with wooden shelves, cabinets, mantels and moldings, all gracefully carved out of
+fine wood. An array of precision tools adorns the walls.
+The only exit is south... unless you want to count the
+opening in the roof.
+A carpenter gnome is sitting here, twiddling his thumbs.
+There is a glass jar here.
+The glass jar contains:
+ a quantity of pomegranate juice
+There is a small cardboard box here.
+> UP
+Monsterís Lair
+This is the den of the dreaded Seven-Headed Snow
+Monster of Snurth. It is quite chilly in here, and ice covers
+the floor and walls. A ladder protrudes from a hole in
+the ground, and sunlight comes from the cave entrance
+to the east.
+The Snow Monster, bellowing loudly, blocks the eastern
+exit.
+> SHOOT MONSTER
+What do you want to shoot the monster with?
+> DART GUN
+The Snow Monster clutches at the dart and then keels
+over. His body vanishes in a cloud of acrid black smoke.
+> EAST
+Orange Grove
+A path leads northeast through this small grove of orange trees. A dark cave lies to the west. A sign is posted
+near the grove.
+> READ THE SIGN
+ìWarning! These are poisonous oranges, not meant
+for human consumption.
+
+> EAT AN ORANGE
+Aaarrrr! It burns your tongue and your throat!
+***You have died***
+A forest sprite appears, looking concerned. ìYouíve
+done it again,î says the sprite, with a mixture of sympathy and disgust. ìIíll give you only one more chance.î
+She sprinkles some fairy dust on youÖ
+Wooden Bridge
+There is a lamp here.
+> LOOK
+Wooden Bridge
+You are on a sturdy bridge leading northeast to southwest. The river below flows quickly amongst pointy rocks.
+There is a lamp here.

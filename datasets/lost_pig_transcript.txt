@@ -1,0 +1,3686 @@
+>go west
+Grunk not allowed in field. That probably OK, because Grunk not think pig tall enough to climb over wall.
+
+>x wall
+Wall made of many big rock. It not very tall; Grunk lots taller than wall. Maybe it too hard, find enough big rock to make big wall. There field on other side of wall.
+
+>go north
+Forest look dark. Pig probably some place in there, but Grunk not know which way to go. Not want end up lost in forest with no pig.
+
+>i
+Grunk have:
+  torch (on fire)
+  pants (Grunk wearing them)
+
+>hold torch
+Grunk already have that!
+
+>use torch on forest
+Grunk not know what that mean.
+
+>burn forest
+(with torch)
+That maybe dangerous. But then if forest all burned up, pig not have any place to hide, so maybe it really good idea. Grunk not sure. That really what Grunk should do?
+
+>yes
+Grunk hold torch up to tree. Tree start to burn. Then other tree start to burn. And other tree. And other tree. Then Grunk hear pig squeal! Pig run out of forest, and it not even see Grunk until after Grunk grab it. Silly pig!
+
+Ha ha. Grunk smart, catch pig. Grunk get to go back to farm now. Maybe boss say that Grunk do good job. Fire go toward farm, too. There lots of tree to burn. Fire go even faster than Grunk.
+
+Uh oh. There lots of tree near farm, too. Fire get there before Grunk. Farm burn like tree. Grunk think that maybe boss not say Grunk do good job, if boss find out that Grunk make fire. Maybe it better if Grunk not go back to farm after all.
+
+Oh well. At least Grunk get to keep tasty pig.
+
+    *** Grunk not bring pig back to farm ***
+
+Grunk have 0 out of 7 that time.
+
+Time for Grunk to RESTART or RESTORE a saved story or UNDO what Grunk just do or tell FULL score or just QUIT?
+> undo
+Outside
+[OK, Grunk undo that.]
+
+>go east
+Forest look dark. Pig probably some place in there, but Grunk not know which way to go. Not want end up lost in forest with no pig.
+
+When Grunk really quiet, try looking around some more. There, hear noise again! It come from northeast. Must be pig, hiding in bushes.
+
+[Grunk score go up one.]
+
+>ne
+If that where pig go, that where Grunk go. It hard to see where Grunk going to, because there so much dark and leaves and branches here. Then suddenly, there not ground here any more!
+
+Oof! Ow! Umf! Ugh!
+
+Grunk fall down deep hole! Drop torch. Torch go out when Grunk land on it, so now it dark, too.
+
+Hole
+Grunk at bottom of deep, dark hole. It even smell like deep, dark hole. There some light that come from tunnel to east; that how Grunk see where Grunk at. Look like there maybe stairs at west side of hole that go up to outside, but them all broken now. There big crack in ground near stairs, too.
+
+Grunk see torch (black and sooty) here.
+
+>get torch
+OK, got it.
+
+>x crack
+Crack wide as Grunk fist, at least at top. It dark, so Grunk not see if anything there inside or how deep crack go.
+
+>reach inside crack
+Grunk confused. Not understand that at all.
+
+>touch crack
+Grunk reach down into crack, but not feel bottom. Grunk arm not long enough.
+
+>e
+
+Fountain Room
+All wall in this room glow! It bright, just like day time. Except that instead of sun, it wall that glow. And instead of grass and tree, it square room with four wall. And instead of outside, it all under ground. But beside those thing, it just like it! Tunnel keep going out to east and west, but normal doorway go north and southeast and southwest.
+
+In middle of room, there fountain. But fountain not have any water.
+
+South wall have big curtain hanging on it.
+
+Hey! There pig! It good thing that Grunk fall down same hole as pig.
+
+>get pig
+Grunk walk right up to pig. Pig walk right away from Grunk.
+
+>x pig
+Pig pink and chubby. Look tasty. But Grunk meet this pig before, on farm. Grunk know that this pig quick. And smart.
+
+Pig look back at Grunk.
+
+>call pig
+Grunk not know what that mean.
+
+>say pig
+(to pig)
+Pig just look at Grunk funny.
+
+[Grunk can try TELL PIG ABOUT FOREST or TELL PIG ABOUT FARM or OINK AT PIG. And that just what Grunk think of. There probably lots of other thing Grunk can talk about too.]
+
+>oink at pig
+Pig stare at Grunk like Grunk crazy.
+
+[Grunk can try ASK PIG ABOUT CAVE or TELL PIG ABOUT FOREST or TELL PIG ABOUT FARM. And probably other thing too.]
+
+>ask pig about cave
+Pig look at Grunk and shake head. Then it sniff ground. And cough.
+
+[Grunk can try TELL PIG ABOUT FOREST or ASK PIG ABOUT DAY or TELL PIG ABOUT FARM. And probably other thing too.]
+
+>ask pig about day
+Pig squeal and snort. Then it paw at ground and cough.
+
+[Grunk can try TELL PIG ABOUT FOREST or ASK PIG ABOUT FOOD or TELL PIG ABOUT FARM. And probably other thing too.]
+
+>x ground
+Grunk just see ground.
+
+>ask pig about food
+Pig just drool. Ugh, pig drool.
+
+[Grunk can try TELL PIG ABOUT FOREST or ASK PIG ABOUT FOOD or TELL PIG ABOUT FARM. And probably other thing too.]
+
+>x curtain
+Look like big rug, but it on wall instead of floor, so that make it curtain instead. Curtain have big picture of little man on it. Grunk think little man maybe called “gnome”. Him holding burning torch in dark cave. Point at way out of cave.
+
+>x gnome
+Gnome in picture have round nose and big ear and funny blue suit and pointy shoe. Hold torch, too.
+
+>x wall
+All wall in this room glow in dark! Except that since wall glowing, there no dark for wall to glow in.
+
+Pig blink and squint at bright wall.
+
+>touch wall
+Them feel just like glowing wall.
+
+>look behind curtain
+Grunk push back curtain and peek behind it. Wall back there glow too!
+
+Pig peek over at curtain too.
+
+>get pig
+Pig run away. So Grunk run after pig. Then pig run around behind Grunk and around front of Grunk and Grunk get dizzy. What Grunk doing again?
+
+>x fountain
+Old stone fountain with big bowl part and other squirty part in middle and lots of little bit that stick out all over. Grunk think it meant to look pretty. Squirty part not work, though, so there no water in it.
+
+>x squirty part
+It bit that water come out of. But there no water.
+
+>look
+
+Fountain Room
+All wall in this room glow. It bright, just like day time. Except that instead of sun, it wall that glow. And instead of grass and tree, it square room with four wall. And instead of outside, it all under ground. But beside those thing, it just like it! Tunnel keep going out to east and west, but normal doorway go north and southeast and southwest.
+
+In middle of room, there fountain. But fountain not have any water.
+
+South wall have big curtain hanging on it.
+
+Pig here too.
+
+Pig blink and squint at bright wall.
+
+>se
+
+Shelf Room
+There lots of shelfs in this room. Them on every wall. This room probably have lots and lots of thing in it before. But shelfs all empty now. Grunk not see any thing there at all. Maybe Grunk see more if Grunk have torch that on fire. But probably not, because lots of light come from northwest doorway. There doorway to west too.
+
+There stone chest at back of room.
+
+Long green pole lean against wall next to doorway.
+
+>get pole
+It not easy, pick up pole. Feel like pole push Grunk away. But Grunk strong; get pole anyway.
+
+>x pole
+This long green pole made of metal. It taller than Grunk.
+
+>x chest
+Chest mean wide box with lid. This one too big to carry. It have keyhole too, so it maybe locked.
+
+>open chest
+(Grunk unlock chest first)
+Grunk not have any key.
+
+>nw
+
+Fountain Room
+All wall in this room glow. It bright, just like day time. Except that instead of sun, it wall that glow. And instead of grass and tree, it square room with four wall. And instead of outside, it all under ground. But beside those thing, it just like it! Tunnel keep going out to east and west, but normal doorway go north and southeast and southwest.
+
+In middle of room, there fountain. But fountain not have any water.
+
+South wall have big curtain hanging on it.
+
+Pig here too.
+
+Pig see Grunk come in. But pig ignore Grunk.
+
+>w
+
+Hole
+Grunk at bottom of deep, dark hole. It even smell like deep, dark hole. There some light that come from tunnel to east; that how Grunk see where Grunk at. Look like there maybe stairs at west side of hole that go up to outside, but them all broken now. There big crack in ground near stairs, too.
+
+>put pole in crack
+Grunk stick pole down into crack and poke around. Pole reach bottom, but if anything hiding down there, Grunk not find it.
+
+>e
+
+Fountain Room
+All wall in this room glow. It bright, just like day time. Except that instead of sun, it wall that glow. And instead of grass and tree, it square room with four wall. And instead of outside, it all under ground. But beside those thing, it just like it! Tunnel keep going out to east and west, but normal doorway go north and southeast and southwest.
+
+In middle of room, there fountain. But fountain not have any water.
+
+South wall have big curtain hanging on it.
+
+Pig here too.
+
+>se
+
+Shelf Room
+There lots of shelfs in this room. Them on every wall. This room probably have lots and lots of thing in it before. But shelfs all empty now. Grunk not see any thing there at all. Maybe Grunk see more if Grunk have torch that on fire. But probably not, because lots of light come from northwest doorway. There doorway to west too.
+
+There stone chest at back of room.
+
+>x shelf
+Lots of metal shelfs, all hooked to wall. Grunk not see anything on those shelfs. But Grunk not see up on top shelf, because that one too high up.
+
+>climb shelf
+Grunk not good climber, but shelfs easy to climb, so Grunk get up on shelfs OK.
+
+>x top shelf
+Top shelf high up, but Grunk up high too right now, so Grunk even see top of top shelf. On top of top shelf there book.
+
+>get book
+OK, got it.
+
+>read book
+Grunk not know how to read.
+
+>x book
+Bunch of papers with mark on them, all stuck together at one side.
+
+>w
+Grunk not go anywhere while still on shelfs.
+
+>down
+Grunk get off shelfs.
+
+Shelf Room
+There lots of shelfs in this room. Them on every wall. This room probably have lots and lots of thing in it before. But shelfs all empty now. Grunk not see any thing there at all. Maybe Grunk see more if Grunk have torch that on fire. But probably not, because lots of light come from northwest doorway. There doorway to west too.
+
+There stone chest at back of room.
+
+>w
+
+Closet
+It dark. Grunk see lots of shadow. Grunk see doorway to east and west, too. But mostly shadow.
+
+Snrkxltkxshzkt! What that strange noise?
+
+>listen
+Sound like snoring.
+
+Gkrktkgkx!
+
+>light torch
+Need fire for burning. Grunk not have fire.
+
+Kzzkzzzkzzzzk!
+
+>listen
+Sound like snoring.
+
+Gkrktkgkx!
+
+>hit sound
+Grunk poke at shadow.
+
+Strange noise stop. Then voice shout, “Ztorf!”
+
+Room light up! Grunk see little bed and trunk and desk and little man in bed. Light come from blue ball that sit on desk. Little man climb out of bed and put on pair of pointy slipper. Him walk over and squint at Grunk. “Huh,” him say. “An orc.”
+
+Grunk say that Grunk orc. Then little man (Grunk think him called “gnome”) pull out little stool from desk and sit down.
+
+“Well, Grunk,” him say, “What do you want?”
+
+>ask gnome about torch
+Grunk tell gnome all about torch that Grunk bring.
+
+Gnome say, “It’s always a good idea to bring a light source along when you go exploring. It’s a shame yours has gone out. If only you had some means of making a fire.”
+
+Gnome search around inside desk drawer for little bit, until him give up.
+
+[Grunk can try ASK GNOME ABOUT MAKING FIRE or TELL GNOME ABOUT GRUNK or ASK GNOME ABOUT GNOME or ASK GNOME ABOUT THIS PLACE. And probably other thing too.]
+
+>ask gnome about making fire
+Grunk ask gnome how Grunk can make fire.
+
+“There are many different ways to make fire,” Gnome say. “You can use flint and steel, if you have them. They say you can rub two pieces of wood together, but I’ve never had much luck with that.” Then gnome say, “Or you could just use alchemy. But whichever you use, be careful not to make a mess with all that soot and ash.”
+
+Gnome go over to trunk and open it up. Him start searching in there.
+
+[Grunk can try ASK GNOME ABOUT FLINT AND STEEL or ASK GNOME ABOUT ALCHEMY or ASK GNOME ABOUT WOOD or TELL GNOME ABOUT GRUNK or ASK GNOME ABOUT GNOME or ASK GNOME ABOUT THIS PLACE. And probably other thing too.]
+
+>ask gnome about alchemy
+Grunk ask gnome what “alchemy” mean.
+
+Gnome say, “Alchemy is the science of studying the principles at work in nature, dissecting them into their component aspects, and then recombining them in new and useful configurations.”
+
+Gnome shake head and close trunk. Then him look under bed.
+
+[Grunk can try ASK GNOME ABOUT SCIENCE or ASK GNOME ABOUT NATURE or ASK GNOME ABOUT FLINT AND STEEL or ASK GNOME ABOUT WOOD or TELL GNOME ABOUT GRUNK or ASK GNOME ABOUT GNOME or ASK GNOME ABOUT THIS PLACE. And probably other thing too.]
+
+>ask gnome about pig
+Grunk tell gnome about how pig get lost.
+
+“I can see why your boss would be mad at you,” Gnome say, “if you did indeed leave the gate open.”
+
+Gnome peek up on shelf. Then him look under desk. Then him look around at room.
+
+[Grunk can try ASK GNOME ABOUT SCIENCE or ASK GNOME ABOUT NATURE or ASK GNOME ABOUT FLINT AND STEEL or ASK GNOME ABOUT WOOD or TELL GNOME ABOUT GRUNK or ASK GNOME ABOUT GNOME or ASK GNOME ABOUT THIS PLACE. And probably other thing too.]
+
+>ask gnome about this place
+Grunk ask gnome about this place.
+
+Gnome say, “This is a shrine dedicated to a gnomish alchemist who became slightly famous a number of years ago for coming up with a few random inventions.”
+
+Gnome sigh. “Well, it’s gone. I can’t find my copy of Mogglev’s The Shocking Force anywhere.”
+
+Gnome go back to desk and sit down.
+
+“I don’t even know how long it’s been missing,” him say. “It’s probably in the hands of that last band of looters now.”
+
+[Grunk can try ASK GNOME ABOUT SCIENCE or ASK GNOME ABOUT NATURE or ASK GNOME ABOUT FLINT AND STEEL or ASK GNOME ABOUT INVENTION or ASK GNOME ABOUT ALCHEMIST or ASK GNOME ABOUT WOOD or TELL GNOME ABOUT GRUNK or ASK GNOME ABOUT GNOME. And probably other thing too.]
+
+>show book to gnome
+Grunk show gnome book that Grunk find up on high shelf.
+
+Gnome look surprised. “Hey, that’s my Mogglev’s! That’s just the book I’ve been searching for,” him say. Then him add, “It would be awfully nice if you returned it.”
+
+Gnome open up desk and take out pipe and little bag. Then gnome fill up pipe with brown powder from bag.
+
+[Grunk can try ASK GNOME ABOUT SCIENCE or ASK GNOME ABOUT NATURE or ASK GNOME ABOUT FLINT AND STEEL or ASK GNOME ABOUT INVENTION or ASK GNOME ABOUT ALCHEMIST or ASK GNOME ABOUT WOOD or TELL GNOME ABOUT GRUNK or ASK GNOME ABOUT GNOME. And probably other thing too.]
+
+>ask gnome about gnome
+Grunk ask gnome about gnome.
+
+Gnome look away. “Me? I’m nobody special. I just take care of the shrine, now that no one else does.”
+
+Gnome put bag on desk. Then gnome spit in pipe. Grunk see smoke come out of it.
+
+[Grunk can try ASK GNOME ABOUT SCIENCE or ASK GNOME ABOUT NATURE or ASK GNOME ABOUT FLINT AND STEEL or ASK GNOME ABOUT INVENTION or ASK GNOME ABOUT ALCHEMIST or ASK GNOME HOW LONG GNOME HERE or ASK GNOME ABOUT WOOD or TELL GNOME ABOUT GRUNK. And probably other thing too.]
+
+>ask gnome about powder
+Grunk not know what Grunk should say about that.
+
+>give book to gnome
+Gnome put away other thing that him working on.
+
+Gnome take book and look at it.
+
+“Aha. Thanks, Grunk,” Gnome say. “I’ve been wanting to take a good look at this.”
+
+[Grunk score go up one.]
+
+>give torch to gnome
+Gnome peer at torch. “An unlit torch?” him ask. “I hope you weren’t expecting me to light it for you.”
+
+Gnome give torch back to Grunk.
+
+Gnome open book up and start reading it.
+
+“Hey!” Uh oh, gnome look mad. Him shout at Grunk, “Did you rip a page out of here?”
+
+Grunk not rip any thing out of any other thing at all today! And Grunk tell gnome that, too.
+
+“No.” Gnome sigh. “I suppose you couldn’t have. This is proof paper, after all. You’d need to cut it out with a knife.” Then him put book down on desk. “But that’s what someone did, unfortunately. And it was an important page, as well.”
+
+[Grunk score go down one.]
+
+>kick gnome
+“Ow!” Gnome look hurt. “What was that for?”
+
+Gnome open up desk drawer and take out strange helmet. Him take out little box, too. Then him put them both on desk.
+
+>undo
+Gnome Room
+[OK, Grunk undo that.]
+
+>ask gnome about fire
+Grunk ask gnome how Grunk can make fire.
+
+“There are many different ways to make fire,” Gnome say. “You can use flint and steel, if you have them. They say you can rub two pieces of wood together, but I’ve never had much luck with that.” Then gnome say, “Or you could just use alchemy. But whichever you use, be careful not to make a mess with all that soot and ash.”
+
+Gnome open up desk drawer and take out strange helmet. Him take out little box, too. Then him put them both on desk.
+
+[Grunk can try ASK GNOME ABOUT SCIENCE or ASK GNOME ABOUT NATURE or ASK GNOME ABOUT FLINT AND STEEL or ASK GNOME ABOUT INVENTION or ASK GNOME ABOUT ALCHEMIST or ASK GNOME HOW LONG GNOME HERE or ASK GNOME ABOUT WOOD or TELL GNOME ABOUT GRUNK. And probably other thing too.]
+
+>ask gnome about helmet
+Grunk ask gnome about strange helmet thing.
+
+Gnome say, “I’ve been working on harnessing the fluid nature of lightning to build a machine that’s capable of doing what no purely mechanical device has been able to do.”
+
+Then him pause. Maybe hoping Grunk ask what. So Grunk ask what.
+
+Gnome say, “I’m creating a device that is actually able to augment nothing less than thought itself!”
+
+Then him pause again. Grunk not know what gnome hoping Grunk ask now, so Grunk just wait.
+
+After gnome and Grunk both wait for little bit, gnome say. “It’s a big ambition. My first model is only able to perform simple arithmetic. But the next one I’m designing should be able to handle logarithms. After it understands basic mathematics, who knows what this ‘thinking cap’ could be programmed to do?”
+
+Gnome open up little box. It full of lots of little metal thing with different shape. Look like them some kind of tool.
+
+[Grunk can try ASK GNOME ABOUT MATH or ASK GNOME ABOUT THINKING or ASK GNOME ABOUT LIGHTNING or ASK GNOME ABOUT SCIENCE or ASK GNOME ABOUT NATURE or ASK GNOME ABOUT FLINT AND STEEL or ASK GNOME ABOUT INVENTION or ASK GNOME ABOUT ALCHEMIST or ASK GNOME HOW LONG GNOME HERE or ASK GNOME ABOUT WOOD or TELL GNOME ABOUT GRUNK. And probably other thing too.]
+
+>wear helmet
+(Grunk take strange helmet first)
+Gnome shake head. “I don’t see why I should just let you take my things. It’s nice that you brought me this book, but I don’t even have the whole thing.”
+
+>ask gnome about page
+Grunk ask gnome about missing page.
+
+Gnome frown. “I can’t imagine that whoever took it would find it useful enough to keep,” him say. “They probably just tossed it in some out-of-the-way place somewhere around here and forgot about it.”
+
+[Grunk can try ASK GNOME ABOUT MATH or ASK GNOME ABOUT THINKING or ASK GNOME ABOUT LIGHTNING or ASK GNOME ABOUT SCIENCE or ASK GNOME ABOUT NATURE or ASK GNOME ABOUT FLINT AND STEEL or ASK GNOME ABOUT INVENTION or ASK GNOME ABOUT ALCHEMIST or ASK GNOME HOW LONG GNOME HERE or ASK GNOME ABOUT WOOD or TELL GNOME ABOUT GRUNK. And probably other thing too.]
+
+>ask gnome about box
+Grunk ask gnome about different tool in little box.
+
+Gnome say, “The ability to use tools is what separates use from the animals.” Then him point to one. “That one, for example, is a barbed broach.”
+
+[Grunk can try ASK GNOME ABOUT MATH or ASK GNOME ABOUT THINKING or ASK GNOME ABOUT LIGHTNING or ASK GNOME ABOUT SCIENCE or ASK GNOME ABOUT NATURE or ASK GNOME ABOUT FLINT AND STEEL or ASK GNOME ABOUT INVENTION or ASK GNOME ABOUT ALCHEMIST or ASK GNOME HOW LONG GNOME HERE or ASK GNOME ABOUT WOOD or TELL GNOME ABOUT GRUNK. And probably other thing too.]
+
+>ask gnome about broach
+Grunk ask gnome about different tool in little box.
+
+Gnome say, “The ability to use tools is what separates use from the animals.” Then him point to one. “That one, for example, is a flow tester.”
+
+Gnome look inside little box. Move different thing around, like him try finding right tool. But Grunk guess him not find it.
+
+[Grunk can try ASK GNOME ABOUT MATH or ASK GNOME ABOUT THINKING or ASK GNOME ABOUT LIGHTNING or ASK GNOME ABOUT SCIENCE or ASK GNOME ABOUT NATURE or ASK GNOME ABOUT FLINT AND STEEL or ASK GNOME ABOUT INVENTION or ASK GNOME ABOUT ALCHEMIST or ASK GNOME HOW LONG GNOME HERE or ASK GNOME ABOUT WOOD or TELL GNOME ABOUT GRUNK. And probably other thing too.]
+
+>get broach
+Gnome shake head. “I don’t see why I should just let you take my things. It’s nice that you brought me this book, but I don’t even have the whole thing.”
+
+Gnome take tiny little hammer from box.
+
+>ask gnome about crack
+Grunk tell gnome about crack in ground near stair.
+
+Gnome ask, “Could you see inside, or was it too dark? I suppose it doesn’t matter, really. Anything that had fallen inside would be well out of reach.”
+
+[Grunk can try ASK GNOME ABOUT MATH or ASK GNOME ABOUT THINKING or ASK GNOME ABOUT LIGHTNING or ASK GNOME ABOUT SCIENCE or ASK GNOME ABOUT NATURE or ASK GNOME ABOUT FLINT AND STEEL or ASK GNOME ABOUT INVENTION or ASK GNOME ABOUT ALCHEMIST or ASK GNOME HOW LONG GNOME HERE or ASK GNOME ABOUT WOOD or TELL GNOME ABOUT GRUNK. And probably other thing too.]
+
+>ask gnome about pole
+Grunk tell gnome about long pole.
+
+“That would probably be the color magnet,” say gnome. “Unfortunately, after all the looters there’ve been here, I think that green-painted one is the only one we have left.”
+
+[Grunk can try ASK GNOME ABOUT MATH or ASK GNOME ABOUT THINKING or ASK GNOME ABOUT LIGHTNING or ASK GNOME ABOUT LOOTER or ASK GNOME ABOUT SCIENCE or ASK GNOME ABOUT NATURE or ASK GNOME ABOUT FLINT AND STEEL or ASK GNOME ABOUT COLOR MAGNET or ASK GNOME ABOUT INVENTION or ASK GNOME ABOUT ALCHEMIST or ASK GNOME HOW LONG GNOME HERE or ASK GNOME ABOUT WOOD or TELL GNOME ABOUT GRUNK. And probably other thing too.]
+
+>ask gnome about flint and steel
+Grunk ask gnome where Grunk can find flint and steel.
+
+Gnome think about that. “Well, steel is easy. Plenty of things here are made of metal. But I don’t think there’s any flint in the shrine at all.”
+
+[Grunk can try ASK GNOME ABOUT MATH or ASK GNOME ABOUT THINKING or ASK GNOME ABOUT LIGHTNING or ASK GNOME ABOUT LOOTER or ASK GNOME ABOUT SCIENCE or ASK GNOME ABOUT NATURE or ASK GNOME ABOUT COLOR MAGNET or ASK GNOME ABOUT INVENTION or ASK GNOME ABOUT ALCHEMIST or ASK GNOME HOW LONG GNOME HERE or ASK GNOME ABOUT WOOD or ASK GNOME ABOUT METAL or TELL GNOME ABOUT GRUNK. And probably other thing too.]
+
+>ask gnome about wood
+Grunk ask gnome about wood.
+
+Gnome shrug. “It’s useful enough, I suppose. But like anything else that was once alive, it’s very difficult to use for alchemy.”
+
+Gnome frown. “I wish I could remember which of these contacts has the highest potential.” Then him poke at helmet. But nothing happen.
+
+“Bah,” gnome say. “I should have just looked it up. If I had anything to look it up in.”
+
+[Grunk can try ASK GNOME ABOUT MATH or ASK GNOME ABOUT THINKING or ASK GNOME ABOUT LIGHTNING or ASK GNOME ABOUT LOOTER or ASK GNOME ABOUT SCIENCE or ASK GNOME ABOUT NATURE or ASK GNOME ABOUT COLOR MAGNET or ASK GNOME ABOUT INVENTION or ASK GNOME ABOUT ALCHEMIST or ASK GNOME HOW LONG GNOME HERE or ASK GNOME ABOUT LIFE or ASK GNOME ABOUT METAL or TELL GNOME ABOUT GRUNK. And probably other thing too.]
+
+>ask gnome about color magnet
+Grunk ask gnome about color magnet.
+
+Gnome say, “The basic principle of chromatic magnetism is the same as that of traditional polar magnetism: opposites attract.”
+
+Gnome put tool back in box.
+
+[Grunk can try ASK GNOME ABOUT MATH or ASK GNOME ABOUT THINKING or ASK GNOME ABOUT LIGHTNING or ASK GNOME ABOUT LOOTER or ASK GNOME ABOUT SCIENCE or ASK GNOME ABOUT NATURE or ASK GNOME ABOUT INVENTION or ASK GNOME ABOUT ALCHEMIST or ASK GNOME HOW LONG GNOME HERE or ASK GNOME ABOUT LIFE or ASK GNOME ABOUT METAL or TELL GNOME ABOUT GRUNK. And probably other thing too.]
+
+>w
+Gnome nod at Grunk.
+
+Table Room
+This room look like it maybe for eating or for play cards or for maybe for just sitting and talking. That because there big table and one chair here. There no lamp or thing like that in room, but lots of light come from northeast doorway. Other doorway go east.
+
+There tall metal box over in corner.
+
+Some person make marks on wall here.
+
+Chair next to table look lonely with no other chair.
+
+>x box
+Box almost tall as Grunk. It have little slot near top, and it have bigger basket down near bottom, and it have lever that stick out of side of box. It have some dent in it too, so maybe it old.
+
+>x marks
+Look like orange paint. Grunk not know what marks mean.
+
+>pull lever
+KA-CHUNK! But thing not happen this time.
+
+>touch marks with pole
+Grunk not think pole do much for marks on wall.
+
+>ne
+
+Fountain Room
+All wall in this room glow. It bright, just like day time. Except that instead of sun, it wall that glow. And instead of grass and tree, it square room with four wall. And instead of outside, it all under ground. But beside those thing, it just like it! Tunnel keep going out to east and west, but normal doorway go north and southeast and southwest.
+
+In middle of room, there fountain. But fountain not have any water.
+
+South wall have big curtain hanging on it.
+
+>n
+
+Statue Room
+This room have two big picture that face each other. West wall have picture on it and and east wall have different picture on it. Grunk think both picture really just part of wall, though. South wall have doorway in it that lots of light come from and north wall not have anything in it at all.
+
+Statue of little man stand here, up on big stone block.
+
+>x west picture
+Picture have big pile of black powder. Powder all on fire. Picture have bucket of water, too. Bucket pouring water onto fire. Grunk guess that water for making fire go out.
+
+>x east picture
+Picture have long purple pole that go from side to side. All around pole, there different yellow thing that float in air, like sun and tabby cat and thing that Grunk never see before and lots of other thing too. Under that, there picture of pie. Mmm, pie.
+
+>x pie
+Pie cut up into more than seven piece, and every piece have different color. Purple piece at top. To right of purple piece there orange piece, then there white piece at right side, then there red piece, and then yellow piece at bottom. Next piece blue, then there black at left side, and then green piece, and then it back to purple piece again at top. Grunk think red piece look most tasty
+
+>x powder
+Black and powdery. That how Grunk know it black powder.
+
+>x statue
+Statue look like little man with round nose and big ear and moustache. Grunk think funny little man maybe called “gnome”. Wear funny suit and pointy shoe and little round hat. One hand point north, at wall. Other hand up in air.
+
+Gnome stand on big stone block. Maybe block for making gnome look tall. It true that statue look more big than real gnome, but Grunk think that just because it statue. Maybe all thing look more big when it like rock.
+
+>x north wall
+There no picture on north wall.
+
+>turn statue
+Grunk grab statue by ears! Grrrnnnh! Try hard to turn it, but statue not move.
+
+>ask statue about pig
+Statue just stare at Grunk. Some time it stare past Grunk. Or away from Grunk. It depend on where Grunk stand at.
+
+>touch north wall
+That feel just like north wall.
+
+>look up
+Grunk just see top of room.
+
+>s
+
+Fountain Room
+All wall in this room glow. It bright, just like day time. Except that instead of sun, it wall that glow. And instead of grass and tree, it square room with four wall. And instead of outside, it all under ground. But beside those thing, it just like it! Tunnel keep going out to east and west, but normal doorway go north and southeast and southwest.
+
+In middle of room, there fountain. But fountain not have any water.
+
+South wall have big curtain hanging on it.
+
+Pig here too.
+
+Pig see Grunk coming, and it run away to southwest.
+
+>e
+
+Cave With Stream
+Tunnel come to little cave here, but wide stream block way east. Grunk not see much on other side. Not know if tunnel keep going or stop here. Only light that Grunk see come from bright room, far off to west. But Grunk hear lots of water.
+
+There stone bench next to stream.
+
+Seeing over there not easy in dark, but Grunk think there little reddish thing on other side of stream.
+
+>get reddish thing with pole
+Grunk stick pole out across stream and poke red thing with end of it. Red thing stick to end of pole! Grunk pull it back and find out that thing really key, so Grunk take key.
+
+Pole not feel sticky to Grunk, and key not feel sticky too. Wonder why key stick to pole.
+
+>x bench
+Long and heavy. It made of rock.
+
+>w
+
+Fountain Room
+All wall in this room glow. It bright, just like day time. Except that instead of sun, it wall that glow. And instead of grass and tree, it square room with four wall. And instead of outside, it all under ground. But beside those thing, it just like it! Tunnel keep going out to east and west, but normal doorway go north and southeast and southwest.
+
+In middle of room, there fountain. But fountain not have any water.
+
+South wall have big curtain hanging on it.
+
+>se
+
+Shelf Room
+There lots of shelfs in this room. Them on every wall. This room probably have lots and lots of thing in it before. But shelfs all empty now. Grunk not see any thing there at all. Maybe Grunk see more if Grunk have torch that on fire. But probably not, because lots of light come from northwest doorway. There doorway to west too.
+
+There stone chest at back of room.
+
+>open chest with key
+(Grunk unlock chest first)
+OK, chest unlocked.
+OK, Grunk open up chest. Chest full of black powder.
+
+[Grunk score go up one.]
+
+>get powder
+Grunk try scooping up black powder in hand, but it just go between Grunk finger.
+
+>put torch in powder
+Grunk stick torch in black powder. Then Grunk take torch back and look at it. But torch not look any different. Powder not even stick to torch.
+
+>spit on torch
+Ptoo! Torch not really any more clean, though.
+
+>put torch in powder
+Grunk stick torch in black powder. Then Grunk take torch back and look at it. But torch not look any different. Powder not even stick to torch.
+
+>spit in torch
+Ptoo! Torch not really any more clean, though.
+
+>spit in powder
+Ptoo! Hiss. It make little spark! But that not enough for real fire.
+
+>pee on powder
+Grunk not know what that mean.
+
+>urinate on powder
+Grunk not know what that mean.
+
+>piss on powder
+Grunk not know what that mean.
+
+>nw
+
+Fountain Room
+All wall in this room glow. It bright, just like day time. Except that instead of sun, it wall that glow. And instead of grass and tree, it square room with four wall. And instead of outside, it all under ground. But beside those thing, it just like it! Tunnel keep going out to east and west, but normal doorway go north and southeast and southwest.
+
+In middle of room, there fountain. But fountain not have any water.
+
+South wall have big curtain hanging on it.
+
+>e
+
+Cave With Stream
+Tunnel come to little cave here, but wide stream block way east. Grunk not see much on other side. Not know if tunnel keep going or stop here. Only light that Grunk see come from bright room, far off to west. But Grunk hear lots of water.
+
+There stone bench next to stream.
+
+>drink water
+Mmm. Grunk not really thirsty, but water still taste good.
+
+>put water in mouth
+Grunk not see that there.
+
+>get water
+Grunk try scooping up water in hand, but it just go between Grunk finger.
+
+>put torch in water
+Grunk stick torch in water. Then Grunk take torch back and look at it. Torch all wet!
+
+>w
+
+Fountain Room
+All wall in this room glow. It bright, just like day time. Except that instead of sun, it wall that glow. And instead of grass and tree, it square room with four wall. And instead of outside, it all under ground. But beside those thing, it just like it! Tunnel keep going out to east and west, but normal doorway go north and southeast and southwest.
+
+In middle of room, there fountain. But fountain not have any water.
+
+South wall have big curtain hanging on it.
+
+>se
+
+Shelf Room
+There lots of shelfs in this room. Them on every wall. This room probably have lots and lots of thing in it before. But shelfs all empty now. Grunk not see any thing there at all. Maybe Grunk see more if Grunk have torch that on fire. But probably not, because lots of light come from northwest doorway. There doorway to west too.
+
+There open stone chest at back of room.
+
+>put torch in powder
+Grunk stick torch in black powder. Torch start smoking and burning. End up all dry, but it not light on fire, so Grunk take it back.
+
+>nw
+
+Fountain Room
+All wall in this room glow. It bright, just like day time. Except that instead of sun, it wall that glow. And instead of grass and tree, it square room with four wall. And instead of outside, it all under ground. But beside those thing, it just like it! Tunnel keep going out to east and west, but normal doorway go north and southeast and southwest.
+
+In middle of room, there fountain. But fountain not have any water.
+
+South wall have big curtain hanging on it.
+
+>e
+
+Cave With Stream
+Tunnel come to little cave here, but wide stream block way east. Grunk not see much on other side. Not know if tunnel keep going or stop here. Only light that Grunk see come from bright room, far off to west. But Grunk hear lots of water.
+
+There stone bench next to stream.
+
+>put torch in water
+Grunk stick torch in water. Then Grunk take torch back and look at it. Torch all wet!
+
+>w
+
+Fountain Room
+All wall in this room glow. It bright, just like day time. Except that instead of sun, it wall that glow. And instead of grass and tree, it square room with four wall. And instead of outside, it all under ground. But beside those thing, it just like it! Tunnel keep going out to east and west, but normal doorway go north and southeast and southwest.
+
+In middle of room, there fountain. But fountain not have any water.
+
+South wall have big curtain hanging on it.
+
+>se
+
+Shelf Room
+There lots of shelfs in this room. Them on every wall. This room probably have lots and lots of thing in it before. But shelfs all empty now. Grunk not see any thing there at all. Maybe Grunk see more if Grunk have torch that on fire. But probably not, because lots of light come from northwest doorway. There doorway to west too.
+
+There open stone chest at back of room.
+
+>put torch in powder
+Grunk stick torch in black powder. Torch start smoking and burning. End up all dry, but it not light on fire, so Grunk take it back.
+
+>w
+
+Gnome Room
+This look like room for little person. It have bed that too little for Grunk. It have trunk that too little for Grunk. It have desk that too little for Grunk. Desk have stool that too little for Grunk. Room have doorway to east and west too, but them not so little. That good, because if doorway too little for Grunk, not know how Grunk get back out of room.
+
+Gnome sit at desk with tool and strange helmet thing.
+
+On top of shelf there ball (that make light).
+
+On top of desk there little box (full of tool) and strange helmet and book.
+
+Pig here too.
+
+Pig see Grunk come in. But pig ignore Grunk.
+
+Gnome pick out tool that have long pointy bit on end.
+
+>ask gnome about ball
+Grunk ask gnome about glowing blue ball on shelf.
+
+Gnome look up at shelf. Then him pick up ball.
+
+“That orb is a good example of mossfuressence,” him say, “Just like the glowing walls in the main shrine. I had it equipped with magic words for turning it on and off.”
+
+Gnome show ball to Grunk. It all blue and glowy. Then him put it back on shelf.
+
+Gnome scrape tool against side of helmet.
+
+[Grunk can try ASK GNOME ABOUT MAGIC WORD or ASK GNOME ABOUT MATH or ASK GNOME ABOUT THINKING or ASK GNOME ABOUT LIGHTNING or ASK GNOME ABOUT LOOTER or ASK GNOME ABOUT SCIENCE or ASK GNOME ABOUT NATURE or ASK GNOME ABOUT MOSSFURESSENCE or ASK GNOME ABOUT INVENTION or ASK GNOME ABOUT ALCHEMIST or ASK GNOME HOW LONG GNOME HERE or ASK GNOME ABOUT LIFE or ASK GNOME ABOUT METAL or TELL GNOME ABOUT GRUNK. And probably other thing too.]
+
+>ask gnome about magic words
+Grunk ask gnome about magic word.
+
+Gnome say, “Magic words usually serve to activate some already prepared magical effects in the local area, such as teleportation. They can be quite useful, and I admit I’ve used them myself — but only as a trigger for alchemy, of course.”
+
+Gnome poke tool deep inside helmet. End of tool break off inside. Oops.
+
+[Grunk can try ASK GNOME ABOUT MATH or ASK GNOME ABOUT THINKING or ASK GNOME ABOUT LIGHTNING or ASK GNOME ABOUT LOOTER or ASK GNOME ABOUT SCIENCE or ASK GNOME ABOUT NATURE or ASK GNOME ABOUT MOSSFURESSENCE or ASK GNOME ABOUT INVENTION or ASK GNOME ABOUT ALCHEMIST or ASK GNOME HOW LONG GNOME HERE or ASK GNOME ABOUT LIFE or ASK GNOME ABOUT METAL or ASK GNOME ABOUT MAGIC or TELL GNOME ABOUT GRUNK. And probably other thing too.]
+
+>ask gnome about mossferessence
+Grunk not know what Grunk should say about that.
+
+>ask gnome about mossfuressence
+Grunk ask gnome about strange moss-fur thing.
+
+Gnome say, “Isolating the qualities of mossfuressence is a goal that eluded alchemists for decades.” Then him ask Grunk, “You’re familiar with how all those stories about heroes who are lost in deep underground caverns with no torches or lanterns always have mysteriously glowing fungi and shaggy mosses growing on the cave walls?”
+
+All the story that Grunk hear about hero end with “and then orc killed hero hooray.” Grunk think that maybe not same kind of story.
+
+“Well, regardless,” gnome say, “The essence of those furry glowing mosses has been distilled into an impure alchemical reagent. That’s mossfuressence.”
+
+[Grunk can try ASK GNOME ABOUT MATH or ASK GNOME ABOUT THINKING or ASK GNOME ABOUT LIGHTNING or ASK GNOME ABOUT LOOTER or ASK GNOME ABOUT REAGENT or ASK GNOME ABOUT HEROES AND VILLAINS or ASK GNOME ABOUT SCIENCE or ASK GNOME ABOUT NATURE or ASK GNOME ABOUT INVENTION or ASK GNOME ABOUT ALCHEMIST or ASK GNOME HOW LONG GNOME HERE or ASK GNOME ABOUT LIFE or ASK GNOME ABOUT METAL or ASK GNOME ABOUT MAGIC or TELL GNOME ABOUT GRUNK. And probably other thing too.]
+
+>ask gnome about powder
+Grunk tell gnome about black powder that Grunk find.
+
+“Ah,” gnome say. “That would be dehydrated fire.”
+
+Gnome scratch pig behind ear.
+
+[Grunk can try ASK GNOME ABOUT MATH or ASK GNOME ABOUT THINKING or ASK GNOME ABOUT LIGHTNING or ASK GNOME ABOUT LOOTER or ASK GNOME ABOUT REAGENT or ASK GNOME ABOUT HEROES AND VILLAINS or ASK GNOME ABOUT SCIENCE or ASK GNOME ABOUT NATURE or ASK GNOME ABOUT DEHYDRATED FIRE or ASK GNOME ABOUT INVENTION or ASK GNOME ABOUT ALCHEMIST or ASK GNOME HOW LONG GNOME HERE or ASK GNOME ABOUT LIFE or ASK GNOME ABOUT METAL or ASK GNOME ABOUT MAGIC or TELL GNOME ABOUT GRUNK. And probably other thing too.]
+
+>ask gnome to grqab pig
+Grunk tell that to gnome.
+
+Gnome look at Grunk in strange way. “I’m sorry,” him say, “But I don’t quite understand what you’re getting at.”
+
+[Grunk can try ASK GNOME ABOUT MATH or ASK GNOME ABOUT THINKING or ASK GNOME ABOUT LIGHTNING or ASK GNOME ABOUT LOOTER or ASK GNOME ABOUT REAGENT or ASK GNOME ABOUT HEROES AND VILLAINS or ASK GNOME ABOUT SCIENCE or ASK GNOME ABOUT NATURE or ASK GNOME ABOUT DEHYDRATED FIRE or ASK GNOME ABOUT INVENTION or ASK GNOME ABOUT ALCHEMIST or ASK GNOME HOW LONG GNOME HERE or ASK GNOME ABOUT LIFE or ASK GNOME ABOUT METAL or ASK GNOME ABOUT MAGIC or TELL GNOME ABOUT GRUNK. And probably other thing too.]
+
+>ask gnome to grab pig
+Gnome say, “Sorry, I don’t take orders.”
+
+It good thing that gnome not work on farm!
+
+>e
+Pig so busy with important pig thing that pig not even see Grunk go.
+
+Shelf Room
+There lots of shelfs in this room. Them on every wall. This room probably have lots and lots of thing in it before. But shelfs all empty now. Grunk not see any thing there at all. Maybe Grunk see more if Grunk have torch that on fire. But probably not, because lots of light come from northwest doorway. There doorway to west too.
+
+There open stone chest at back of room.
+
+>n
+There only doorway to northwest and west.
+
+>nw
+
+Fountain Room
+All wall in this room glow. It bright, just like day time. Except that instead of sun, it wall that glow. And instead of grass and tree, it square room with four wall. And instead of outside, it all under ground. But beside those thing, it just like it! Tunnel keep going out to east and west, but normal doorway go north and southeast and southwest.
+
+In middle of room, there fountain. But fountain not have any water.
+
+South wall have big curtain hanging on it.
+
+>w
+
+Hole
+Grunk at bottom of deep, dark hole. It even smell like deep, dark hole. There some light that come from tunnel to east; that how Grunk see where Grunk at. Look like there maybe stairs at west side of hole that go up to outside, but them all broken now. There big crack in ground near stairs, too.
+
+>w
+Grunk try climbing up broken stairs, but that too hard when Grunk carry stuff too.
+
+>drop all
+key: Dropped.
+pole: Dropped.
+torch: Dropped.
+
+>e
+
+Fountain Room
+All wall in this room glow. It bright, just like day time. Except that instead of sun, it wall that glow. And instead of grass and tree, it square room with four wall. And instead of outside, it all under ground. But beside those thing, it just like it! Tunnel keep going out to east and west, but normal doorway go north and southeast and southwest.
+
+In middle of room, there fountain. But fountain not have any water.
+
+South wall have big curtain hanging on it.
+
+>w
+
+Hole
+Grunk at bottom of deep, dark hole. It even smell like deep, dark hole. There some light that come from tunnel to east; that how Grunk see where Grunk at. Look like there maybe stairs at west side of hole that go up to outside, but them all broken now. There big crack in ground near stairs, too.
+
+Grunk see torch (black and sooty) and pole and key here.
+
+>w
+Grunk not leave without pig! That what Grunk here for. And broken stairs look too hard to climb when Grunk holding pig anyway. Maybe there some other way out.
+
+>take all
+torch: OK, got it.
+pole: OK, got it.
+key: OK, got it.
+
+>e
+
+Fountain Room
+All wall in this room glow. It bright, just like day time. Except that instead of sun, it wall that glow. And instead of grass and tree, it square room with four wall. And instead of outside, it all under ground. But beside those thing, it just like it! Tunnel keep going out to east and west, but normal doorway go north and southeast and southwest.
+
+In middle of room, there fountain. But fountain not have any water.
+
+South wall have big curtain hanging on it.
+
+>se
+
+Shelf Room
+There lots of shelfs in this room. Them on every wall. This room probably have lots and lots of thing in it before. But shelfs all empty now. Grunk not see any thing there at all. Maybe Grunk see more if Grunk have torch that on fire. But probably not, because lots of light come from northwest doorway. There doorway to west too.
+
+There open stone chest at back of room.
+
+>w
+
+Gnome Room
+This look like room for little person. It have bed that too little for Grunk. It have trunk that too little for Grunk. It have desk that too little for Grunk. Desk have stool that too little for Grunk. Room have doorway to east and west too, but them not so little. That good, because if doorway too little for Grunk, not know how Grunk get back out of room.
+
+Gnome sit at desk with pen and paper.
+
+On top of shelf there ball (that make light).
+
+On top of desk there book.
+
+Pig here too.
+
+Gnome put pile of paper on desk. Then gnome put little bottle on desk. Then gnome open up little bottle. Then gnome stick pen in little bottle.
+
+>take ball
+Gnome shake head. “I don’t see why I should just let you take my things. It’s nice that you brought me this book, but I don’t even have the whole thing.”
+
+Gnome scribble quick little thing in one corner of paper.
+
+>ask gnome about pole
+Grunk tell gnome about long pole.
+
+“That would probably be the color magnet,” say gnome. “Unfortunately, after all the looters there’ve been here, I think that green-painted one is the only one we have left.”
+
+Pig go west.
+
+[Grunk can try ASK GNOME ABOUT MATH or ASK GNOME ABOUT THINKING or ASK GNOME ABOUT LIGHTNING or ASK GNOME ABOUT LOOTER or ASK GNOME ABOUT REAGENT or ASK GNOME ABOUT HEROES AND VILLAINS or ASK GNOME ABOUT SCIENCE or ASK GNOME ABOUT NATURE or ASK GNOME ABOUT DEHYDRATED FIRE or ASK GNOME ABOUT INVENTION or ASK GNOME ABOUT ALCHEMIST or ASK GNOME HOW LONG GNOME HERE or ASK GNOME ABOUT LIFE or ASK GNOME ABOUT METAL or ASK GNOME ABOUT MAGIC or TELL GNOME ABOUT GRUNK. And probably other thing too.]
+
+>ask gnome about dehydrated fire
+Grunk ask gnome about “dehydrated fire”.
+
+Gnome say, “The water serves to activate and release the other bound qualities that are fundamental to flame.”
+
+[Grunk can try ASK GNOME ABOUT MATH or ASK GNOME ABOUT THINKING or ASK GNOME ABOUT LIGHTNING or ASK GNOME ABOUT LOOTER or ASK GNOME ABOUT REAGENT or ASK GNOME ABOUT HEROES AND VILLAINS or ASK GNOME ABOUT SCIENCE or ASK GNOME ABOUT NATURE or ASK GNOME ABOUT INVENTION or ASK GNOME ABOUT ALCHEMIST or ASK GNOME HOW LONG GNOME HERE or ASK GNOME ABOUT LIFE or ASK GNOME ABOUT WATER or ASK GNOME ABOUT METAL or ASK GNOME ABOUT MAGIC or TELL GNOME ABOUT GRUNK. And probably other thing too.]
+
+>ask gnome about container
+Grunk not know what Grunk should say about that.
+
+>ask gnome about looter
+Grunk ask gnome about looting.
+
+Gnome say, “Every few years, this place is discovered by another band of passing adventurers. They come in, search for any treasures they can swipe as souvenirs, do a little vandalism, and then get bored as soon as they realize there are no monsters around to kill.” Him shrug. “It’s deplorable, but what can you do?”
+
+Gnome tap pen on desk.
+
+[Grunk can try ASK GNOME ABOUT MATH or ASK GNOME ABOUT THINKING or ASK GNOME ABOUT LIGHTNING or ASK GNOME ABOUT REAGENT or ASK GNOME ABOUT HEROES AND VILLAINS or ASK GNOME ABOUT SCIENCE or ASK GNOME ABOUT NATURE or ASK GNOME ABOUT INVENTION or ASK GNOME ABOUT ALCHEMIST or ASK GNOME HOW LONG GNOME HERE or ASK GNOME ABOUT LIFE or ASK GNOME ABOUT WATER or ASK GNOME ABOUT METAL or ASK GNOME ABOUT MAGIC or TELL GNOME ABOUT GRUNK. And probably other thing too.]
+
+>w
+
+Table Room
+This room look like it maybe for eating or for play cards or for maybe for just sitting and talking. That because there big table and one chair here. There no lamp or thing like that in room, but lots of light come from northeast doorway. Other doorway go east.
+
+There tall metal box over in corner.
+
+Some person make marks on wall here.
+
+Chair next to table look lonely with no other chair.
+
+Pig here too.
+
+Pig see Grunk coming, and it run away to east.
+
+>get box
+Murrmmfng! Grunk try pushing box over, but it too heavy. Only tip little bit, then bang right back down on ground in same spot it at before.
+
+Click.
+
+>open box
+Grunk not see any way for opening box up.
+
+Pig come in from east.
+
+>hit box with pole
+POW! That fun! Not really do much, though.
+
+Click.
+
+Pig stick nose on ground and snuff around. Then pig eat thing off ground. Grunk not see what, but it probably bug.
+
+>x book
+Grunk not see that there.
+
+>x box
+Box almost tall as Grunk. It have little slot near top, and it have bigger basket down near bottom, and it have lever that stick out of side of box. It have some dent in it too, so maybe it old.
+
+>pull lever
+KA-CHUNK! But thing not happen this time.
+
+>x basket
+Basket near bottom of metal box, made of metal and lots of hole. Look like maybe there place for thing to fall out of box, land in basket. Basket empty.
+
+Pig peek over at basket too.
+
+>get basket
+Basket just part of metal box.
+
+>attract pig with pole
+Grunk not know what that mean.
+
+>touch pig with pole
+Rarr! Grunk run at pig. Pig run from Grunk. Pig and Grunk run around and around room! Whee!
+
+After little bit, both Grunk and pig get tired and stop running. That fun! Wonder if pig have as much fun as Grunk.
+
+>l
+
+Table Room
+This room look like it maybe for eating or for play cards or for maybe for just sitting and talking. That because there big table and one chair here. There no lamp or thing like that in room, but lots of light come from northeast doorway. Other doorway go east.
+
+There tall metal box over in corner.
+
+Some person make marks on wall here.
+
+Chair next to table look lonely with no other chair.
+
+Pig here too.
+
+>x chair
+Wood chair. Look like it just right size for sitting at big table.
+
+>sit chair
+Grunk confused. Not understand that at all.
+
+>sit in chair
+Grunk get on chair.
+
+>get out of chair
+That not make sense after part about get outside.
+
+>stand up
+Grunk get off chair.
+
+Table Room
+This room look like it maybe for eating or for play cards or for maybe for just sitting and talking. That because there big table and one chair here. There no lamp or thing like that in room, but lots of light come from northeast doorway. Other doorway go east.
+
+There tall metal box over in corner.
+
+Some person make marks on wall here.
+
+Chair next to table look lonely with no other chair.
+
+Pig here too.
+
+Pig look up at mark on wall. But Grunk think pig not know what mark mean either.
+
+>break chair
+WHAM! That fun! Not really do much, though.
+
+Pig grunt.
+
+>l
+
+Table Room
+This room look like it maybe for eating or for play cards or for maybe for just sitting and talking. That because there big table and one chair here. There no lamp or thing like that in room, but lots of light come from northeast doorway. Other doorway go east.
+
+There tall metal box over in corner.
+
+Some person make marks on wall here.
+
+Chair next to table look lonely with no other chair.
+
+Pig here too.
+
+>hit chair with pole
+Tap. Tap tap. Chair feel normal.
+
+Pig look up at mark on wall. But Grunk think pig not know what mark mean either.
+
+>ask ig about mark
+Grunk not see that there.
+
+>ask pig about mark
+What that mean, TELL PIG ABOUT MARK ON WALL or ASK PIG ABOUT MARK ON PAPER?
+
+>ask pig about mark on paper
+Pig look at Grunk and sniffle. Then it sniff air. And whine.
+
+[Grunk can try TELL PIG ABOUT FOREST or ASK PIG ABOUT FOOD or TELL PIG ABOUT FARM. And probably other thing too.]
+
+>x mark on paper
+That not make sense after part about look at marks on wall.
+
+>x paper
+Grunk not see that there.
+
+>l
+
+Table Room
+This room look like it maybe for eating or for play cards or for maybe for just sitting and talking. That because there big table and one chair here. There no lamp or thing like that in room, but lots of light come from northeast doorway. Other doorway go east.
+
+There tall metal box over in corner.
+
+Some person make marks on wall here.
+
+Chair next to table look lonely with no other chair.
+
+Pig here too.
+
+>take chair
+OK, got it.
+
+Pig search all around room, like it try finding some thing. Then it go east. Maybe pig find thing there instead.
+
+>e
+
+Gnome Room
+This look like room for little person. It have bed that too little for Grunk. It have trunk that too little for Grunk. It have desk that too little for Grunk. Desk have stool that too little for Grunk. Room have doorway to east and west too, but them not so little. That good, because if doorway too little for Grunk, not know how Grunk get back out of room.
+
+Gnome sit at desk with tool and strange helmet thing.
+
+On top of shelf there ball (that make light).
+
+On top of desk there little box and strange helmet and book.
+
+Pig here too.
+
+Pig see Grunk coming, and it run away to west.
+
+Gnome wave at Grunk.
+
+Gnome put tool back in box. Then put box and helmet back inside desk.
+
+>ask gnome about mark on paper
+Grunk ask gnome about strange mark on paper.
+
+Gnome look confused. “Marks? What kind of mar– Oh!” Gnome laugh. “That’s called writing.”
+
+Gnome flip open book and look inside it. Then him close it up again.
+
+[Grunk can try ASK GNOME ABOUT MATH or ASK GNOME ABOUT THINKING or ASK GNOME ABOUT LIGHTNING or ASK GNOME ABOUT REAGENT or ASK GNOME ABOUT HEROES AND VILLAINS or ASK GNOME ABOUT SCIENCE or ASK GNOME ABOUT NATURE or ASK GNOME ABOUT INVENTION or ASK GNOME ABOUT ALCHEMIST or ASK GNOME HOW LONG GNOME HERE or ASK GNOME ABOUT LIFE or ASK GNOME ABOUT WATER or ASK GNOME ABOUT METAL or ASK GNOME ABOUT MAGIC or TELL GNOME ABOUT GRUNK. And probably other thing too.]
+
+>ask gnome about box
+What that mean, TELL GNOME ABOUT TALL METAL BOX or ASK GNOME ABOUT TOOL BOX?
+
+>tell gnome about tall metal box
+Grunk tell gnome about metal box with lever on side of it.
+
+Gnome say, “Looks like you’ve found the autobaker. It was supposed to a source of extra income for the shrine, but this one was too shoddily built to be profitable.” Gnome shake head. “It was used every day, but there never seemed to be any money in it.”
+
+Gnome open up desk and take out pipe and little bag. Then gnome fill up pipe with brown powder from bag.
+
+[Grunk can try ASK GNOME ABOUT MATH or ASK GNOME ABOUT THINKING or ASK GNOME ABOUT LIGHTNING or ASK GNOME ABOUT REAGENT or ASK GNOME ABOUT HEROES AND VILLAINS or ASK GNOME ABOUT SCIENCE or ASK GNOME ABOUT NATURE or ASK GNOME ABOUT AUTOBAKER or ASK GNOME ABOUT INVENTION or ASK GNOME ABOUT ALCHEMIST or ASK GNOME HOW LONG GNOME HERE or ASK GNOME ABOUT LIFE or ASK GNOME ABOUT WATER or ASK GNOME ABOUT METAL or ASK GNOME ABOUT MAGIC or TELL GNOME ABOUT GRUNK. And probably other thing too.]
+
+>w
+
+Table Room
+This room look like it maybe for eating or for play cards or for maybe for just sitting and talking. That because there big table here. There no lamp or thing like that in room, but lots of light come from northeast doorway. Other doorway go east.
+
+There tall metal box over in corner.
+
+Some person make marks on wall here.
+
+Pig here too.
+
+Pig snort and squeal and make funny sound at Grunk. But Grunk not know what that mean, because Grunk not talk Piglish.
+
+>look under box
+There nothing new under there that Grunk can see.
+
+Pig peek over at metal box too.
+
+>look behind box
+Grunk not see any way that Grunk can open box up, and it too heavy for moving around so Grunk can look behind it.
+
+Pig peek over at metal box too.
+
+>x floor
+Grunk just see ground.
+
+>take all
+pig: Pig see Grunk coming, and it run away to east.
+
+>l
+
+Table Room
+This room look like it maybe for eating or for play cards or for maybe for just sitting and talking. That because there big table here. There no lamp or thing like that in room, but lots of light come from northeast doorway. Other doorway go east.
+
+There tall metal box over in corner.
+
+Some person make marks on wall here.
+
+>e
+
+Gnome Room
+This look like room for little person. It have bed that too little for Grunk. It have trunk that too little for Grunk. It have desk that too little for Grunk. Desk have stool that too little for Grunk. Room have doorway to east and west too, but them not so little. That good, because if doorway too little for Grunk, not know how Grunk get back out of room.
+
+Gnome sit here with pipe in hand.
+
+On top of shelf there ball (that make light).
+
+On top of desk there little bag and book.
+
+Pig here too.
+
+Gnome wave at Grunk.
+
+Gnome turn pipe around and look at it.
+
+>n
+There only doorway to east and west.
+
+Pig yawn.
+
+>e
+Pig watch Grunk go. Then go back to doing pig thing.
+
+Shelf Room
+There lots of shelfs in this room. Them on every wall. This room probably have lots and lots of thing in it before. But shelfs all empty now. Grunk not see any thing there at all. Maybe Grunk see more if Grunk have torch that on fire. But probably not, because lots of light come from northwest doorway. There doorway to west too.
+
+There open stone chest at back of room.
+
+>put pole in powder
+Grunk stick pole in black powder. Then Grunk take pole back and look at it. But pole not look any different. Powder not even stick to pole.
+
+>e
+There only doorway to northwest and west.
+
+>nw
+
+Fountain Room
+All wall in this room glow. It bright, just like day time. Except that instead of sun, it wall that glow. And instead of grass and tree, it square room with four wall. And instead of outside, it all under ground. But beside those thing, it just like it! Tunnel keep going out to east and west, but normal doorway go north and southeast and southwest.
+
+In middle of room, there fountain. But fountain not have any water.
+
+South wall have big curtain hanging on it.
+
+>e
+
+Cave With Stream
+Tunnel come to little cave here, but wide stream block way east. Grunk not see much on other side. Not know if tunnel keep going or stop here. Only light that Grunk see come from bright room, far off to west. But Grunk hear lots of water.
+
+There stone bench next to stream.
+
+>put chair in water
+Grunk stick chair in water. Then Grunk take chair back and look at it. Chair all wet!
+
+>w
+
+Fountain Room
+All wall in this room glow. It bright, just like day time. Except that instead of sun, it wall that glow. And instead of grass and tree, it square room with four wall. And instead of outside, it all under ground. But beside those thing, it just like it! Tunnel keep going out to east and west, but normal doorway go north and southeast and southwest.
+
+In middle of room, there fountain. But fountain not have any water.
+
+South wall have big curtain hanging on it.
+
+>se
+
+Shelf Room
+There lots of shelfs in this room. Them on every wall. This room probably have lots and lots of thing in it before. But shelfs all empty now. Grunk not see any thing there at all. Maybe Grunk see more if Grunk have torch that on fire. But probably not, because lots of light come from northwest doorway. There doorway to west too.
+
+There open stone chest at back of room.
+
+>put chair in powder
+Grunk stick chair in black powder. Chair start smoking and burning. End up all dry, but it not light on fire, so Grunk take it back.
+
+>se
+There only doorway to northwest and west.
+
+>w
+
+Gnome Room
+This look like room for little person. It have bed that too little for Grunk. It have trunk that too little for Grunk. It have desk that too little for Grunk. Desk have stool that too little for Grunk. Room have doorway to east and west too, but them not so little. That good, because if doorway too little for Grunk, not know how Grunk get back out of room.
+
+Gnome sit here with pipe in hand.
+
+On top of shelf there ball (that make light).
+
+On top of desk there little bag and book.
+
+Pig here too.
+
+Gnome blow out long stream of smoke.
+
+>ask gnome about mark on wall
+Grunk ask gnome about orange mark on wall in next room over.
+
+Gnome say, “That bit of vandalism was left by the same band of looters who destroyed most of the chairs that used to be there. It just says, ‘Belkar was here'”.
+
+[Grunk can try ASK GNOME ABOUT MATH or ASK GNOME ABOUT THINKING or ASK GNOME ABOUT LIGHTNING or SHOW CHAIR TO GNOME or ASK GNOME ABOUT REAGENT or ASK GNOME ABOUT HEROES AND VILLAINS or ASK GNOME ABOUT SCIENCE or ASK GNOME ABOUT NATURE or ASK GNOME ABOUT AUTOBAKER or ASK GNOME ABOUT INVENTION or ASK GNOME ABOUT ALCHEMIST or ASK GNOME HOW LONG GNOME HERE or ASK GNOME ABOUT LIFE or ASK GNOME ABOUT WATER or ASK GNOME ABOUT METAL or ASK GNOME ABOUT MAGIC or TELL GNOME ABOUT GRUNK. And probably other thing too.]
+
+>ask about gnome about autobaker
+Grunk not see that there.
+
+>ask gnome about autobaker
+Grunk ask gnome what “autobaker” mean.
+
+Gnome say, “The autobaker is a handy little device that takes all the drudgery and hassle out of cooking food by doing it for you.” Then gnome add, “Of course, nothing in life comes completely free.”
+
+[Grunk can try ASK GNOME ABOUT MATH or ASK GNOME ABOUT THINKING or ASK GNOME ABOUT LIGHTNING or SHOW CHAIR TO GNOME or ASK GNOME ABOUT REAGENT or ASK GNOME ABOUT HEROES AND VILLAINS or ASK GNOME ABOUT SCIENCE or ASK GNOME ABOUT NATURE or ASK GNOME ABOUT INVENTION or ASK GNOME ABOUT ALCHEMIST or ASK GNOME HOW LONG GNOME HERE or ASK GNOME ABOUT LIFE or ASK GNOME ABOUT WATER or ASK GNOME ABOUT METAL or ASK GNOME ABOUT MAGIC or TELL GNOME ABOUT GRUNK. And probably other thing too.]
+
+>e
+
+Shelf Room
+There lots of shelfs in this room. Them on every wall. This room probably have lots and lots of thing in it before. But shelfs all empty now. Grunk not see any thing there at all. Maybe Grunk see more if Grunk have torch that on fire. But probably not, because lots of light come from northwest doorway. There doorway to west too.
+
+There open stone chest at back of room.
+
+Pig come in from west.
+
+>b
+Grunk not know what that mean.
+
+>nw
+
+Fountain Room
+All wall in this room glow. It bright, just like day time. Except that instead of sun, it wall that glow. And instead of grass and tree, it square room with four wall. And instead of outside, it all under ground. But beside those thing, it just like it! Tunnel keep going out to east and west, but normal doorway go north and southeast and southwest.
+
+In middle of room, there fountain. But fountain not have any water.
+
+South wall have big curtain hanging on it.
+
+>e
+
+Cave With Stream
+Tunnel come to little cave here, but wide stream block way east. Grunk not see much on other side. Not know if tunnel keep going or stop here. Only light that Grunk see come from bright room, far off to west. But Grunk hear lots of water.
+
+There stone bench next to stream.
+
+>put pole in water
+Grunk stick pole in water. Then Grunk take pole back and look at it. But pole not look any different.
+
+>w
+
+Fountain Room
+All wall in this room glow. It bright, just like day time. Except that instead of sun, it wall that glow. And instead of grass and tree, it square room with four wall. And instead of outside, it all under ground. But beside those thing, it just like it! Tunnel keep going out to east and west, but normal doorway go north and southeast and southwest.
+
+In middle of room, there fountain. But fountain not have any water.
+
+South wall have big curtain hanging on it.
+
+>put pole in powder
+Grunk not see that there.
+
+>se
+
+Shelf Room
+There lots of shelfs in this room. Them on every wall. This room probably have lots and lots of thing in it before. But shelfs all empty now. Grunk not see any thing there at all. Maybe Grunk see more if Grunk have torch that on fire. But probably not, because lots of light come from northwest doorway. There doorway to west too.
+
+There open stone chest at back of room.
+
+Pig here too.
+
+>put pole in powder
+Grunk stick pole in black powder. Then Grunk take pole back and look at it. But pole not look any different. Powder not even stick to pole.
+
+Pig look through west doorway.
+
+>e
+There only doorway to northwest and west.
+
+>nw
+Pig look happy that Grunk going away.
+
+Fountain Room
+All wall in this room glow. It bright, just like day time. Except that instead of sun, it wall that glow. And instead of grass and tree, it square room with four wall. And instead of outside, it all under ground. But beside those thing, it just like it! Tunnel keep going out to east and west, but normal doorway go north and southeast and southwest.
+
+In middle of room, there fountain. But fountain not have any water.
+
+South wall have big curtain hanging on it.
+
+>takecurtain
+Grunk not know what that mean.
+
+>take curtain
+Grunk try pulling curtain down, but it stuck to wall.
+
+>take fountain
+That not thing that Grunk can carry around.
+
+>l
+
+Fountain Room
+All wall in this room glow. It bright, just like day time. Except that instead of sun, it wall that glow. And instead of grass and tree, it square room with four wall. And instead of outside, it all under ground. But beside those thing, it just like it! Tunnel keep going out to east and west, but normal doorway go north and southeast and southwest.
+
+In middle of room, there fountain. But fountain not have any water.
+
+South wall have big curtain hanging on it.
+
+>n
+
+Statue Room
+This room have two big picture that face each other. West wall have picture on it and and east wall have different picture on it. Grunk think both picture really just part of wall, though. South wall have doorway in it that lots of light come from and north wall not have anything in it at all.
+
+Statue of little man stand here, up on big stone block.
+
+>x statue
+Statue look like little man with round nose and big ear and moustache. Grunk think funny little man maybe called “gnome”. Wear funny suit and pointy shoe and little round hat. One hand point north, at wall. Other hand up in air.
+
+Gnome stand on big stone block. Maybe block for making gnome look tall. It true that statue look more big than real gnome, but Grunk think that just because it statue. Maybe all thing look more big when it like rock.
+
+>x block
+Big square stone. There bunch of little mark on one side, but Grunk not know what mark mean.
+
+>x mark
+Big square stone. There bunch of little mark on one side, but Grunk not know what mark mean.
+
+>
+Huh?
+
+>take all
+There not any here!
+
+>i
+Grunk have:
+  chair (black and sooty)
+  key
+  pole
+  torch (black and sooty)
+  pants (Grunk wearing them)
+
+>rub torch on pole
+(pole in picture)
+Grunk rub torch all over picture on east wall. Now picture on east wall all black and sooty too.
+
+>rub torch on green pole
+Grunk rub torch all over pole. Now pole all black and sooty too.
+
+>w
+Grunk only see way to go back south from here.
+
+>s
+
+Fountain Room
+All wall in this room glow. It bright, just like day time. Except that instead of sun, it wall that glow. And instead of grass and tree, it square room with four wall. And instead of outside, it all under ground. But beside those thing, it just like it! Tunnel keep going out to east and west, but normal doorway go north and southeast and southwest.
+
+In middle of room, there fountain. But fountain not have any water.
+
+South wall have big curtain hanging on it.
+
+>w
+
+Hole
+Grunk at bottom of deep, dark hole. It even smell like deep, dark hole. There some light that come from tunnel to east; that how Grunk see where Grunk at. Look like there maybe stairs at west side of hole that go up to outside, but them all broken now. There big crack in ground near stairs, too.
+
+>put pole in crack
+Grunk stick pole down into crack and poke around. Pole reach bottom, but if anything hiding down there, Grunk not find it.
+
+>x stairs
+That where Grunk fall down into hole. Stair go up pretty high. Made of rock, but rock all falling apart, so stair not much good for climbing anymore.
+
+Look like some person leave little metal thing on step.
+
+>take metal thing
+OK, got it.
+
+>x metal thing
+What that mean, tube or key?
+
+>x tube
+Look like little metal tube, size of Grunk thumb.
+
+>e
+
+Fountain Room
+All wall in this room glow. It bright, just like day time. Except that instead of sun, it wall that glow. And instead of grass and tree, it square room with four wall. And instead of outside, it all under ground. But beside those thing, it just like it! Tunnel keep going out to east and west, but normal doorway go north and southeast and southwest.
+
+In middle of room, there fountain. But fountain not have any water.
+
+South wall have big curtain hanging on it.
+
+>put tube in squirty thing
+That not make sense after part about put tube in squirty part.
+
+>put tube in squirty part
+That not for putting stuff in.
+
+>put tube in fountain
+OK, Grunk put tube into fountain bowl.
+
+>take tube
+OK, got it.
+
+>x tube
+Look like little metal tube, size of Grunk thumb.
+
+>x fountain
+Old stone fountain with big bowl part and other squirty part in middle and lots of little bit that stick out all over. Grunk think it meant to look pretty. Squirty part not work, though, so there no water in it.
+
+>e
+
+Cave With Stream
+Tunnel come to little cave here, but wide stream block way east. Grunk not see much on other side. Not know if tunnel keep going or stop here. Only light that Grunk see come from bright room, far off to west. But Grunk hear lots of water.
+
+There stone bench next to stream.
+
+>get water with tube
+Tube too small for holding much water. And it open at both end anyway.
+
+>e
+Jump over stream seem dangerous. It long jump, and Grunk never try swimming before.
+
+>try swimming
+Grunk not know what that mean.
+
+>x stream
+Stream full of water. Look like it maybe deep. Water go fast, from north to south. But somehow it not run out.
+
+>w
+
+Fountain Room
+All wall in this room glow. It bright, just like day time. Except that instead of sun, it wall that glow. And instead of grass and tree, it square room with four wall. And instead of outside, it all under ground. But beside those thing, it just like it! Tunnel keep going out to east and west, but normal doorway go north and southeast and southwest.
+
+In middle of room, there fountain. But fountain not have any water.
+
+South wall have big curtain hanging on it.
+
+>s
+Tunnel go east and west, and there doorway to north and southeast and southwest.
+
+>sw
+
+Table Room
+This room look like it maybe for eating or for play cards or for maybe for just sitting and talking. That because there big table here. There no lamp or thing like that in room, but lots of light come from northeast doorway. Other doorway go east.
+
+There tall metal box over in corner.
+
+Some person make marks on wall here.
+
+>e
+
+Gnome Room
+This look like room for little person. It have bed that too little for Grunk. It have trunk that too little for Grunk. It have desk that too little for Grunk. Desk have stool that too little for Grunk. Room have doorway to east and west too, but them not so little. That good, because if doorway too little for Grunk, not know how Grunk get back out of room.
+
+Gnome sit at desk with tool and strange helmet thing.
+
+On top of shelf there ball (that make light).
+
+On top of desk there little box and strange helmet and book.
+
+>ask gnome about tube
+Grunk ask gnome about little metal tube thing.
+
+Gnome peer at tube. “Look at that, a whistle! I wonder where it came from. Probably dropped by one of the looters.”
+
+Gnome put tool back in box. Then put box and helmet back inside desk.
+
+[Grunk can try ASK GNOME ABOUT MATH or ASK GNOME ABOUT THINKING or ASK GNOME ABOUT LIGHTNING or SHOW CHAIR TO GNOME or ASK GNOME ABOUT REAGENT or ASK GNOME ABOUT HEROES AND VILLAINS or ASK GNOME ABOUT SCIENCE or ASK GNOME ABOUT NATURE or ASK GNOME ABOUT INVENTION or ASK GNOME ABOUT ALCHEMIST or ASK GNOME HOW LONG GNOME HERE or ASK GNOME ABOUT LIFE or ASK GNOME ABOUT WATER or ASK GNOME ABOUT METAL or ASK GNOME ABOUT MAGIC or TELL GNOME ABOUT GRUNK. And probably other thing too.]
+
+>blow whistle
+Tweeeeeeeeeeee!
+
+Gnome wince.
+
+>find pig
+
+Shelf Room
+There lots of shelfs in this room. Them on every wall. This room probably have lots and lots of thing in it before. But shelfs all empty now. Grunk not see any thing there at all. Maybe Grunk see more if Grunk have torch that on fire. But probably not, because lots of light come from northwest doorway. There doorway to west too.
+
+There open stone chest at back of room.
+
+Pig here too.
+
+>blow whistle
+Tweeeeeeeeeeee!
+
+Pig jump up in air! Then pig spin around and glare at Grunk.
+
+>blow whistle
+Tweeeeeeeeeeee!
+
+Pig glare at Grunk.
+
+>blow whistle
+Tweeeeeeeeeeee!
+
+Pig glare at Grunk.
+
+>l
+
+Shelf Room
+There lots of shelfs in this room. Them on every wall. This room probably have lots and lots of thing in it before. But shelfs all empty now. Grunk not see any thing there at all. Maybe Grunk see more if Grunk have torch that on fire. But probably not, because lots of light come from northwest doorway. There doorway to west too.
+
+There open stone chest at back of room.
+
+Pig here too.
+
+>x shelf
+Lots of metal shelfs, all hooked to wall. Grunk not see anything on those shelfs. But Grunk not see up on top shelf, because that one too high up.
+
+>w
+Pig watch Grunk go. Then go back to doing pig thing.
+
+Gnome Room
+This look like room for little person. It have bed that too little for Grunk. It have trunk that too little for Grunk. It have desk that too little for Grunk. Desk have stool that too little for Grunk. Room have doorway to east and west too, but them not so little. That good, because if doorway too little for Grunk, not know how Grunk get back out of room.
+
+Gnome sit here with pipe in hand.
+
+On top of shelf there ball (that make light).
+
+On top of desk there little bag and book.
+
+Gnome say, “Welcome back.”
+
+Gnome draw little picture in air with finger. Picture that only gnome see.
+
+>ask gnome about statue
+Grunk ask gnome about statue.
+
+Gnome say, “The statue at the north end of the shrine is of the alchemist this place was built for. It’s not a bad likeness, if you ask me. Except for that silly hat.”
+
+[Grunk can try ASK GNOME ABOUT MATH or ASK GNOME ABOUT THINKING or ASK GNOME ABOUT LIGHTNING or SHOW CHAIR TO GNOME or ASK GNOME ABOUT HAT ON STATUE or ASK GNOME ABOUT REAGENT or ASK GNOME ABOUT HEROES AND VILLAINS or ASK GNOME ABOUT SCIENCE or ASK GNOME ABOUT NATURE or ASK GNOME ABOUT INVENTION or ASK GNOME ABOUT ALCHEMIST or ASK GNOME HOW LONG GNOME HERE or ASK GNOME ABOUT LIFE or ASK GNOME ABOUT WATER or ASK GNOME ABOUT METAL or ASK GNOME ABOUT MAGIC or TELL GNOME ABOUT GRUNK. And probably other thing too.]
+
+>ask gnome about hat
+Grunk ask gnome about hat that statue wear.
+
+Gnome say, “It wasn’t part of the original design. I think someone added it at some point, although I can’t fathom why.”
+
+[Grunk can try ASK GNOME ABOUT MATH or ASK GNOME ABOUT THINKING or ASK GNOME ABOUT LIGHTNING or SHOW CHAIR TO GNOME or ASK GNOME ABOUT REAGENT or ASK GNOME ABOUT HEROES AND VILLAINS or ASK GNOME ABOUT SCIENCE or ASK GNOME ABOUT NATURE or ASK GNOME ABOUT INVENTION or ASK GNOME ABOUT ALCHEMIST or ASK GNOME HOW LONG GNOME HERE or ASK GNOME ABOUT LIFE or ASK GNOME ABOUT WATER or ASK GNOME ABOUT METAL or ASK GNOME ABOUT MAGIC or TELL GNOME ABOUT GRUNK. And probably other thing too.]
+
+>w
+
+Table Room
+This room look like it maybe for eating or for play cards or for maybe for just sitting and talking. That because there big table here. There no lamp or thing like that in room, but lots of light come from northeast doorway. Other doorway go east.
+
+There tall metal box over in corner.
+
+Some person make marks on wall here.
+
+>n
+There only doorway to northeast and east.
+
+>ne
+
+Fountain Room
+All wall in this room glow. It bright, just like day time. Except that instead of sun, it wall that glow. And instead of grass and tree, it square room with four wall. And instead of outside, it all under ground. But beside those thing, it just like it! Tunnel keep going out to east and west, but normal doorway go north and southeast and southwest.
+
+In middle of room, there fountain. But fountain not have any water.
+
+South wall have big curtain hanging on it.
+
+Pig here too.
+
+>n
+
+Statue Room
+This room have two big picture that face each other. West wall have picture on it and and east wall have different picture on it. Grunk think both picture really just part of wall, though. South wall have doorway in it that lots of light come from and north wall not have anything in it at all.
+
+Statue of little man stand here, up on big stone block.
+
+>take hat
+Hat come right off! Grunk guess it not really part of statue after all.
+
+>x hat
+Look just like normal round little hat, but made of rock. Not that Grunk see many little round hat before. And it not really look that little now that it not on statue anymore.
+
+>s
+
+Fountain Room
+All wall in this room glow. It bright, just like day time. Except that instead of sun, it wall that glow. And instead of grass and tree, it square room with four wall. And instead of outside, it all under ground. But beside those thing, it just like it! Tunnel keep going out to east and west, but normal doorway go north and southeast and southwest.
+
+In middle of room, there fountain. But fountain not have any water.
+
+South wall have big curtain hanging on it.
+
+Pig here too.
+
+Pig blink and squint at bright wall.
+
+>e
+Pig watch Grunk go. Then go back to doing pig thing.
+
+Cave With Stream
+Tunnel come to little cave here, but wide stream block way east. Grunk not see much on other side. Not know if tunnel keep going or stop here. Only light that Grunk see come from bright room, far off to west. But Grunk hear lots of water.
+
+There stone bench next to stream.
+
+>put water in hat
+Grunk fill up hat with water.
+
+>w
+
+Fountain Room
+All wall in this room glow. It bright, just like day time. Except that instead of sun, it wall that glow. And instead of grass and tree, it square room with four wall. And instead of outside, it all under ground. But beside those thing, it just like it! Tunnel keep going out to east and west, but normal doorway go north and southeast and southwest.
+
+In middle of room, there fountain. But fountain not have any water.
+
+South wall have big curtain hanging on it.
+
+Pig here too.
+
+>se
+
+Shelf Room
+There lots of shelfs in this room. Them on every wall. This room probably have lots and lots of thing in it before. But shelfs all empty now. Grunk not see any thing there at all. Maybe Grunk see more if Grunk have torch that on fire. But probably not, because lots of light come from northwest doorway. There doorway to west too.
+
+There open stone chest at back of room.
+
+>pour water into powder
+Grunk pour out water into chest. When water touch powder, it make fire! Now black powder on fire!
+
+>light torch
+(with black powder)
+Grunk set torch on fire. Mmm. Grunk like fire.
+
+>w
+
+Gnome Room
+This look like room for little person. It have bed that too little for Grunk. It have trunk that too little for Grunk. It have desk that too little for Grunk. Desk have stool that too little for Grunk. Room have doorway to east and west too, but them not so little. That good, because if doorway too little for Grunk, not know how Grunk get back out of room.
+
+Gnome sit here with pipe in hand.
+
+On top of shelf there ball (that make light).
+
+On top of desk there little bag and book.
+
+Gnome smile at Grunk.
+
+>w
+Gnome wave to Grunk. “See you around.”
+
+Table Room
+This room look like it maybe for eating or for play cards or for maybe for just sitting and talking. That because there big table here. Doorway go to northeast and to east. Some person make big marks on wall in this room.
+
+There tall metal box over in corner.
+
+Some person make marks on wall here.
+
+>x crack
+Grunk not see that there.
+
+>ne
+
+Fountain Room
+All wall in this room glow. It bright, just like day time. Except that instead of sun, it wall that glow. And instead of grass and tree, it square room with four wall. And instead of outside, it all under ground. But beside those thing, it just like it! Tunnel keep going out to east and west, but normal doorway go north and southeast and southwest.
+
+In middle of room, there fountain. But fountain not have any water.
+
+South wall have big curtain hanging on it.
+
+Pig here too.
+
+Pig see Grunk come in. But pig ignore Grunk.
+
+>w
+Pig watch Grunk walk away. Pig not follow.
+
+Hole
+Grunk at bottom of deep hole. But hole not so dark, now. There stairway that go up at west side, but that broken. Ground by stair broken too: there big crack in it. Crack not so dark now too. At east side of hole, there tunnel that go east. Tunnel not like stair and ground, because it not broken. But it not dark either.
+
+>look crack
+Grunk not see that there.
+
+>x crack
+Crack wide as Grunk fist, at least at top. Inside, it pretty deep. Grunk see that there piece of paper way down inside.
+
+>x paper
+It white and it paper. That all Grunk can see from here.
+
+>get paper with pole
+Grunk stick pole into crack and poke paper with black end of it. Paper stick to end of pole! Grunk pull it back and take paper.
+
+>w
+Grunk try climbing up broken stairs, but that too hard when Grunk carry stuff too.
+
+>x paper
+It white with little mark all over both side.
+
+>se
+Tunnel and stairs only place that Grunk can go here. Tunnel go east; stairs go up.
+
+>e
+
+Fountain Room
+All wall in this room glow. It bright, just like day time. Except that instead of sun, it wall that glow. And instead of grass and tree, it square room with four wall. And instead of outside, it all under ground. But beside those thing, it just like it! Tunnel keep going out to east and west, but normal doorway go north and southeast and southwest.
+
+In middle of room, there fountain. But fountain not have any water.
+
+South wall have big curtain hanging on it.
+
+Pig here too.
+
+Pig not see Grunk come in. Or maybe it just pretend it not see.
+
+>se
+Pig see Grunk leave. But not seem to care much.
+
+Shelf Room
+There lots of shelfs in this room. Them on every wall. This room probably have lots and lots of thing in it before. But shelfs all empty now. Grunk not see any thing there at all. Doorway to northwest go back to bright room. Other doorway go west.
+
+There open stone chest at back of room.
+
+>w
+
+Gnome Room
+This look like room for little person. It have bed that too little for Grunk. It have trunk that too little for Grunk. It have desk that too little for Grunk. Desk have stool that too little for Grunk. Room have doorway to east and west too, but them not so little. That good, because if doorway too little for Grunk, not know how Grunk get back out of room.
+
+Gnome sit here with pipe in hand.
+
+On top of shelf there ball (that make light).
+
+On top of desk there book.
+
+Gnome say, “I figured you’d be back.
+
+Gnome put bag on desk. Then gnome spit in pipe. Grunk see smoke come out of it.
+
+>give paper to gnome
+Gnome put away other thing that him working on.
+
+Gnome take paper and look at it.
+
+“Hmm,” him say. “This looks like a set of equations. If I don’t miss my guess, this is from Mogglev’s Shocking Forces.” Him set paper on desk, then look at Grunk again. “Probably from my own copy of it.”
+
+>ask gnome about points
+Grunk not know what Grunk should say about that.
+
+>i
+Grunk have:
+  hat
+  whistle
+  chair (black and sooty)
+  key
+  pole (black and sooty)
+  torch (on fire)
+  pants (Grunk wearing them)
+
+Gnome open cover of book. Then turn over page until him find right spot. “Ah, right there!” him say. “That’s where the page was cut out from.”
+
+Gnome open up desk and take out little pot of goo. Then him smear goo on one edge of page and stick page into book. Then him close book tight and put pot away.
+
+“There… just a moment for it to set, and–” Gnome open book, smiling. “Perfect! Thank you, Grunk. You’ve been a tremendous help. I only hope that I can return the favor.”
+
+[Grunk score go up one.]
+
+>ask gnome about ball
+Grunk ask gnome about glowing blue ball on shelf.
+
+Gnome look up at shelf. Then him pick up ball.
+
+“That orb is a good example of mossfuressence,” him say, “Just like the glowing walls in the main shrine. I had it equipped with magic words for turning it on and off.”
+
+Gnome show ball to Grunk. It all blue and glowy. Then him put it back on shelf.
+
+Gnome open up book and start reading.
+
+[Grunk can try ASK GNOME ABOUT MATH or ASK GNOME ABOUT THINKING or ASK GNOME ABOUT LIGHTNING or SHOW CHAIR TO GNOME or ASK GNOME ABOUT REAGENT or ASK GNOME ABOUT HEROES AND VILLAINS or ASK GNOME ABOUT SCIENCE or ASK GNOME ABOUT NATURE or ASK GNOME ABOUT INVENTION or ASK GNOME ABOUT ALCHEMIST or ASK GNOME HOW LONG GNOME HERE or ASK GNOME ABOUT LIFE or ASK GNOME ABOUT WATER or ASK GNOME ABOUT METAL or ASK GNOME ABOUT MAGIC or TELL GNOME ABOUT GRUNK. And probably other thing too.]
+
+>ask gnome about faovr
+Grunk not know what Grunk should say about that.
+
+>ask gnome about favor
+Grunk not know what Grunk should say about that.
+
+>take all
+gnome: Gnome growl, “You may be bigger than me, but that doesn’t give you the right to push me around.”
+
+Gnome flip over page and keep reading.
+
+>ask gnome about coin
+Grunk ask gnome about money.
+
+Gnome say, “I used to have a lot of it, myself. But I had little use for it down here.”
+
+Gnome point to spot in book. “Aha.”
+
+[Grunk can try ASK GNOME ABOUT MATH or ASK GNOME ABOUT THINKING or ASK GNOME ABOUT LIGHTNING or SHOW CHAIR TO GNOME or ASK GNOME ABOUT REAGENT or ASK GNOME ABOUT HEROES AND VILLAINS or ASK GNOME ABOUT SCIENCE or ASK GNOME ABOUT NATURE or ASK GNOME ABOUT INVENTION or ASK GNOME ABOUT ALCHEMIST or ASK GNOME HOW LONG GNOME HERE or ASK GNOME ABOUT LIFE or ASK GNOME ABOUT WATER or ASK GNOME ABOUT METAL or ASK GNOME ABOUT MAGIC or TELL GNOME ABOUT GRUNK. And probably other thing too.]
+
+>wait
+OK. Grunk good at waiting.
+
+>ask gnome about book
+Grunk ask gnome about “Mogglev” book.
+
+Gnome say, “Birrabee Mogglev sem Alua dec Prestim was one of the finest alchemists of his generation. His Shocking Force is considered the definitive text on the force of lightning to this day.” Then him smile. “Thanks for returning it to me, Grunk. It’s invaluable for the latest project I’m working on.”
+
+[Grunk can try ASK GNOME ABOUT MATH or ASK GNOME ABOUT THINKING or ASK GNOME ABOUT NEXT PROJECT or ASK GNOME ABOUT LIGHTNING or SHOW CHAIR TO GNOME or ASK GNOME ABOUT REAGENT or ASK GNOME ABOUT HEROES AND VILLAINS or ASK GNOME ABOUT SCIENCE or ASK GNOME ABOUT NATURE or ASK GNOME ABOUT INVENTION or ASK GNOME ABOUT ALCHEMIST or ASK GNOME HOW LONG GNOME HERE or ASK GNOME ABOUT LIFE or ASK GNOME ABOUT WATER or ASK GNOME ABOUT METAL or ASK GNOME ABOUT MAGIC or TELL GNOME ABOUT GRUNK. And probably other thing too.]
+
+>ask gnome about invention
+Grunk ask gnome about alchemist invention.
+
+“Oh, he had a few new ideas, I suppose.” Gnome look up at wall. Grunk think that mean him thinking. Or maybe him see word on wall. “There was dehydrated fire. The autobaker.” Gnome add, “And of course, there’s his work on the principles of thermomechanics.”
+
+Gnome flip over page and keep reading.
+
+[Grunk can try ASK GNOME ABOUT MATH or ASK GNOME ABOUT THINKING or ASK GNOME ABOUT NEXT PROJECT or ASK GNOME ABOUT LIGHTNING or SHOW CHAIR TO GNOME or ASK GNOME ABOUT REAGENT or ASK GNOME ABOUT HEROES AND VILLAINS or ASK GNOME ABOUT SCIENCE or ASK GNOME ABOUT NATURE or ASK GNOME ABOUT ALCHEMIST or ASK GNOME HOW LONG GNOME HERE or ASK GNOME ABOUT LIFE or ASK GNOME ABOUT WATER or ASK GNOME ABOUT METAL or ASK GNOME ABOUT MAGIC or TELL GNOME ABOUT GRUNK. And probably other thing too.]
+
+>t thermomechanics
+Grunk ask gnome about thermo-something.
+
+Gnome say, “Thermomechanics are the principles of deriving motion from heat.”
+
+[Grunk can try ASK GNOME ABOUT MATH or ASK GNOME ABOUT THINKING or ASK GNOME ABOUT NEXT PROJECT or ASK GNOME ABOUT LIGHTNING or SHOW CHAIR TO GNOME or ASK GNOME ABOUT HEAT or ASK GNOME ABOUT REAGENT or ASK GNOME ABOUT HEROES AND VILLAINS or ASK GNOME ABOUT SCIENCE or ASK GNOME ABOUT NATURE or ASK GNOME ABOUT ALCHEMIST or ASK GNOME HOW LONG GNOME HERE or ASK GNOME ABOUT LIFE or ASK GNOME ABOUT WATER or ASK GNOME ABOUT METAL or ASK GNOME ABOUT MAGIC or TELL GNOME ABOUT GRUNK. And probably other thing too.]
+
+>e
+
+Shelf Room
+There lots of shelfs in this room. Them on every wall. This room probably have lots and lots of thing in it before. But shelfs all empty now. Grunk not see any thing there at all. Doorway to northwest go back to bright room. Other doorway go west.
+
+There open stone chest at back of room.
+
+>nw
+
+Fountain Room
+All wall in this room glow. It bright, just like day time. Except that instead of sun, it wall that glow. And instead of grass and tree, it square room with four wall. And instead of outside, it all under ground. But beside those thing, it just like it! Tunnel keep going out to east and west, but normal doorway go north and southeast and southwest.
+
+In middle of room, there fountain. But fountain not have any water.
+
+South wall have big curtain hanging on it.
+
+>x fountain bowl
+Fountain bowl really big. Too big for fruit or for gruel or for soup. That lot of soup. Mmm, soup.
+
+Hey, there coin inside fountain bowl! Grunk keep coin, because coin handy thing.
+
+[Grunk score go up one.]
+
+>se
+
+Shelf Room
+There lots of shelfs in this room. Them on every wall. This room probably have lots and lots of thing in it before. But shelfs all empty now. Grunk not see any thing there at all. Doorway to northwest go back to bright room. Other doorway go west.
+
+There open stone chest at back of room.
+
+>w
+
+Gnome Room
+This look like room for little person. It have bed that too little for Grunk. It have trunk that too little for Grunk. It have desk that too little for Grunk. Desk have stool that too little for Grunk. Room have doorway to east and west too, but them not so little. That good, because if doorway too little for Grunk, not know how Grunk get back out of room.
+
+Gnome here looking at book.
+
+On top of shelf there ball (that make light).
+
+On top of desk there book.
+
+>w
+
+Table Room
+This room look like it maybe for eating or for play cards or for maybe for just sitting and talking. That because there big table here. Doorway go to northeast and to east. Some person make big marks on wall in this room.
+
+There tall metal box over in corner.
+
+Some person make marks on wall here.
+
+>score
+Grunk have 4 out of 7 so far.
+
+>put coin in metal box
+Clink! Coin gone inside box now.
+
+>pull lever
+KA-CHUNK! Thunk! Brick fall out of box into basket.
+
+>take brick
+Brick feel more soft than normal brick. Little bit sticky too.
+
+>x brick
+Brick light brown and not too big. There lots of little colored thing stuck in it all over.
+
+>e
+
+Gnome Room
+This look like room for little person. It have bed that too little for Grunk. It have trunk that too little for Grunk. It have desk that too little for Grunk. Desk have stool that too little for Grunk. Room have doorway to east and west too, but them not so little. That good, because if doorway too little for Grunk, not know how Grunk get back out of room.
+
+Gnome here looking at book.
+
+On top of shelf there ball (that make light).
+
+On top of desk there book.
+
+>t brick
+Grunk tell gnome all about this brick that Grunk find.
+
+“Well!” say gnome, “Just like mother used to make. Those things are surprisingly addictive.” Gnome point finger at Grunk. “It’s hard to stop at just one.”
+
+[Grunk can try ASK GNOME ABOUT MATH or ASK GNOME ABOUT THINKING or ASK GNOME ABOUT NEXT PROJECT or ASK GNOME ABOUT LIGHTNING or SHOW CHAIR TO GNOME or ASK GNOME ABOUT HEAT or ASK GNOME ABOUT REAGENT or ASK GNOME ABOUT HEROES AND VILLAINS or ASK GNOME ABOUT SCIENCE or ASK GNOME ABOUT NATURE or ASK GNOME ABOUT ALCHEMIST or ASK GNOME HOW LONG GNOME HERE or ASK GNOME ABOUT LIFE or ASK GNOME ABOUT WATER or ASK GNOME ABOUT METAL or ASK GNOME ABOUT MAGIC or TELL GNOME ABOUT GRUNK. And probably other thing too.]
+
+>find pig
+
+Fountain Room
+All wall in this room glow. It bright, just like day time. Except that instead of sun, it wall that glow. And instead of grass and tree, it square room with four wall. And instead of outside, it all under ground. But beside those thing, it just like it! Tunnel keep going out to east and west, but normal doorway go north and southeast and southwest.
+
+In middle of room, there fountain. But fountain not have any water.
+
+South wall have big curtain hanging on it.
+
+Pig here too.
+
+Pig look surprised that it see Grunk here.
+
+>offer brick to pig
+Pig back away slow. Look like it maybe want brick, but still not want get close to Grunk.
+
+>e
+Pig see Grunk leave. But not seem to care much.
+
+Cave With Stream
+Tunnel from west end at little cave here. Wide stream block way to east, but that OK, because there just wall on other side, not more tunnel. Wall with pretty picture on it. Stream pretty too. Make pretty sound. This nice place.
+
+There stone bench next to stream.
+
+>put water in hat
+Grunk fill up hat with water.
+
+>w
+
+Fountain Room
+All wall in this room glow. It bright, just like day time. Except that instead of sun, it wall that glow. And instead of grass and tree, it square room with four wall. And instead of outside, it all under ground. But beside those thing, it just like it! Tunnel keep going out to east and west, but normal doorway go north and southeast and southwest.
+
+In middle of room, there fountain. But fountain not have any water.
+
+South wall have big curtain hanging on it.
+
+Pig here too.
+
+Pig not see Grunk come in. Or maybe it just pretend it not see.
+
+>put water in fountain
+Grunk pour out water into fountain. Yay, fountain how have water in it! But then water all go down drain. Too bad.
+
+>
+Huh?
+
+>blow whistle
+Tweeeeeeeeeeee!
+
+Pig glare at Grunk.
+
+>e
+
+Cave With Stream
+Tunnel from west end at little cave here. Wide stream block way to east, but that OK, because there just wall on other side, not more tunnel. Wall with pretty picture on it. Stream pretty too. Make pretty sound. This nice place.
+
+There stone bench next to stream.
+
+>x stream
+Stream full of water. Look like it maybe deep. Water go fast, from north to south. But somehow it not run out.
+
+>w
+
+Fountain Room
+All wall in this room glow. It bright, just like day time. Except that instead of sun, it wall that glow. And instead of grass and tree, it square room with four wall. And instead of outside, it all under ground. But beside those thing, it just like it! Tunnel keep going out to east and west, but normal doorway go north and southeast and southwest.
+
+In middle of room, there fountain. But fountain not have any water.
+
+South wall have big curtain hanging on it.
+
+Pig here too.
+
+Pig watch Grunk come in. Pig grunt at Grunk. Then it go back to what it doing before.
+
+>x drain
+Drain just part of bowl where water go away when fountain fill up.
+
+Pig sit there and watch Grunk.
+
+>drop brick
+Dropped.
+
+Pig look at brick on ground. Then pig look at Grunk. Then pig look at brick again.
+
+>wait
+OK. Grunk good at waiting.
+
+Pig walk over to brick and sniff at brick.
+
+>wait
+OK. Grunk good at waiting.
+
+Pig take little bite of brick. Then pig take bigger bite. Soon, brick half gone. Pig still watching Grunk, though.
+
+>take brick
+OK, got it.
+
+Pig look surprised that brick all gone. It probably hope there more there.
+
+Now that it gone, pig stare at Grunk instead. Maybe that not enough food for pig.
+
+>take pig
+Grunk look away from pig. Then walk sideways at pig. Grunk hope that pig get confused, think Grunk going other way. But when Grunk get to pig, pig already someplace else!
+
+>w
+
+Hole
+Grunk at bottom of deep hole. But hole not so dark, now. There stairway that go up at west side, but that broken. Ground by stair broken too: there big crack in it. Crack not so dark now too. At east side of hole, there tunnel that go east. Tunnel not like stair and ground, because it not broken. But it not dark either.
+
+>i
+Grunk have:
+  half brick
+  hat
+  whistle
+  chair (black and sooty)
+  key
+  pole (black and sooty)
+  torch (on fire)
+  pants (Grunk wearing them)
+
+>break brick
+WHAM! Grunk crush half brick into tiny bits! Tiny bits go all over and Grunk lose track of them. Oh well.
+
+>undo
+Hole
+[OK, Grunk undo that.]
+
+>split brick
+Grunk not know what that mean.
+
+>e
+
+Fountain Room
+All wall in this room glow. It bright, just like day time. Except that instead of sun, it wall that glow. And instead of grass and tree, it square room with four wall. And instead of outside, it all under ground. But beside those thing, it just like it! Tunnel keep going out to east and west, but normal doorway go north and southeast and southwest.
+
+In middle of room, there fountain. But fountain not have any water.
+
+South wall have big curtain hanging on it.
+
+Pig here too.
+
+Pig look inside fountain, but pig not find any water.
+
+>se
+Pig so busy with important pig thing that pig not even see Grunk go.
+
+Shelf Room
+There lots of shelfs in this room. Them on every wall. This room probably have lots and lots of thing in it before. But shelfs all empty now. Grunk not see any thing there at all. Doorway to northwest go back to bright room. Other doorway go west.
+
+There open stone chest at back of room.
+
+>w
+
+Gnome Room
+This look like room for little person. It have bed that too little for Grunk. It have trunk that too little for Grunk. It have desk that too little for Grunk. Desk have stool that too little for Grunk. Room have doorway to east and west too, but them not so little. That good, because if doorway too little for Grunk, not know how Grunk get back out of room.
+
+Gnome here looking at book.
+
+On top of shelf there ball (that make light).
+
+On top of desk there book.
+
+>w
+
+Table Room
+This room look like it maybe for eating or for play cards or for maybe for just sitting and talking. That because there big table here. Doorway go to northeast and to east. Some person make big marks on wall in this room.
+
+There tall metal box over in corner.
+
+Some person make marks on wall here.
+
+>hit box
+WHAM! Clink! Coin fall out of box into basket.
+
+>take coin
+OK, got it.
+
+>put coin into box
+Clink! Coin gone inside box now.
+
+>pull lever
+KA-CHUNK! Thunk! Brick fall out of box into basket.
+
+>take brick
+(brick)
+OK, got it.
+
+>i
+Grunk have:
+  brick
+  half brick
+  hat
+  whistle
+  chair (black and sooty)
+  key
+  pole (black and sooty)
+  torch (on fire)
+  pants (Grunk wearing them)
+
+>hit box
+BAM! Clink! Coin fall out of box into basket.
+
+>take coin
+OK, got it.
+
+>put coin in box
+Clink! Coin gone inside box now.
+
+Grunk remember what happen next!
+
+KA-CHUNK! Thunk! Brick fall out of box into basket.
+
+WHAM! Clink! Coin fall out of box into basket.
+
+>take brick
+(brick)
+OK, got it.
+
+>i
+Grunk have:
+  two brick
+  half brick
+  hat
+  whistle
+  chair (black and sooty)
+  key
+  pole (black and sooty)
+  torch (on fire)
+  pants (Grunk wearing them)
+
+>hit box
+BAM! That fun! Not really do much, though.
+
+Click.
+
+>take coint
+Grunk not see that there.
+
+>take coin
+OK, got it.
+
+>hit box
+WHAM! That fun! Not really do much, though.
+
+Click.
+
+>put coin into box
+Clink! Coin gone inside box now.
+
+Grunk remember what happen next!
+
+KA-CHUNK! Thunk! Brick fall out of box into basket.
+
+BAM! Clink! Coin fall out of box into basket.
+
+>hit box
+BAM! That fun! Not really do much, though.
+
+Click.
+
+>take coin
+OK, got it.
+
+>eat brick
+What that mean, whole brick or half brick?
+
+>eat half brick
+Yum! Brick taste sweet and crumbly and chewy and fruity. Not bad. Munch munch. All gone!
+
+Tasty. But kinda small.
+
+>find pig
+
+Shelf Room
+There lots of shelfs in this room. Them on every wall. This room probably have lots and lots of thing in it before. But shelfs all empty now. Grunk not see any thing there at all. Doorway to northwest go back to bright room. Other doorway go west.
+
+There open stone chest at back of room.
+
+Pig here too.
+
+>drop brick
+Dropped.
+
+Pig look at brick on ground. Then pig look at Grunk. Then pig look at brick again.
+
+>w
+
+Gnome Room
+This look like room for little person. It have bed that too little for Grunk. It have trunk that too little for Grunk. It have desk that too little for Grunk. Desk have stool that too little for Grunk. Room have doorway to east and west too, but them not so little. That good, because if doorway too little for Grunk, not know how Grunk get back out of room.
+
+Gnome here looking at book.
+
+On top of shelf there ball (that make light).
+
+On top of desk there book.
+
+Gnome not look up when Grunk come in.
+
+>e
+
+Shelf Room
+There lots of shelfs in this room. Them on every wall. This room probably have lots and lots of thing in it before. But shelfs all empty now. Grunk not see any thing there at all. Doorway to northwest go back to bright room. Other doorway go west.
+
+There open stone chest at back of room.
+
+Pig here too.
+
+Grunk see brick here too.
+
+Pig see Grunk coming, and it run away to northwest.
+
+>undo
+Gnome Room
+[OK, Grunk undo that.]
+
+>undo
+Shelf Room
+[OK, Grunk undo that.]
+
+Pig walk backward.
+
+>z
+OK. Grunk good at waiting.
+
+Pig walk over to brick and sniff at brick.
+
+>z
+OK. Grunk good at waiting.
+
+Pig take little bite of brick. Then pig take bigger bite. Soon, brick half gone. Pig still watching Grunk, though.
+
+>z
+OK. Grunk good at waiting.
+
+Pig keep munching at half brick on ground. Pig still half watching Grunk, but pig watching brick more. Soon it all gone.
+
+Pig look around for more tasty brick. How much brick this pig want?
+
+>drop brick
+Dropped.
+
+Pig look happy with brick. Eat and eat and eat. It not even notice Grunk at all anymore.
+
+>get pig
+Grunk sneak up behind pig. It so busy eating, it not even see Grunk. Grunk stay really quiet, then grab pig real quick! Pig squeal and wiggle, but it too late. Grunk win, pig lose! After little bit, pig figure that out too and stop fighting.
+
+[Grunk score go up one.]
+
+>x pig
+Pig pink and chubby. Look tasty. Pig maybe smart, but Grunk catch pig. So that mean Grunk more smart.
+
+Pig look back at Grunk.
+
+>i
+Grunk have:
+  pig (not happy)
+  coin
+  hat
+  whistle
+  chair (black and sooty)
+  key
+  pole (black and sooty)
+  torch (on fire)
+  pants (Grunk wearing them)
+
+Grunk pants fall down!
+
+Pig laugh. Grunk wonder if pig make it happen somehow. Sneaky pig.
+
+>pull up pants
+That not make sense after part about pull up above.
+
+>l
+
+Shelf Room
+There lots of shelfs in this room. Them on every wall. This room probably have lots and lots of thing in it before. But shelfs all empty now. Grunk not see any thing there at all. Doorway to northwest go back to bright room. Other doorway go west.
+
+There open stone chest at back of room.
+
+Grunk see pants and half brick here too.
+
+Pig try jumping onto shelf, but Grunk hold on tight.
+
+>w
+
+Gnome Room
+This look like room for little person. It have bed that too little for Grunk. It have trunk that too little for Grunk. It have desk that too little for Grunk. Desk have stool that too little for Grunk. Room have doorway to east and west too, but them not so little. That good, because if doorway too little for Grunk, not know how Grunk get back out of room.
+
+Gnome here looking at book.
+
+On top of shelf there ball (that make light).
+
+On top of desk there book.
+
+>t pig
+Grunk not know who Grunk talking to.
+
+>ask gnome about pig
+Grunk tell gnome all about how pig get away from farm and then Grunk look for pig and Grunk find pig and then Grunk figure out how Grunk can catch pig again and then Grunk do it and now Grunk have pig. Gnome smile. “That was a pretty clever solution there, Grunk. I knew you were smarter than a pig.”
+
+Hear that, pig? Grunk smart one here. Oh yeah.
+
+[Grunk can try ASK GNOME ABOUT MATH or ASK GNOME ABOUT THINKING or ASK GNOME ABOUT NEXT PROJECT or ASK GNOME ABOUT LIGHTNING or SHOW CHAIR TO GNOME or ASK GNOME ABOUT HEAT or ASK GNOME ABOUT REAGENT or ASK GNOME ABOUT HEROES AND VILLAINS or ASK GNOME ABOUT SCIENCE or ASK GNOME ABOUT NATURE or ASK GNOME ABOUT ALCHEMIST or ASK GNOME HOW LONG GNOME HERE or ASK GNOME ABOUT LIFE or ASK GNOME ABOUT WATER or ASK GNOME ABOUT METAL or ASK GNOME ABOUT MAGIC or TELL GNOME ABOUT GRUNK. And probably other thing too.]
+
+>t leaving
+Grunk not know what Grunk should say about that.
+
+>t stairs
+Grunk tell gnome about how Grunk fall down stair.
+
+Gnome say, “You may remember a few months ago, when the ground around here shook for several hours.”
+
+Gnome right! Grunk remember that.
+
+“I believe it was due to a careless mage testing some new spell for manipulating earth. Fortunately for me, this shrine was only at the very edge of its range, or else the ceiling above us might have suffered the same fate as that stairway.”
+
+[Grunk can try ASK GNOME ABOUT MATH or ASK GNOME ABOUT THINKING or ASK GNOME ABOUT NEXT PROJECT or ASK GNOME ABOUT LIGHTNING or SHOW CHAIR TO GNOME or ASK GNOME ABOUT HEAT or ASK GNOME ABOUT REAGENT or ASK GNOME ABOUT HEROES AND VILLAINS or ASK GNOME ABOUT SCIENCE or ASK GNOME ABOUT NATURE or ASK GNOME ABOUT ALCHEMIST or ASK GNOME HOW LONG GNOME HERE or ASK GNOME ABOUT LIFE or ASK GNOME ABOUT WATER or ASK GNOME ABOUT METAL or ASK GNOME ABOUT MAGIC or TELL GNOME ABOUT GRUNK. And probably other thing too.]
+
+>t outside
+Grunk tell gnome about big forest that outside this place.
+
+Gnome smile at Grunk. “Yes, I know it well. There was once a time when it was all forest around this area. There were no farms here then, and this place was constructed underground so as not to disturb the trees.”
+
+Pig try lean over and peek at ball on shelf.
+
+[Grunk can try ASK GNOME ABOUT MATH or ASK GNOME ABOUT THINKING or ASK GNOME ABOUT NEXT PROJECT or ASK GNOME ABOUT LIGHTNING or SHOW CHAIR TO GNOME or ASK GNOME ABOUT HEAT or ASK GNOME ABOUT REAGENT or ASK GNOME ABOUT HEROES AND VILLAINS or ASK GNOME ABOUT SCIENCE or ASK GNOME ABOUT NATURE or ASK GNOME ABOUT ALCHEMIST or ASK GNOME HOW LONG GNOME HERE or ASK GNOME ABOUT LIFE or ASK GNOME ABOUT WATER or ASK GNOME ABOUT METAL or ASK GNOME ABOUT MAGIC or TELL GNOME ABOUT GRUNK. And probably other thing too.]
+
+>take ball
+Gnome nod. “Sure, that’s a fair exchange for the book.” Him reach for ball, but then him stop. “But if I give you this,” gnome say, “What will I do for light? The book is no good to me if I can’t read it.”
+
+Gnome sit back. Then him say, “Tell you what. You give me something to replace it, and I’ll give you the orb.”
+
+Pig make rude noise.
+
+Gnome ask, “Does it have to do that in here?”
+
+>give torch
+(to gnome)
+Gnome take torch.
+
+Gnome say, “This will do quite nicely.” Then him put torch on shelf and take down orb.
+
+Gnome give orb to Grunk. Gnome say, “Good luck, Grunk. I hope you find your way back home.”
+
+>x orb
+Ball glow bright blue. It size of Grunk fist and very round.
+
+>t stream
+Grunk tell gnome about cave with stream.
+
+Gnome say, “It’s pretty convenient, having a source of fresh water so close by.” Him smile. “And sometimes it’s nice just to sit and listen to it.”
+
+Pig sniff Grunk.
+
+[Grunk can try ASK GNOME ABOUT MATH or ASK GNOME ABOUT THINKING or ASK GNOME ABOUT NEXT PROJECT or ASK GNOME ABOUT LIGHTNING or SHOW CHAIR TO GNOME or ASK GNOME ABOUT HEAT or ASK GNOME ABOUT REAGENT or ASK GNOME ABOUT HEROES AND VILLAINS or ASK GNOME ABOUT SCIENCE or ASK GNOME ABOUT NATURE or ASK GNOME ABOUT ALCHEMIST or ASK GNOME HOW LONG GNOME HERE or ASK GNOME ABOUT LIFE or ASK GNOME ABOUT WATER or ASK GNOME ABOUT METAL or ASK GNOME ABOUT MAGIC or TELL GNOME ABOUT GRUNK. And probably other thing too.]
+
+>e
+Gnome not even look when Grunk go.
+
+Shelf Room
+There lots of shelfs in this room. Them on every wall. This room probably have lots and lots of thing in it before. But shelfs all empty now. Grunk not see any thing there at all. Doorway to northwest go back to bright room. Other doorway go west.
+
+There open stone chest at back of room.
+
+Grunk see pants and half brick here too.
+
+>get pants
+OK, got them.
+
+>wear pants
+OK, Grunk put on pants.
+
+>nw
+
+Fountain Room
+All wall in this room glow. It bright, just like day time. Except that instead of sun, it wall that glow. And instead of grass and tree, it square room with four wall. And instead of outside, it all under ground. But beside those thing, it just like it! Tunnel keep going out to east and west, but normal doorway go north and southeast and southwest.
+
+In middle of room, there fountain. But fountain not have any water.
+
+South wall have big curtain hanging on it.
+
+>e
+
+Cave With Stream
+Tunnel from west end at little cave here. Wide stream block way to east, but that OK, because there just wall on other side, not more tunnel. Wall with pretty picture on it. Stream pretty too. Make pretty sound. This nice place.
+
+There stone bench next to stream.
+
+Pig look relaxed. Maybe it like noise of stream.
+
+>listen
+Stream make gurgling noise. Sound almost like person far away talking to Grunk. But Grunk know it not really.
+
+Pig listen too. Not know what pig hear, though.
+
+>sit bench
+Grunk confused. Not understand that at all.
+
+>l
+
+Cave With Stream
+Tunnel from west end at little cave here. Wide stream block way to east, but that OK, because there just wall on other side, not more tunnel. Wall with pretty picture on it. Stream pretty too. Make pretty sound. This nice place.
+
+There stone bench next to stream.
+
+>x wall
+There big orange circle on wall, with two dot inside near top and bent line inside near bottom. Grunk maybe not know art, but know what Grunk like.
+
+>blow whistle
+Tweeeeeeeeeeee!
+
+Squeeeeeeeeeee!
+
+>x picture
+There big orange circle on wall, with two dot inside near top and bent line inside near bottom. Grunk maybe not know art, but know what Grunk like.
+
+Pig try climbing into chair, but not quite make it.
+
+>sit
+(on top of bench)
+Grunk get on bench.
+
+>get up
+Grunk get off bench.
+
+Cave With Stream
+Tunnel from west end at little cave here. Wide stream block way to east, but that OK, because there just wall on other side, not more tunnel. Wall with pretty picture on it. Stream pretty too. Make pretty sound. This nice place.
+
+There stone bench next to stream.
+
+Pig reach over to ball. Then pig lick it. Huh. Weird pig.
+
+>poke picture with pole
+That not make sense after part about poke pretty picture.
+
+>rub orb on pole
+Grunk not think ball do much for pole.
+
+Pig lean over and look into water.
+
+>x water
+Water look see-through, like air. But it more wet.
+
+>fill hat
+(with water)
+Grunk fill up hat with water.
+
+>lick ball
+Ball more big than Grunk mouth, but Grunk still try.
+
+Yum! Ball taste just like sour candy! Munch munch crunch. All gone now.
+
+Hey, now Grunk glow in dark!
+
+>x self
+Grunk orc. Big and green and glowing and wearing pants.
+
+Pig try getting comfy, but it not look easy when pig under Grunk arm.
+
+>sit bench
+Grunk confused. Not understand that at all.
+
+>sit
+(on top of bench)
+Grunk get on bench.
+
+Pig make funny noise at Grunk. Grunk think maybe pig asking what Grunk do next. But Grunk not sure. Grunk not know Piglish.
+
+>w
+Grunk not go anywhere while still on bench.
+
+>n
+Grunk not go anywhere while still on bench.
+
+Pig stick tongue out at Grunk.
+
+>stand
+Grunk get off bench.
+
+Cave With Stream
+Tunnel from west end at little cave here. Wide stream block way to east, but that OK, because there just wall on other side, not more tunnel. Wall with pretty picture on it. Stream pretty too. Make pretty sound. This nice place.
+
+There stone bench next to stream.
+
+>w
+
+Fountain Room
+All wall in this room glow. It bright, just like day time. Except that instead of sun, it wall that glow. And instead of grass and tree, it square room with four wall. And instead of outside, it all under ground. But beside those thing, it just like it! Tunnel keep going out to east and west, but normal doorway go north and southeast and southwest.
+
+In middle of room, there fountain. But fountain not have any water.
+
+South wall have big curtain hanging on it.
+
+Pig stare up at Grunk.
+
+>n
+
+Statue Room
+This room have two big picture that face each other. West wall have picture on it and and east wall have different picture on it. Grunk think both picture really just part of wall, though. South wall have doorway in it and north wall not have anything in it.
+
+Statue of little man stand here, up on big stone block.
+
+Pig make funny noise at Grunk. Grunk think maybe pig asking what Grunk do next. But Grunk not sure. Grunk not know Piglish.
+
+>l west picture
+That not make sense after part about look west.
+
+>x west picture
+Picture have big pile of black powder. Powder all on fire. Picture have bucket of water, too. Bucket pouring water onto fire. Grunk guess that water for making fire go out.
+
+>x east picture
+Picture have long purple pole that go from side to side. All around pole, there different yellow thing that float in air, like gold and tabby cat and sparkly rock and lots of other thing too. Under that, there picture of pie. Mmm, pie.
+
+Part of picture on east wall look all black and sooty now.
+
+Pig sniff at key.
+
+>x north
+(north wall)
+There no picture on north wall.
+
+Pig sniff Grunk ear.
+
+>x pole
+(pole in picture)
+Pole long and purple. Just like green pole, but not green. It purple. And it have yellow thing that float around it.
+
+>i
+Grunk have:
+  pants (Grunk wearing them)
+  pig (not happy)
+  coin
+  hat (full of water)
+  whistle
+  chair (black and sooty)
+  key
+  pole (black and sooty)
+
+>x yellow thing
+There lots of yellow thing in picture. Them all look very yellow.
+
+Pig try climbing into chair, but not quite make it.
+
+>l
+
+Statue Room
+This room have two big picture that face each other. West wall have picture on it and and east wall have different picture on it. Grunk think both picture really just part of wall, though. South wall have doorway in it and north wall not have anything in it.
+
+Statue of little man stand here, up on big stone block.
+
+>sit chair
+Grunk confused. Not understand that at all.
+
+>blow whistle
+Tweeeeeeeeeeee!
+
+Squeeeeeeeeeee!
+
+>x whistle
+Look like little metal tube, size of Grunk thumb.
+
+>blow whistle
+Tweeeeeeeeeeee!
+
+Squeeeeeeeeeee!
+
+>w
+Grunk only see way to go back south from here.
+
+>s
+
+Fountain Room
+All wall in this room glow. It bright, just like day time. Except that instead of sun, it wall that glow. And instead of grass and tree, it square room with four wall. And instead of outside, it all under ground. But beside those thing, it just like it! Tunnel keep going out to east and west, but normal doorway go north and southeast and southwest.
+
+In middle of room, there fountain. But fountain not have any water.
+
+South wall have big curtain hanging on it.
+
+>se
+
+Shelf Room
+There lots of shelfs in this room. Them on every wall. This room probably have lots and lots of thing in it before. But shelfs all empty now. Grunk not see any thing there at all. Doorway to northwest go back to bright room. Other doorway go west.
+
+There open stone chest at back of room.
+
+Grunk see half brick here too.
+
+>w
+
+Gnome Room
+This look like room for little person. It have bed that too little for Grunk. It have trunk that too little for Grunk. It have desk that too little for Grunk. Desk have stool that too little for Grunk. Room have doorway to east and west too, but them not so little. That good, because if doorway too little for Grunk, not know how Grunk get back out of room.
+
+Gnome here looking at book.
+
+On top of shelf there torch (on fire).
+
+On top of desk there book.
+
+Pig try climbing into chair, but not quite make it.
+
+Gnome look over. Then him stare at Grunk. Then him shake head and mutter, “I just hope you have a strong digestive tract.”
+
+>blow whistle
+Tweeeeeeeeeeee!
+
+Squeeeeeeeeeee!
+
+Gnome wince.
+
+>blow whistle
+Tweeeeeeeeeeee!
+
+Squeeeeeeeeeee!
+
+Gnome wince.
+
+>blow whistle
+Tweeeeeeeeeeee!
+
+Squeeeeeeeeeee!
+
+Gnome wince.
+
+>e
+Gnome not even look when Grunk go.
+
+Shelf Room
+There lots of shelfs in this room. Them on every wall. This room probably have lots and lots of thing in it before. But shelfs all empty now. Grunk not see any thing there at all. Doorway to northwest go back to bright room. Other doorway go west.
+
+There open stone chest at back of room.
+
+Grunk see half brick here too.
+
+Pig try jumping onto shelf, but Grunk hold on tight.
+
+>n
+There only doorway to northwest and west.
+
+>nw
+
+Fountain Room
+All wall in this room glow. It bright, just like day time. Except that instead of sun, it wall that glow. And instead of grass and tree, it square room with four wall. And instead of outside, it all under ground. But beside those thing, it just like it! Tunnel keep going out to east and west, but normal doorway go north and southeast and southwest.
+
+In middle of room, there fountain. But fountain not have any water.
+
+South wall have big curtain hanging on it.
+
+>e
+
+Cave With Stream
+Tunnel from west end at little cave here. Wide stream block way to east, but that OK, because there just wall on other side, not more tunnel. Wall with pretty picture on it. Stream pretty too. Make pretty sound. This nice place.
+
+There stone bench next to stream.
+
+Pig look relaxed. Maybe it like noise of stream.
+
+>sit
+(on top of bench)
+Grunk get on bench.
+
+>listen
+Grunk sit on bench and listen to stream. Gurgle gurgle.
+
+>blow whistle
+Tweeeeeeeeeeee!
+
+Squeeeeeeeeeee!
+
+>l
+
+Cave With Stream (on top of bench)
+Tunnel from west end at little cave here. Wide stream block way to east, but that OK, because there just wall on other side, not more tunnel. Wall with pretty picture on it. Stream pretty too. Make pretty sound. This nice place.
+
+>l picture
+Grunk not see that there.
+
+>x picture
+There big orange circle on wall, with two dot inside near top and bent line inside near bottom. Grunk maybe not know art, but know what Grunk like.
+
+>throwup orb
+Grunk not know what that mean.
+
+>vomit
+Grunk not know what that mean.
+
+>l
+
+Cave With Stream (on top of bench)
+Tunnel from west end at little cave here. Wide stream block way to east, but that OK, because there just wall on other side, not more tunnel. Wall with pretty picture on it. Stream pretty too. Make pretty sound. This nice place.
+
+Pig lean over and look into water.
+
+>e
+Grunk not go anywhere while still on bench.
+
+Grunk pants fall down!
+
+Pig laugh. Grunk wonder if pig make it happen somehow. Sneaky pig.
+
+>east
+Grunk not go anywhere while still on bench.
+
+Pig sniff pole. Pole stick to pig nose! Hee hee.
+
+Pig shake head until pole get unstuck.
+
+>help
+
+This is a story by Grunk. It’s about something that happened to him before he joined the army. We’re not quite sure how much of it is true, and how much is just a product of his imagination. We suspect Grunk may not be sure either.
+
+It should be impossible to get the story into an unwinnable state. It is possible to end it prematurely, but you should always be able to safely UNDO.
+
+Lost Pig was written as an entry for the 2007 Interactive Fiction Competition.
+
+[SPACE.]
+
+Conversation in this game is topic-based. You can ASK, TELL, or TALK TO characters about different things Grunk has seen or heard about during the course of the story. For your typing convenience, any of these three commands can be shortened to T <TOPIC>, provided Grunk knows whom he should be addressing his concerns to at the moment.
+
+When you’re returning to a place you’ve visited before, you can use the GO TO command to attempt to go there directly. Likewise, this can also be used to locate characters who are currently in places you’re already familiar with.
+
+[SPACE.]
+
+Everyone has their own preferences, but sometimes it can be more fun and more satisfying to solve a puzzle on your own without outside help. Are you sure you want to look at the hints right now?
+
+[SPACE.]
+
+[11 hints left]-> There must be some back door. But it’s apparently well-hidden.
+[10 hints left]->
+
+Cave With Stream (on top of bench)
+Tunnel from west end at little cave here. Wide stream block way to east, but that OK, because there just wall on other side, not more tunnel. Wall with pretty picture on it. Stream pretty too. Make pretty sound. This nice place.
+
+On top of bench, Grunk see pants.
+
+>w
+Grunk not go anywhere while still on bench.
+
+>n
+Grunk not go anywhere while still on bench.
+
+>stand
+Grunk get off bench.
+
+Cave With Stream
+Tunnel from west end at little cave here. Wide stream block way to east, but that OK, because there just wall on other side, not more tunnel. Wall with pretty picture on it. Stream pretty too. Make pretty sound. This nice place.
+
+There stone bench next to stream.
+
+On top of bench there pants.
+
+>w
+
+Fountain Room
+All wall in this room glow. It bright, just like day time. Except that instead of sun, it wall that glow. And instead of grass and tree, it square room with four wall. And instead of outside, it all under ground. But beside those thing, it just like it! Tunnel keep going out to east and west, but normal doorway go north and southeast and southwest.
+
+In middle of room, there fountain. But fountain not have any water.
+
+South wall have big curtain hanging on it.
+
+Pig lap at water in hat.
+
+>n
+
+Statue Room
+This room have two big picture that face each other. West wall have picture on it and and east wall have different picture on it. Grunk think both picture really just part of wall, though. South wall have doorway in it and north wall not have anything in it.
+
+Statue of little man stand here, up on big stone block.
+
+>x north wall
+There no picture on north wall.
+
+>touch n wall
+That not make sense after part about touch north.
+
+>touch wall
+What that mean, picture on west wall or picture on east wall or north wall or south wall?
+
+>touch north wall
+That feel just like north wall.
+
+Pig huff and puff at whistle. But pig not get close enough to it.
+
+>blow whistle
+Tweeeeeeeeeeee!
+
+Squeeeeeeeeeee!
+
+>give whistle to pig
+Pig turn away. Guess it not want whistle.
+
+>l
+
+Statue Room
+This room have two big picture that face each other. West wall have picture on it and and east wall have different picture on it. Grunk think both picture really just part of wall, though. South wall have doorway in it and north wall not have anything in it.
+
+Statue of little man stand here, up on big stone block.
+
+>s
+
+Fountain Room
+All wall in this room glow. It bright, just like day time. Except that instead of sun, it wall that glow. And instead of grass and tree, it square room with four wall. And instead of outside, it all under ground. But beside those thing, it just like it! Tunnel keep going out to east and west, but normal doorway go north and southeast and southwest.
+
+In middle of room, there fountain. But fountain not have any water.
+
+South wall have big curtain hanging on it.
+
+>x curtain
+Look like big rug, but it on wall instead of floor, so that make it curtain instead. Curtain have big picture of little man on it. Grunk think little man maybe called “gnome”. Him holding burning torch in dark cave. Point at way out of cave.
+
+>look behind curtain
+Grunk push back curtain and peek behind it. Wall back there glow too!
+
+Pig peek over at curtain too.
+
+>touch wall
+Them feel just like glowing wall.
+
+>get pabts
+Grunk not see that there.
+
+>get pants
+Grunk not see that there.
+
+>e
+
+Cave With Stream
+Tunnel from west end at little cave here. Wide stream block way to east, but that OK, because there just wall on other side, not more tunnel. Wall with pretty picture on it. Stream pretty too. Make pretty sound. This nice place.
+
+There stone bench next to stream.
+
+On top of bench there pants.
+
+Pig shove coin out of Grunk hand. Coin fall on ground and roll away.
+
+Coin land with picture of person head on top side.
+
+>get pants
+OK, got them.
+
+Pig look relaxed. Maybe it like noise of stream.
+
+>get coin
+OK, got it.
+
+Pig point nose at bench. Then look at Grunk.
+
+>x person
+Grunk not see that there.
+
+>wash pants
+(with water)
+Pants not that dirty.
+
+Pig lap at water in hat.
+
+>x coin
+Coin little and shiny, like moon. It look old, but it still mostly shiny grey.
+
+>get water
+What that mean, water in stream or water in hat?
+
+>x hat
+Look just like normal round little hat, but made of rock. Not that Grunk see many little round hat before. And it not really look that little now that it not on statue anymore. Right now, hat full of water.
+
+>e
+Jump over stream seem dangerous. It long jump, and Grunk never try swimming before.
+
+>w
+
+Fountain Room
+All wall in this room glow. It bright, just like day time. Except that instead of sun, it wall that glow. And instead of grass and tree, it square room with four wall. And instead of outside, it all under ground. But beside those thing, it just like it! Tunnel keep going out to east and west, but normal doorway go north and southeast and southwest.
+
+In middle of room, there fountain. But fountain not have any water.
+
+South wall have big curtain hanging on it.
+
+>se
+
+Shelf Room
+There lots of shelfs in this room. Them on every wall. This room probably have lots and lots of thing in it before. But shelfs all empty now. Grunk not see any thing there at all. Doorway to northwest go back to bright room. Other doorway go west.
+
+There open stone chest at back of room.
+
+Grunk see half brick here too.
+
+>x chest
+Chest mean wide box with lid. This one too big to carry. Chest full of black powder.
+
+Pig peek over at chest too.
+
+>put pants in powder
+Grunk stick pants in black powder. Then Grunk take pants back and look at them. But pants not look any different. Powder not even stick to pants.
+
+>rub chair on pants
+Grunk rub chair all over pants. Now pants all black and sooty too.
+
+Pig stare down at ground.
+
+>l
+
+Shelf Room
+There lots of shelfs in this room. Them on every wall. This room probably have lots and lots of thing in it before. But shelfs all empty now. Grunk not see any thing there at all. Doorway to northwest go back to bright room. Other doorway go west.
+
+There open stone chest at back of room.
+
+Grunk see half brick here too.
+
+Pig sniff pole. Pole stick to pig nose! Hee hee.
+
+Pig shake head until pole get unstuck.
+
+>i
+Grunk have:
+  coin
+  pants (black and sooty)
+  pig (not happy)
+  hat (full of water)
+  whistle
+  chair (black and sooty)
+  key
+  pole (black and sooty)
+
+Pig try jumping onto shelf, but Grunk hold on tight.
+
+>put pants on pig
+Now that just silly. Pig not wear pants. Pants only have two leg, but pig have four! Grunk need special pig pants.
+
+>use pole on pants
+Grunk not know what that mean.
+
+>touch pants with pole
+Feel like black end of pole pushing away from black part of pants.
+
+>rub chair on self
+But then Grunk get all sooty too!
+
+>touch pole
+ Green end of pole feel like it pushing Grunk away, but not black end.
+
+Pig lap at water in hat.
+
+>l
+
+Shelf Room
+There lots of shelfs in this room. Them on every wall. This room probably have lots and lots of thing in it before. But shelfs all empty now. Grunk not see any thing there at all. Doorway to northwest go back to bright room. Other doorway go west.
+
+There open stone chest at back of room.
+
+Grunk see half brick here too.
+
+>w
+
+Gnome Room
+This look like room for little person. It have bed that too little for Grunk. It have trunk that too little for Grunk. It have desk that too little for Grunk. Desk have stool that too little for Grunk. Room have doorway to east and west too, but them not so little. That good, because if doorway too little for Grunk, not know how Grunk get back out of room.
+
+Gnome here looking at book.
+
+On top of shelf there torch (on fire).
+
+On top of desk there book.
+
+>x desk
+Little gnome size desk made of wood. Look like it get used lots.
+
+>ask gnome about secret door
+Grunk ask gnome if there any good secret around here that maybe help Grunk.
+
+Gnome grin. “Why Grunk, whatever could you mean?”
+
+[Grunk can try ASK GNOME ABOUT MATH or ASK GNOME ABOUT THINKING or ASK GNOME ABOUT NEXT PROJECT or ASK GNOME ABOUT LIGHTNING or SHOW CHAIR TO GNOME or ASK GNOME ABOUT HEAT or ASK GNOME ABOUT REAGENT or ASK GNOME ABOUT HEROES AND VILLAINS or ASK GNOME ABOUT SCIENCE or ASK GNOME ABOUT NATURE or ASK GNOME ABOUT ALCHEMIST or ASK GNOME HOW LONG GNOME HERE or ASK GNOME ABOUT LIFE or SHOW WATER TO GNOME or ASK GNOME ABOUT METAL or ASK GNOME ABOUT MAGIC or TELL GNOME ABOUT GRUNK. And probably other thing too.]
+
+>ask gnome about secret word
+Grunk not know what Grunk should say about that.
+
+>ask gnome about magic word
+Grunk ask gnome about magic word.
+
+Gnome say, “Magic words usually serve to activate some already prepared magical effects in the local area, such as teleportation. They can be quite useful, and I admit I’ve used them myself — but only as a trigger for alchemy, of course.”
+
+[Grunk can try ASK GNOME ABOUT MATH or ASK GNOME ABOUT THINKING or ASK GNOME ABOUT NEXT PROJECT or ASK GNOME ABOUT LIGHTNING or SHOW CHAIR TO GNOME or ASK GNOME ABOUT HEAT or ASK GNOME ABOUT REAGENT or ASK GNOME ABOUT HEROES AND VILLAINS or ASK GNOME ABOUT SCIENCE or ASK GNOME ABOUT NATURE or ASK GNOME ABOUT ALCHEMIST or ASK GNOME HOW LONG GNOME HERE or ASK GNOME ABOUT LIFE or SHOW WATER TO GNOME or ASK GNOME ABOUT METAL or ASK GNOME ABOUT MAGIC or TELL GNOME ABOUT GRUNK. And probably other thing too.]
+
+>tell gnome about grunk
+Grunk tell gnome all about Grunk and about farm and about boss and about pig.
+
+“Mmm,” gnome say. “I see. That’s quite the formidable quest you’re on there. But I’m sure you’re up to it.”
+
+Pig squeal loud!
+
+Gnome put finger up to mouth. “Shh,” him say to pig, “I’m reading.”
+
+Pig squeal quiet.
+
+[Grunk can try ASK GNOME ABOUT MATH or ASK GNOME ABOUT THINKING or ASK GNOME ABOUT NEXT PROJECT or ASK GNOME ABOUT LIGHTNING or SHOW CHAIR TO GNOME or ASK GNOME ABOUT HEAT or ASK GNOME ABOUT REAGENT or ASK GNOME ABOUT HEROES AND VILLAINS or ASK GNOME ABOUT SCIENCE or ASK GNOME ABOUT NATURE or ASK GNOME ABOUT ALCHEMIST or ASK GNOME HOW LONG GNOME HERE or ASK GNOME ABOUT LIFE or SHOW WATER TO GNOME or ASK GNOME ABOUT METAL or ASK GNOME ABOUT MAGIC or TELL GNOME ABOUT FARM. And probably other thing too.]
+
+>ask gnome about mark on statue
+Grunk tell gnome about mark on block
+
+Gnome say, “It’s an inscription. I believe it says something along the lines of… `Zugilbor Galrogginpots sem Endali dec Frebensalbibit: inventor, alchemist, and scientist.”
+
+Pig nose around inside Grunk pants.
+
+It good thing Grunk not wearing them right now!
+
+[Grunk can try ASK GNOME ABOUT MATH or ASK GNOME ABOUT THINKING or ASK GNOME ABOUT NEXT PROJECT or ASK GNOME ABOUT LIGHTNING or SHOW CHAIR TO GNOME or ASK GNOME ABOUT HEAT or ASK GNOME ABOUT REAGENT or ASK GNOME ABOUT HEROES AND VILLAINS or ASK GNOME ABOUT SCIENCE or ASK GNOME ABOUT NATURE or ASK GNOME ABOUT ZUGILBOR or ASK GNOME ABOUT ALCHEMIST or ASK GNOME HOW LONG GNOME HERE or ASK GNOME ABOUT LIFE or SHOW WATER TO GNOME or ASK GNOME ABOUT METAL or ASK GNOME ABOUT MAGIC or TELL GNOME ABOUT FARM. And probably other thing too.]
+
+>ask gnome about face
+Grunk not know what Grunk should say about that.
+
+>t picture
+What that mean, TELL GNOME ABOUT PRETTY PICTURE BY STREAM or TELL GNOME ABOUT PICTURE NEAR STATUE?
+
+>t pretty picture
+Grunk tell gnome about pretty picture on wall near stream.
+
+Gnome scowl. “Infernal looters,” him say. “One man’s vandalism is apparently another orc’s art.”
+
+Pig sniff at key.
+
+[Grunk can try ASK GNOME ABOUT MATH or ASK GNOME ABOUT THINKING or ASK GNOME ABOUT NEXT PROJECT or ASK GNOME ABOUT ART or ASK GNOME ABOUT LIGHTNING or SHOW CHAIR TO GNOME or ASK GNOME ABOUT HEAT or ASK GNOME ABOUT REAGENT or ASK GNOME ABOUT HEROES AND VILLAINS or ASK GNOME ABOUT SCIENCE or ASK GNOME ABOUT NATURE or ASK GNOME ABOUT ZUGILBOR or ASK GNOME ABOUT ALCHEMIST or ASK GNOME HOW LONG GNOME HERE or ASK GNOME ABOUT LIFE or SHOW WATER TO GNOME or ASK GNOME ABOUT METAL or ASK GNOME ABOUT MAGIC or TELL GNOME ABOUT FARM. And probably other thing too.]
+
+>t magic
+Grunk ask gnome about magic.
+
+Gnome say, “I suppose magic has its purposes, but I’ve always found alchemy to be much more practical.”
+
+[Grunk can try ASK GNOME ABOUT MATH or ASK GNOME ABOUT THINKING or ASK GNOME ABOUT NEXT PROJECT or ASK GNOME ABOUT ART or ASK GNOME ABOUT LIGHTNING or SHOW CHAIR TO GNOME or ASK GNOME ABOUT HEAT or ASK GNOME ABOUT REAGENT or ASK GNOME ABOUT HEROES AND VILLAINS or ASK GNOME ABOUT SCIENCE or ASK GNOME ABOUT NATURE or ASK GNOME ABOUT ZUGILBOR or ASK GNOME ABOUT ALCHEMIST or ASK GNOME HOW LONG GNOME HERE or ASK GNOME ABOUT LIFE or SHOW WATER TO GNOME or ASK GNOME ABOUT METAL or TELL GNOME ABOUT FARM. And probably other thing too.]
+
+>t zugilbor
+Grunk ask gnome about Zugulibur.
+
+Gnome sigh. “One day, they’re building statues in your honor. The next, no one even remembers your name.”
+
+Gnome look at Grunk and pig. “You look awfully silly walking around with a pig under your arm,” gnome say. “I just thought you should know that.”
+
+[Grunk can try ASK GNOME ABOUT MATH or ASK GNOME ABOUT THINKING or ASK GNOME ABOUT NEXT PROJECT or ASK GNOME ABOUT ART or ASK GNOME ABOUT LIGHTNING or SHOW CHAIR TO GNOME or ASK GNOME ABOUT HEAT or ASK GNOME ABOUT REAGENT or ASK GNOME ABOUT HEROES AND VILLAINS or ASK GNOME ABOUT SCIENCE or ASK GNOME ABOUT NATURE or ASK GNOME ABOUT ALCHEMIST or ASK GNOME HOW LONG GNOME HERE or ASK GNOME ABOUT LIFE or SHOW WATER TO GNOME or ASK GNOME ABOUT METAL or TELL GNOME ABOUT FARM. And probably other thing too.]
+
+>ask gnome about cap
+Grunk ask gnome about strange helmet thing.
+
+Gnome say, “I’ve been working on harnessing the fluid nature of lightning to build a machine that’s capable of doing what no purely mechanical device has been able to do.”
+
+Then him pause. Maybe hoping Grunk ask what. So Grunk ask what.
+
+Gnome say, “I’m creating a device that is actually able to augment nothing less than thought itself!”
+
+Then him pause again. Grunk not know what gnome hoping Grunk ask now, so Grunk just wait.
+
+After gnome and Grunk both wait for little bit, gnome say. “It’s a big ambition. My first model is only able to perform simple arithmetic. But the next one I’m designing should be able to handle logarithms. After it understands basic mathematics, who knows what this ‘thinking cap’ could be programmed to do?”
+
+[Grunk can try ASK GNOME ABOUT MATH or ASK GNOME ABOUT THINKING or ASK GNOME ABOUT NEXT PROJECT or ASK GNOME ABOUT ART or ASK GNOME ABOUT LIGHTNING or SHOW CHAIR TO GNOME or ASK GNOME ABOUT HEAT or ASK GNOME ABOUT REAGENT or ASK GNOME ABOUT HEROES AND VILLAINS or ASK GNOME ABOUT SCIENCE or ASK GNOME ABOUT NATURE or ASK GNOME ABOUT ALCHEMIST or ASK GNOME HOW LONG GNOME HERE or ASK GNOME ABOUT LIFE or SHOW WATER TO GNOME or ASK GNOME ABOUT METAL or TELL GNOME ABOUT FARM. And probably other thing too.]
+
+>
+Huh?
+
+>
+Huh?
+
+>ask gnome about reagent
+Grunk ask gnome what “reagent” mean.
+
+Gnome say, “Reagents are the basic building blocks of modern alchemy. They’re far more useful than the classical four-element model.”
+
+[Grunk can try ASK GNOME ABOUT FOUR ELEMENT or ASK GNOME ABOUT MATH or ASK GNOME ABOUT THINKING or ASK GNOME ABOUT NEXT PROJECT or ASK GNOME ABOUT ART or ASK GNOME ABOUT LIGHTNING or SHOW CHAIR TO GNOME or ASK GNOME ABOUT HEAT or ASK GNOME ABOUT HEROES AND VILLAINS or ASK GNOME ABOUT SCIENCE or ASK GNOME ABOUT NATURE or ASK GNOME ABOUT ALCHEMIST or ASK GNOME HOW LONG GNOME HERE or ASK GNOME ABOUT LIFE or SHOW WATER TO GNOME or ASK GNOME ABOUT METAL or TELL GNOME ABOUT FARM. And probably other thing too.]
+
+>help
+
+There must be some back door. But it’s apparently well-hidden.
+[10 hints left]-> If you know whom this shrine was built for, you can probably guess that there’s some clever way to access it.
+[9 hints left]-> Have you seen anything that might suggest anything about a “way out”?
+[8 hints left]-> The tapestry in the fountain room is a clue.
+[7 hints left]->
+
+Gnome Room
+This look like room for little person. It have bed that too little for Grunk. It have trunk that too little for Grunk. It have desk that too little for Grunk. Desk have stool that too little for Grunk. Room have doorway to east and west too, but them not so little. That good, because if doorway too little for Grunk, not know how Grunk get back out of room.
+
+Gnome here looking at book.
+
+On top of shelf there torch (on fire).
+
+On top of desk there book.
+
+Pig shove coin out of Grunk hand. Coin fall on ground and roll away.
+
+Coin land with picture of person head on top side.
+
+>e
+
+Shelf Room
+There lots of shelfs in this room. Them on every wall. This room probably have lots and lots of thing in it before. But shelfs all empty now. Grunk not see any thing there at all. Doorway to northwest go back to bright room. Other doorway go west.
+
+There open stone chest at back of room.
+
+Grunk see half brick here too.
+
+>se
+There only doorway to northwest and west.
+
+>nw
+
+Fountain Room
+All wall in this room glow. It bright, just like day time. Except that instead of sun, it wall that glow. And instead of grass and tree, it square room with four wall. And instead of outside, it all under ground. But beside those thing, it just like it! Tunnel keep going out to east and west, but normal doorway go north and southeast and southwest.
+
+In middle of room, there fountain. But fountain not have any water.
+
+South wall have big curtain hanging on it.
+
+Pig huff and puff at whistle. But pig not get close enough to it.
+
+>x tapestry
+Look like big rug, but it on wall instead of floor, so that make it curtain instead. Curtain have big picture of little man on it. Grunk think little man maybe called “gnome”. Him holding burning torch in dark cave. Point at way out of cave.
+
+>n
+
+Statue Room
+This room have two big picture that face each other. West wall have picture on it and and east wall have different picture on it. Grunk think both picture really just part of wall, though. South wall have doorway in it and north wall not have anything in it.
+
+Statue of little man stand here, up on big stone block.
+
+>x statue
+Statue look like little man with round nose and big ear and moustache. Grunk think funny little man maybe called “gnome”. Wear funny suit and pointy shoe. One hand point north, at wall. Other hand up in air.
+
+Gnome stand on big stone block. Maybe block for making gnome look tall. It true that statue look more big than real gnome, but Grunk think that just because it statue. Maybe all thing look more big when it like rock.
+
+Pig look at picture on one wall. Then pig look at picture on other wall.
+
+>point at n wall
+Grunk not know what that mean.
+
+>point at north wall
+Grunk not know what that mean.
+
+>point
+Grunk not know what that mean.
+
+>x statue
+Statue look like little man with round nose and big ear and moustache. Grunk think funny little man maybe called “gnome”. Wear funny suit and pointy shoe. One hand point north, at wall. Other hand up in air.
+
+Gnome stand on big stone block. Maybe block for making gnome look tall. It true that statue look more big than real gnome, but Grunk think that just because it statue. Maybe all thing look more big when it like rock.
+
+Pig sniff at key.
+
+>look up
+Grunk just see top of room.
+
+>s
+
+Fountain Room
+All wall in this room glow. It bright, just like day time. Except that instead of sun, it wall that glow. And instead of grass and tree, it square room with four wall. And instead of outside, it all under ground. But beside those thing, it just like it! Tunnel keep going out to east and west, but normal doorway go north and southeast and southwest.
+
+In middle of room, there fountain. But fountain not have any water.
+
+South wall have big curtain hanging on it.
+
+>se
+
+Shelf Room
+There lots of shelfs in this room. Them on every wall. This room probably have lots and lots of thing in it before. But shelfs all empty now. Grunk not see any thing there at all. Doorway to northwest go back to bright room. Other doorway go west.
+
+There open stone chest at back of room.
+
+Grunk see half brick here too.
+
+Pig look over Grunk shoulder.
+
+>w
+
+Gnome Room
+This look like room for little person. It have bed that too little for Grunk. It have trunk that too little for Grunk. It have desk that too little for Grunk. Desk have stool that too little for Grunk. Room have doorway to east and west too, but them not so little. That good, because if doorway too little for Grunk, not know how Grunk get back out of room.
+
+Gnome here looking at book.
+
+On top of shelf there torch (on fire).
+
+On top of desk there book.
+
+Grunk see coin here too.
+
+>ask gnome about torch
+Grunk tell gnome all about torch that Grunk bring.
+
+Gnome say, “It’s always a good idea to bring a light source along when you go exploring. It sounds as though yours has served you well.”
+
+Pig stretch out in Grunk arm.
+
+[Grunk can try ASK GNOME ABOUT FOUR ELEMENT or ASK GNOME ABOUT MATH or ASK GNOME ABOUT THINKING or ASK GNOME ABOUT NEXT PROJECT or ASK GNOME ABOUT ART or ASK GNOME ABOUT LIGHTNING or SHOW CHAIR TO GNOME or ASK GNOME ABOUT HEAT or ASK GNOME ABOUT HEROES AND VILLAINS or ASK GNOME ABOUT SCIENCE or ASK GNOME ABOUT NATURE or ASK GNOME ABOUT ALCHEMIST or ASK GNOME HOW LONG GNOME HERE or ASK GNOME ABOUT LIFE or SHOW WATER TO GNOME or ASK GNOME ABOUT METAL or TELL GNOME ABOUT FARM. And probably other thing too.]
+
+>ask gnome for torch
+Gnome say, “Sorry, we made a fair trade. You keep the mossfuressent orb, and I keep the torch.”
+
+Pig look at bed. Then pig look at Grunk.
+
+>trade orb for torch
+Grunk not know what that mean.
+
+>help
+
+Gnome Room
+This look like room for little person. It have bed that too little for Grunk. It have trunk that too little for Grunk. It have desk that too little for Grunk. Desk have stool that too little for Grunk. Room have doorway to east and west too, but them not so little. That good, because if doorway too little for Grunk, not know how Grunk get back out of room.
+
+Gnome here looking at book.
+
+On top of shelf there torch (on fire).
+
+On top of desk there book.
+
+Grunk see coin here too.
+
+Pig sniff at key.
+
+>give key to gnome
+Gnome say, “Oh, just leave that in the store room when you’re done with it. That’s the room with all the shelves.”
+
+Gnome give key back to Grunk.
+
+>break chair
+WHAM! That fun! Not really do much, though.
+
+>e
+Gnome look over at Grunk leaving. Then him go back to other thing him doing.
+
+Shelf Room
+There lots of shelfs in this room. Them on every wall. This room probably have lots and lots of thing in it before. But shelfs all empty now. Grunk not see any thing there at all. Doorway to northwest go back to bright room. Other doorway go west.
+
+There open stone chest at back of room.
+
+Grunk see half brick here too.
+
+>x shelves
+Lots of metal shelfs, all hooked to wall. Grunk not see anything on those shelfs. But Grunk not see up on top shelf, because that one too high up.
+
+>climb shelf
+(Grunk drop chair first)
+Grunk not good climber, but shelfs easy to climb, so Grunk get up on shelfs OK.
+
+>x shelves
+Lots of metal shelfs, all hooked to wall. Grunk not see anything on those shelfs. Top shelf high up, but Grunk up high too right now, so Grunk even see top of top shelf. There not anything on top shelf.
+
+Pig peek over at top shelf too.
+
+>x chair
+Wood chair. Look like it just right size for sitting at big table.
+
+Part of chair look all black and sooty now.
+
+>i
+Grunk have:
+  pants (black and sooty)
+  pig (not happy)
+  hat (full of water)
+  whistle
+  key
+  pole (black and sooty)
+
+>get chair
+OK, got it.
+
+>put water in box
+Grunk not see that there.
+
+>put water in powder
+Grunk pour out water into chest. When water touch powder, it make fire! Now black powder on fire!
+
+>put chair in fire
+Grunk set chair on fire. Mmm. Grunk like fire.
+
+Fire in chest not so big now.
+
+>take chair
+Grunk already have that!
+
+Fire in chest get so little that it not there at all anymore.
+
+>i
+Grunk have:
+  chair (on fire)
+  pants (black and sooty)
+  pig (not happy)
+  hat
+  whistle
+  key
+  pole (black and sooty)
+
+>x powder
+It very black and powdery. Almost light and fluffy, like smoke.
+
+Pig stick nose inside hat.
+
+>e
+Grunk not go anywhere while still on shelfs.
+
+>w
+Grunk not go anywhere while still on shelfs.
+
+Pig huff and puff at whistle. But pig not get close enough to it.
+
+>down
+Grunk get off shelfs.
+
+Shelf Room
+There lots of shelfs in this room. Them on every wall. This room probably have lots and lots of thing in it before. But shelfs all empty now. Grunk not see any thing there at all. Doorway to northwest go back to bright room. Other doorway go west.
+
+There open stone chest at back of room.
+
+Grunk see half brick here too.
+
+>w
+
+Gnome Room
+This look like room for little person. It have bed that too little for Grunk. It have trunk that too little for Grunk. It have desk that too little for Grunk. Desk have stool that too little for Grunk. Room have doorway to east and west too, but them not so little. That good, because if doorway too little for Grunk, not know how Grunk get back out of room.
+
+Gnome here looking at book.
+
+On top of shelf there torch (on fire).
+
+On top of desk there book.
+
+Grunk see coin here too.
+
+Pig squeal loud!
+
+Gnome put finger up to mouth. “Shh,” him say to pig, “I’m reading.”
+
+Pig squeal quiet.
+
+>give chair to gnome
+Gnome smile. “Thanks,” him say, “But the torch you gave me will do just fine.”
+
+Gnome give chair back to Grunk.
+
+>e
+Gnome not even look when Grunk go.
+
+Shelf Room
+There lots of shelfs in this room. Them on every wall. This room probably have lots and lots of thing in it before. But shelfs all empty now. Grunk not see any thing there at all. Doorway to northwest go back to bright room. Other doorway go west.
+
+There open stone chest at back of room.
+
+Grunk see half brick here too.
+
+Pig stretch out in Grunk arm.
+
+>nw
+
+Fountain Room
+All wall in this room glow. It bright, just like day time. Except that instead of sun, it wall that glow. And instead of grass and tree, it square room with four wall. And instead of outside, it all under ground. But beside those thing, it just like it! Tunnel keep going out to east and west, but normal doorway go north and southeast and southwest.
+
+In middle of room, there fountain. But fountain not have any water.
+
+South wall have big curtain hanging on it.
+
+>n
+
+Statue Room
+This room have two big picture that face each other. West wall have picture on it and and east wall have different picture on it. Grunk think both picture really just part of wall, though. South wall have doorway in it and north wall not have anything in it.
+
+Statue of little man stand here, up on big stone block.
+
+Pig look at picture on one wall. Then pig look at picture on other wall.
+
+>give chair to statue
+OK, Grunk put chair into statue hand.
+
+Grunk hear loud noise like rock dragging on rock. Then part of north wall open up!
+
+[Grunk score go up one.]
+
+>n
+
+Windy Cave
+Wow, this just like real cave! It have big pointy rock that stick down from up high, and it have big pointy rock that stick up from ground, and it even have dark and twisty tunnel that go north!
+
+There lots of wind that come from north. Must be tunnel that go to other place. Wind smell like fresh air, so maybe tunnel go outside.
+
+Secret door in south wall not look so secret from here. Door still open right now.
+
+>n
+When Grunk go into windy tunnel, wind blow hard. But Grunk make own light now.
+
+Twisty Cave
+There tunnel here that go all different way. It all very twisty and confusing. Not even sure what way Grunk come from.
+
+>blow whistle
+Tweeeeeeeeeeee!
+
+Gnome wander in from side tunnel.
+
+“There you are, Grunk,” gnome say. “I had a suspicion you might get lost here, so I thought I’d better check in on you.”
+
+Gnome not wearing stripe dress and slipper anymore. Now him wearing blue suit with jacket and pointy shoe and two little strap for keeping pants up. Think maybe Grunk see suit like that before some place, but not remember for sure. Gnome dragging trunk behind him, too.
+
+Gnome walk over to Grunk. Give trunk to Grunk. Think that means carrying it Grunk job now.
+
+“It was a good idea to use the whistle. It certainly made finding you easier.” Gnome start walking toward tunnel that Grunk not try yet. Him look back and say, “Well, c’mon. I’ll show you the way out.”
+
+Gnome go southeast.
+
+>
+Huh?
+
+>se
+
+Probably New Tunnel
+This really tricky place. It all twisty and dark. Think even pig confused.
+
+Gnome here, waiting for Grunk.
+
+“I’ve decided it’s time to quit being a hermit,” gnome say. “I suppose in some way, you’re responsible for that. Even if you didn’t quite leave everything in perfect condition, you still helped me out.” Gnome stop and think. Grunk think gnome thinking about what way to go. Then gnome look back at Grunk and say, “So, thanks.”
+
+Gnome climb down into hole in ground.
+
+>down
+
+Some Other Cave
+There still lots of different tunnel here that go every way Grunk can see. Not really know where Grunk at, but Grunk think gnome know, and that good enough for Grunk.
+
+Gnome here, waiting for Grunk.
+
+Gnome say to Grunk, “It’s been too long since I’ve done anything that really mattered. But I’ve got some new ideas, and I think they could be big. Bigger than mossfuressence, even.”
+
+Gnome look left and right. “Come on, we’re going this way,” him say. Then him duck into little tunnel that go south. Walking around in tunnel seem so easy for gnome. Him even talking at same time and still not get lost at all.
+
+>s
+
+Forest
+Hey, Grunk outside again! Yay! It still night time, but Grunk have light, so that OK. This look like it near place Grunk at before. Farm not far at all from here. Just little way to southwest.
+
+Gnome here, waiting for Grunk.
+
+Gnome take trunk back from Grunk. “I think this is where we part ways,” him say. “You can probably find your way back to the farm from here.” Gnome shake Grunk hand. Then gnome say, “Remember the name Zugilbor Galrogginpots sem Endali dec Frebensalbibit. This won’t be the last time you hear it.”
+
+Then gnome go one way and Grunk go other way. It not long before Grunk back at farm. Boss already sleeping, so Grunk put pig back quiet and go to bed. Tomorrow, maybe boss proud of Grunk.
+
+    *** Grunk bring pig back to farm ***
+
+Grunk have 6 out of 7 that time.
+
+Time for Grunk to RESTART or RESTORE a saved story or UNDO what Grunk just do or tell FULL score or look at MENU (with different silly thing Grunk can try doing) or just QUIT?
+>
+Grunk confused. Maybe just answering question work better.
+> menu
+
+Have you tried…
+
+…eating various things?
+……such as the orb, the pie, the whistle or the pig (after catching it)?
+……or feeding the orb to the pig?
+
+…setting your pants on fire?
+……then looking at them?
+……or giving them to the gnome when he asks for a light source?
+
+…singing?
+……multiple stanzas?
+……in front of the gnome and the pig?
+
+…burning down the forest at the very beginning of the game?
+
+…sticking your tongue out at the pig?
+
+…checking the menu after winning with a full seven points?
+
+[SPACE.]
+
+Time for Grunk to RESTART or RESTORE a saved story or UNDO what Grunk just do or tell FULL score or look at MENU (with different silly thing Grunk can try doing) or just QUIT?
+> undo
+Some Other Cave
+[OK, Grunk undo that.]
+
+>sing
+Gnome go south. Grunk think maybe should follow gnome. If Grunk waste time, then maybe not catch up to gnome.
+
+>undo
+Some Other Cave
+[OK, Grunk undo that.]
+
+>undo
+Probably New Tunnel
+[OK, Grunk undo that.]
+
+>undo
+Twisty Cave
+[OK, Grunk undo that.]
+
+Pig knio at Grunk.
+
+Huh? Weird pig.
+
+>undo
+Twisty Cave
+[OK, Grunk undo that.]
+
+>undo
+Windy Cave
+[OK, Grunk undo that.]
+
+>undo
+Statue Room
+[OK, Grunk undo that.]
+
+>sing
+La la la! Grunk telling story!
+
+Squeeeeee. Squeeeeee! Squeeeeeeee!
+
+Pig sing too!
+
+>sing
+La la la! Story not too big.
+
+Squeeee. Squeeee. Squeeee!
+
+>sing
+La la la! It all about Grunk.
+
+Squee. Squeeeeee!
+
+>sing
+La la la! And it all about pig!
+
+Squeeeeeeee. Squeeee!
+
+>sing
+La la la! Grunk out at night time.
+
+Squeeeeee. Squeeee!
+
+>sing
+La la la! Looking all around.
+
+Squee. Squeeeeee.
+
+>sing
+La la la! Grunk fall down hole.
+
+Squee! Squee. Squeeee!
+
+>
+Huh?
+
+>sing
+La la la! End up under ground!
+
+Squeeee. Squeeeeee. Squeeeeee.
+
+>sing
+La la la! Grunk run into pig.
+
+Squeeee! Squeeeeeeee!
+
+>sing
+La la la! Then meet little man.
+
+Squeeee!
+
+>sing
+La la la! Find some strange toy.
+
+Squeeeeeeee. Squeeeeee. Squeeeeee.
+
+>sing
+La la la! And maybe think up plan!
+
+Squeeeeee! Squee. Squeeeeee.
+
+>sing
+La la la! That end of song. So Grunk just go la la la some more!
+
+Squee! Squeeeeeeee!
+
+>sing
+La la la! Grunk telling story!
+
+Squee. Squeeee. Squeeeeee.
+
+>swear
+Grunk not know what that mean.
+
+>curse
+Pig make rude noise back at Grunk.
+
+[Grunk can try ASK
+[** Programming error: tried to test “has” or “hasnt” of not anything **]
+PIG ABOUT TRUNK or ASK
+[** Programming error: tried to test “has” or “hasnt” of not anything **]
+PIG ABOUT KILLING or ASK
+[** Programming error: tried to test “has” or “hasnt” of not anything **]
+PIG ABOUT FOOD. And probably other thing too.]
+
+>ask pig about killing
+Pig squeal! It fight Grunk and try getting away, but Grunk hold on tight.
+
+[Grunk can try ASK PIG ABOUT TRUNK or TELL PIG ABOUT DARK PLACE or ASK PIG ABOUT FOOD. And probably other thing too.]
+
+>eat pig
+Pig look tasty. But boss tell Grunk, bring pig back to farm.
+
+But pig look really tasty…
+
+But boss say that if Grunk not bring back pig, Grunk not bring back Grunk!
+
+But it still look like one tasty pig. Should Grunk really eat pig? Really?
+
+>eat pig
+Maybe Grunk just have little taste.
+
+*CHOMP* *MUNCH* *NUMF* *SCRUMF* *CRUNCH* *GULP* *BURP*
+
+Yum!
+
+Uh oh.
+
+Oh no. Pig gone! It all Grunk fault. Grunk eat pig, and now Grunk not allowed back on farm. What Grunk do?
+
+Grunk have to stay here under ground. For ever and ever and ever. Hope gnome not mind!
+
+    *** Grunk not bring pig back to farm ***
+
+Grunk have 6 out of 7 that time.
+
+Time for Grunk to RESTART or RESTORE a saved story or UNDO what Grunk just do or tell FULL score or just QUIT?
+> undo
+Statue Room
+[OK, Grunk undo that.]
+
+>tell pig about dark place
+Pig look away from Grunk. Then pig sigh and oink at Grunk.
+
+[Grunk can try ASK PIG ABOUT TRUNK or ASK PIG ABOUT TOOL BOX or ASK PIG ABOUT FOOD. And probably other thing too.]
+
+>l
+
+Statue Room
+This room have two big picture that face each other. West wall have picture on it and and east wall have different picture on it. Grunk think both picture really just part of wall, though. South wall have doorway in it and north wall have secret door in it.
+
+Part of north wall open up like door!
+
+Statue of little man stand here, up on big stone block. It have burning chair in one hand.
+
+Pig look over Grunk shoulder.
+
+>transcript
+Scribe person already writing story down for Grunk.
+
+>quit
+Really all done with story?

@@ -1,0 +1,2259 @@
+> instructions
+This is a keyboardless text adventure game. You are taking part in an interactive story – I will tell you what is going on in this pane. In the panes on the right (or below this one, for portrait screens), I’ll tell you where I am, what I can see, and what I’m carrying. To give me an instruction, click or touch one of the buttons there – either a direction telling me where to go, or an action applying to something I can see. Click an item in the “I’m carrying” list to hold that item, which may make more actions available. Have fun, and happy adventuring!
+
+> open filing cabinet
+Some things fall out.
+
+> take revolver
+Taken
+
+> take watch
+Taken
+
+> take flashlight
+Taken
+
+> take book
+As I take it from the shelf, the bookcase pops out from the wall, turning neatly into my foldaway Murphy bed.
+A photograph flutters out from under the pillow.
+
+> read book
+I flip through the book, and an entry catches my eye:
+“YOUR OFFICE. It’s important to maintain a professional image, so make sure your office has tobacco-stained walls, a door with a glass panel with your name on so it reads backwards from the inside, and ideally a faint smell of bad liquor. Rent’s high, so save spondoolies by living there too. You can get a Murphy bed that folds up into a bookcase – way classier than a mattress under your desk, and the dames love it. Or the guys. Whatever gums your shoe.”
+
+> take photograph
+Taken
+
+> look at photograph
+That’s my sweetheart, Ruby. She’s a doctor down at the city hospital. Ruby’s an angel, plus she fixes me up on the quiet whenever my work takes a nasty turn.
+
+> read book
+I flip through the book, and an entry catches my eye:
+“YOUR OFFICE. It’s important to maintain a professional image, so make sure your office has tobacco-stained walls, a door with a glass panel with your name on so it reads backwards from the inside, and ideally a faint smell of bad liquor. Rent’s high, so save spondoolies by living there too. You can get a Murphy bed that folds up into a bookcase – way classier than a mattress under your desk, and the dames love it. Or the guys. Whatever gums your shoe.”
+
+> read book
+I flip through the book, and an entry catches my eye:
+“YOUR OFFICE. It’s important to maintain a professional image, so make sure your office has tobacco-stained walls, a door with a glass panel with your name on so it reads backwards from the inside, and ideally a faint smell of bad liquor. Rent’s high, so save spondoolies by living there too. You can get a Murphy bed that folds up into a bookcase – way classier than a mattress under your desk, and the dames love it. Or the guys. Whatever gums your shoe.”
+
+> out
+Ok
+I’m in a dimly lit office building.
+
+> talk to rat-face
+“Step into my office and we’ll talk,” I tell the rat-faced man. He adjusts his tie and nervously walks in.
+I follow him in, and close the door.
+
+Case opened: SPEAKEASY STREET
+“What can I do for you?” I ask the guy.
+“Mr Rose,” he squeaks, “my name is Wexler. My employer would very much like to speak with you. There’s a somethin’ needs lookin’ into, see, and let’s say they don’t want to go through the official channels on this one.”
+
+> ask wexler about employer
+“Your employer?” I ask.
+“These guys,” says Wexler, and gives me a handbill.
+
+> read handbill
+It’s a handbill for a funeral directors on Louisiana and 3rd. The blurb reads:
+“We know that losing a loved one can
+have difficult consequences and be
+hard to deal with. It can get our
+spirits down. That’s why all of us
+at Marlotte & Jenkins will do
+our very best for you. Come in and
+speak to us and we’ll make it
+easy.”
+“Your employer is a funeral director?” I ask Wexler. “What’s so hush-hush about that?”
+Wexler’s mouth twitches. “Just read the first word on every line,” he says.
+
+> ask wexler about money
+“Now,” I say. “About my rates…”
+“Fifty now, and fifty when you finish the job,” he says.
+It’s acceptable, so I accept.
+
+> ask wexler about employer
+“The, er, funeral directors on Louisiana and 3rd. Tell ’em I sent you.”
+
+> end conversation
+Wexler nods and shuts up.
+
+> out
+Ok
+I’m in a dimly lit office building.
+
+> talk to dame
+“How do you, Miss…”
+“Mrs Macdonald,” she answers smoothly.
+“I have a client in my office right now,” I tell her. “If you’d care to wait, I’ll be with you as soon as I can.”
+
+> out
+Ok
+I’m at Maine Street and 3rd Avenue.
+A cop car races by with its siren wailing.
+
+> north
+Ok
+I’m at Louisiana Street and 3rd Avenue.
+
+> enter funeral directors
+Ok
+I’m in a funeral director’s office.
+
+> talk to clerk
+The girl looks up at me with a bored expression.
+
+> down
+The clerk stops me. “I can’t let you go down there, mister,” she says.
+
+> tell clerk about wexler
+“Someone sent me,” I explain. “A Mr Wexler.”
+The girl’s eyes roll. “Not that guy. Sweet on me. I send him on a few errands and he thinks he works here. I’m sorry if he’s wasted your time.”
+
+> out
+Ok
+I’m at Louisiana Street and 3rd Avenue.
+A yellow cab comes into view.
+
+> talk to skinny fella
+“The name’s Gianni,” says the skinny fella.
+The yellow cab drives off.
+
+> ask gianni about big fella
+“Excuse my brother Luigi,” says Gianni. “He’s a little slow. When we were kids back in Sicily, he got shot in the head by – er, by a horse.”
+
+> ask gianni about coffins
+I nod at the coffins. “What’s that, a party booking?”
+“Oh, all those?” says Gianni. “Ha, yeah, I guess business is good today! Come on, Luigi, we got stiffs to shift.”
+Gianni and Luigi lift up one of the coffins between them. It makes a noise like clinking glass. They carry it into the funeral director’s office.
+
+> enter funeral directors
+Ok
+I’m in a funeral director’s office.
+
+> talk to clerk
+The girl looks up at me with a bored expression.
+
+> ask clerk about coffins
+“I couldn’t help noticing,” I say, “there was a hell of a load of coffins in that hearse out there.”
+“They’re fulla dead people, of course,” says the girl. “For the funerals!”
+
+> ask clerk about funerals
+“So, you do funerals?” I ask.
+“Uh… sure,” says the girl. “When someone dies, we bury ’em. Or organize someone else burying them, maybe? I mean, that’s what we’re all about here. Funerals. Sure.”
+
+> tell clerk about wexler
+“Someone sent me,” I explain. “A Mr Wexler.”
+The girl’s eyes roll. “Not that guy. Sweet on me. I send him on a few errands and he thinks he works here. I’m sorry if he’s wasted your time.”
+
+> out
+Ok
+I’m at Louisiana Street and 3rd Avenue.
+A yellow cab comes into view.
+
+> open coffin
+I open one of the coffins.
+Inside is a large cache of booze in glass bottles.
+
+> take booze
+Taken
+Gianni and Luigi walk out of the funeral director’s office.
+“Hey,” says Gianni, seeing the open, empty coffin. “Some bozo’s burglarized our booze. That makes me very sad, Luigi. Very sad.”
+He looks at me, and notices the several bottles of booze I happen to be carrying.
+“Oh dear,” he adds. “Some people just got no respect for other people’s property. What do you think of that, Luigi?”
+Luigi, being a man of few words, prefers to express his opinion by socking me in the face.
+Everything goes black.
+
+I wake up a couple hours later in a hospital ward with a sore head.
+
+> undo
+Undone “take booze”
+
+> get in coffins
+I can’t fit with the booze in there.
+Gianni and Luigi walk out of the funeral director’s office.
+“Hey,” says Gianni, seeing the open coffin. “Some bozo’s been snoopin’ in our booze. That makes me very sad, Luigi. Very sad.”
+He inspects the contents of the coffin. “At least all the, er – dead bodies still seem to be there,” he says, with a guilty glance in my direction.
+Luigi closes the coffin lid.
+
+> talk to luigi
+Luigi doesn’t say much.
+“Luigi don’t say much,” says Gianni.
+
+> wait
+Time passes…
+
+> wait
+Time passes…
+
+> wait
+Time passes…
+
+> read handbill
+It’s a handbill for a funeral directors on Louisiana and 3rd. The blurb reads:
+“We know that losing a loved one can
+have difficult consequences and be
+hard to deal with. It can get our
+spirits down. That’s why all of us
+at Marlotte & Jenkins will do
+our very best for you. Come in and
+speak to us and we’ll make it
+easy.”
+Gianni and Luigi lift up one of the coffins between them. It makes a noise like clinking glass. They carry it into the funeral director’s office.
+
+> open coffin
+I open one of the coffins.
+Inside is a large cache of booze in glass bottles.
+The yellow cab drives off.
+
+> get in coffins
+I can’t fit with the booze in there.
+A girl clatters past on a bicycle.
+
+> take booze
+Taken
+
+> get in coffins
+I can’t fit while carrying all this booze.
+A cop car races by with its siren wailing.
+
+> drop booze
+Dropped
+Gianni and Luigi walk out of the funeral director’s office.
+“Hey,” says Gianni, seeing the open, empty coffin. “Some bozo’s burglarized our booze. That makes me very sad, Luigi. Very sad.”
+“Huh,” he adds, noticing the booze on the ground. “Well, maybe it just fell out, I guess.”
+Luigi picks up the booze, puts it back in the coffin, and closes the lid.
+
+> wait
+Time passes…
+A yellow cab comes into view.
+
+> wait
+Time passes…
+A delivery truck rumbles by.
+
+> wait
+Time passes…
+The yellow cab drives off.
+
+> wait
+Time passes…
+
+> wait
+Time passes…
+Gianni and Luigi lift up one of the coffins between them. It makes a noise like clinking glass. They carry it into the funeral director’s office.
+
+> open coffin
+I open one of the coffins.
+Inside is a large cache of booze in glass bottles.
+A yellow cab comes into view.
+
+> take booze
+Taken
+The yellow cab drives off.
+
+> drop booze
+Dropped
+
+> get in coffins
+I climb inside and pull the lid shut over me.
+It’s dark.
+
+> wait
+Time passes…
+I hear two guys’ footsteps approaching.
+Through the lid, I hear Gianni’s voice: “Hey, what’s our booze doin’ down there? Open this coffin, Luigi.”
+Luigi opens the coffin. The game’s up. I tumble out.
+“Huh,” says Gianni. “Some guys got no respect. That makes me very sad. That make you very sad, Luigi?”
+Luigi, being a man of few words, prefers to express his sadness by socking me in the face.
+Everything goes black.
+
+I wake up a couple hours later in a hospital ward with a sore head.
+
+> talk to ruby
+Ruby looks at me fondly. “Hey, Lanson,” she says.
+
+> ask ruby about relationship
+“Ruby,” I ask gently, “where do you think things are going, between us?”
+She sighs. “You know I’d like to take it further. Get married, get a place together. But we can’t afford it, Lanson. We’d need at least a couple thousand in savings. They pay me about a third of what the male doctors get, and you’re a struggling P.I. I know it’s what you love doing, but I wish…” she goes silent.
+
+> ask ruby about work
+“How’s work?” I ask.
+“The usual,” she says. “A few drunks, fights, industrial accidents. Nothing exciting.”
+
+> end conversation
+Ruby smiles at me.
+
+> out
+Ok
+I’m at Ohio Street and 3rd Avenue.
+
+> north
+Ok
+I’m at Nebraska Street and 3rd Avenue.
+
+> north
+Ok
+I’m at Maine Street and 3rd Avenue.
+
+> north
+Ok
+I’m at Louisiana Street and 3rd Avenue.
+Gianni and Luigi lift up one of the coffins between them. It makes a noise like clinking glass. They carry it into the funeral director’s office.
+A yellow cab comes into view.
+
+> save at funeral
+Game saved as ‘AT FUNERAL’
+
+> open coffin
+I open one of the coffins.
+Inside is a large cache of booze in glass bottles.
+A cop car races by with its siren wailing.
+The yellow cab drives off.
+
+> take booze
+Taken
+A boy clatters past on a bicycle.
+A yellow cab comes into view.
+
+> hail taxi
+The cab stops and I get in.
+
+> drop booze
+Best not leave my stuff lying in taxis.
+
+> talk to cabbie
+The cabbie snarls, “Where ya wanna go?”
+
+> say my office
+The cab pulls up. I pay the fare and get out.
+I’m at Maine Street and 3rd Avenue.
+
+> enter office
+Ok
+I’m in a dimly lit office building.
+
+> enter office door
+Ok
+I’m in my office.
+
+> drop booze
+Dropped
+
+> out
+Ok
+I’m in a dimly lit office building.
+
+> out
+Ok
+I’m at Maine Street and 3rd Avenue.
+
+> north
+Ok
+I’m at Louisiana Street and 3rd Avenue.
+A delivery truck rumbles by.
+
+> get in coffins
+I climb inside and pull the lid shut over me.
+It’s dark.
+I hear two guys’ footsteps approaching.
+“Too bad we didn’t find it, Luigi,” says the voice of Gianni. “We’ll just tell the Donna you got thirsty, I guess.”
+I feel the coffin being lifted and carried… down a flight of stairs… and lowered to the floor.
+A lady bartender lifts the lid and I climb out. Suddenly, a lot of eyes are on me.
+“Do you mind telling me what you were doing in my supply of illicit b–” begins the bartender. “I mean – wow, this one’s still alive! Everybody, cancel the funeral, we’ve had a miracle!”
+“Relax,” I say. “I ain’t a flatfoot. My name is Lanson Rose, and I was led to believe that someone here might want to speak with me.”
+“Let me guess,” says the bartender with a frown. “Little guy talk to you, looks like a rat? Fine, since you’re here, let’s see if you’re any use. We’ll talk in my office. Boys, that’ll be all for now.”
+Gianni and Luigi pick up the empty coffin and leave. The bartender walks into the back office, beckoning me to follow.
+I’m in a swinging speakeasy.
+
+> talk to drunks
+I’d never understand them anyway.
+
+> talk to trumpet player
+Not while he’s performing.
+
+> enter office
+Ok
+I’m in a small office.
+
+> talk to bartender
+“I ain’t the bartender, I’m the owner, Vivienne,” says the dame. “Now, although it wasn’t that rodent’s place to get you involved, it does so happen there’s a matter you might help us with. If you’ve sampled our wares, you may have noticed that the booze is awful.”
+“It can’t be that bad,” I said. “At least, not worse than most of what you can find these days.”
+“Well, she says, “it wasn’t bad last month. In fact I prided myself on servin’ the best drop a hooch in New Losago. I wanna know what’s goin’ on, and I want my good booze back.”
+
+> ask vivienne about suppliers
+“Who supplies you with the booze?” I ask her.
+“Those two goons, Gianni and Luigi, bring it over,” says Vivienne. “I think they work for some rich dame over in Princeley Heights.”
+
+> ask vivienne about hearse
+“So,” I ask her, “whose idea was the hearse?”
+“That came with the business,” she says. “It seemed like a good way to smuggle the booze in, so I gave the boys the keys. Hold on, I got a spare set somewhere…”
+She opens a drawer and rifles through the desk for a moment.
+“Here they are,” she says, and hands me a set of car keys.
+
+> ask vivienne about business
+“And how’s a dame like you get into the speakeasy business?” I ask.
+“Daddy was a funeral director. A real one. I inherited the business the day Prohibition got signed into law, and I didn’t want a career luggin’ stiffs around.”
+
+> end conversation
+“Good luck, Mr Rose,” says Vivienne, and walks out into the main bar.
+
+> open desk
+There’s nothing inside.
+
+> read book
+I flip through the book, and an entry catches my eye:
+“SPEAKEASIES. Illicit drinking joints. A crucial part of the American economy since Prohibition came in. ”
+
+> out
+Ok
+I’m in a swinging speakeasy.
+
+> get drink
+I pay Vivienne half a dollar for a tumbler of murky fluid. I gulp it down in one. It tastes of swamps, chlorine and dead rodents – and not in a good way.
+
+> talk to trumpet player
+The trumpet player orders a highball from the bar, then turns to me.
+“They call me ‘Snake Fingers’ Jackson,” he says. “How’s things?”
+
+> ask snake fingers about speakeasy
+“What do you know about this place?” I ask.
+“I been comin’ here a while,” he says, taking a sip of his drink and making a sour face. “Drinks sure used to be better.”
+
+> ask snake fingers about booze
+“It’s very… interesting liquor they serve here,” I say. “Any idea where it comes from?”
+“Sure,” he says. “Rich white family over in Princeley Heights. Got the bootlegging business sewn up in this town. Hired me to play at some big wedding on their lawn last year. Here, I’ll give you the address.”
+He pulls out a scrap of paper, scribbles an address on it, and gives it to me.
+
+> read paper
+It reads:
+“1306 Princeley Blvd (at Nebraska St)”
+
+> ask snake fingers about trumpet
+“That’s some noise you make with that thing,” I tell him, with a nod to the horn in his right hand.
+“Thanks,” he says. “Learned it from Lizard Hips Morton, who learned it from Soapy Franklin, who was taught by Sponge Cake Jones himself.”
+
+> end conversation
+Snake Fingers tips his trilby, drains his highball, gets back on stage, and starts tootling again, to general approval from the drunkards.
+
+> up
+Ok
+I’m in a funeral director’s office.
+
+> out
+Ok
+I’m at Louisiana Street and 3rd Avenue.
+
+> enter hearse
+The car keys fit the door. I check nobody’s looking, and slip inside.
+I’m in a hearse, parked at Louisiana and 3rd.
+
+> open glove compartment
+Some things fall out.
+
+> take gloves
+Taken
+
+> wear gloves
+Ok, I’m wearing them.
+
+> take receipt
+Taken
+
+> read receipt
+It reads:
+“Cawmill’s Lumberyard, Ohio & 1st, West New Losago
+700 pine coffins: $4,900
+Payable by cash or check”
+
+> drive
+Nah. Kinda hard to renew a P.I. licence with a car theft record.
+
+> open coffin
+I check some of the coffins, but they’re all empty now.
+
+> out
+Ok
+I’m at Louisiana Street and 3rd Avenue.
+
+> south
+Ok
+I’m at Maine Street and 3rd Avenue.
+
+> south
+Ok
+I’m at Nebraska Street and 3rd Avenue.
+
+> east
+Ok
+I’m at Nebraska Street and 4th Avenue.
+
+> east
+Ok
+I’m at Nebraska Street and 5th Avenue.
+
+> east
+Ok
+I’m at Nebraska Street and 6th Avenue, in Princeley Heights.
+This is the where the swells live. I feel like maybe I should wipe my feet before entering this part of the city.
+
+> east
+Ok
+I’m at Nebraska Street and Princeley Boulevard, in Princeley Heights.
+
+> look at watch
+It’s 2:11 PM.
+
+> enter mansion
+The gate’s locked.
+
+> climb gate
+The bars are wide enough apart to get a foothold. I climb over…
+I’m on a front lawn before an opulent mansion.
+A brown horse looks at me, then carries on nibbling grass.
+
+> pet horses
+I pet the nose of a brown horse. It gives a quiet whinny.
+
+> enter stable
+Ok
+I’m in a stable.
+
+> take tarpaulin
+Taken
+Under the tarpaulin is a small bale of hay.
+
+> take hay
+Taken
+
+> out
+Ok
+I’m on a front lawn before an opulent mansion.
+
+> drop hay
+Dropped
+
+> enter mansion
+The door’s not locked, so it doesn’t count as burglary, right? I sneak in.
+I’m in the foyer of an opulent mansion.
+I hear snoring from upstairs.
+
+> look at photographs
+They look like the usual rich-people family portraits, centered around an ageing lady and a couple of sons, taken at various times over the last twenty years. There’s something familiar about…
+My heart just about stops. That lady? I seen her mugshots pulled out in relation to a dozen murder cases, but there’s never been enough evidence to put her away. That’s Donna Cardicci. And if this is her house, and I’m caught tresspassing in it, I’m a dead man.
+The boys are familiar too. A skinny one and a big one. They’re a little younger, but sure enough, that’s those two goons from the funeral directors, Gianni and Luigi.
+
+> take houseshoes
+Taken
+
+> wear houseshoes
+Ok, I’m wearing them.
+
+> south
+Ok
+I’m in a lavish front room.
+The parakeet puffs its chest out.
+
+> take china
+As I try to pick up the china, it slips from my fingers…
+SMAAAAAASH!!!
+Donna Cardicci bursts into the room with a Derringer in her hands, and fires.
+
+I wake up in a hospital ward with a new scar.
+“You’re lucky as well as stupid,” says Ruby. “That bullet missed your spine by about a tenth of an inch.”
+
+> undo
+Undone “take china”
+
+> east
+As I walk past the parakeet, it emits a mighty SQUAAAAWK!!
+Donna Cardicci bursts into the room with a Derringer in her hands, and fires.
+
+I wake up in a hospital ward with a new scar.
+“You’re lucky as well as stupid,” says Ruby. “That bullet missed your heart by about a tenth of an inch.”
+
+> undo
+Undone “east”
+
+> north
+Ok
+I’m in the foyer of an opulent mansion.
+I hear snoring from upstairs.
+
+> up
+Ok
+I’m in a bedroom.
+
+> open bureau
+The drawer tugs open with a loud scraping noise.
+Donna Cardicci wakes up, pulls a Dellinger from under her mattress, and fires.
+
+I wake up in a hospital ward with a new scar.
+“You’re lucky as well as stupid,” says Ruby. “That bullet missed your heart by about a tenth of an inch.”
+
+> undo
+Undone “open bureau”
+
+> fire revolver
+I pull the trigger. A small flame briefly appears at the end of the barrel.
+
+> open bureau
+The drawer tugs open with a loud scraping noise.
+Donna Cardicci wakes up, pulls a Dellinger from under her mattress, and fires.
+
+I wake up in a hospital ward with a new scar.
+“You’re lucky as well as stupid,” says Ruby. “That bullet missed your spine by about a tenth of an inch.”
+
+> undo
+Undone “open bureau”
+
+> wait
+Time passes…
+
+> wait
+Time passes…
+
+> down
+Ok
+I’m in the foyer of an opulent mansion.
+
+> south
+Ok
+I’m in a lavish front room.
+The parakeet puffs its chest out.
+
+> wait
+Time passes…
+The parakeet opens its beak.
+
+> wait
+Time passes…
+The parakeet emits a mighty SQUAAAAWK!!
+Donna Cardicci bursts into the room with a Derringer in her hands, and fires.
+
+I wake up in a hospital ward with a new scar.
+“You’re lucky as well as stupid,” says Ruby. “That bullet missed your heart by about a tenth of an inch.”
+
+> undo
+Undone “wait”
+
+> undo
+Undone “wait”
+
+> undo
+Undone “south”
+
+> south
+Ok
+I’m in a lavish front room.
+The parakeet puffs its chest out.
+
+> throw tarpaulin
+(over birdcage)
+I throw the tarpaulin over the birdcage. That seems to calm down its occupant.
+
+> east
+As I walk past the shelves, they wobble, and the china comes crashing down…
+SMAAAAAASH!!!
+Donna Cardicci bursts into the room with a Derringer in her hands, and fires.
+
+I wake up in a hospital ward with a new scar.
+“You’re lucky as well as stupid,” says Ruby. “That bullet missed your spine by about a tenth of an inch.”
+
+> undo
+Undone “east”
+
+> take china
+As I try to pick up the china, it slips from my fingers…
+SMAAAAAASH!!!
+Donna Cardicci bursts into the room with a Derringer in her hands, and fires.
+
+I wake up in a hospital ward with a new scar.
+“You’re lucky as well as stupid,” says Ruby. “That bullet missed your heart by about a tenth of an inch.”
+
+> undo
+Undone “take china”
+
+> north
+Ok
+I’m in the foyer of an opulent mansion.
+I hear snoring from upstairs.
+
+> out
+Ok
+I’m on a front lawn before an opulent mansion.
+A brown horse looks at me, then carries on nibbling grass.
+
+> take hay
+Taken
+A brown horse looks at me, then carries on nibbling grass.
+
+> enter stable
+Ok
+I’m in a stable.
+
+> out
+Ok
+I’m on a front lawn before an opulent mansion.
+A brown horse looks at me, then carries on nibbling grass.
+
+> enter mansion
+Ok
+I’m in the foyer of an opulent mansion.
+
+> south
+Ok
+I’m in a lavish front room.
+
+> drop hay
+Dropped
+
+> take china
+As I try to pick up the china, it slips from my fingers… and lands softly on the hay.
+
+> east
+Ok
+I’m in a back room done up in the art-deco style.
+Some people got the strangest notions about decor.
+
+> play piano
+I bash out one of my favorite ragtime hits. Boy, am I dumb.
+Donna Cardicci bursts into the room with a Derringer in her hands, and fires.
+
+I wake up in a hospital ward with a new scar.
+“You’re lucky as well as stupid,” says Ruby. “That bullet missed your heart by about a tenth of an inch.”
+
+> undo
+Undone “play piano”
+
+> exit through door
+As I open the door, a draft of cold air rushes in. The sculpture wavers, then collapses… and comes down right on top of the grand piano. The lid snaps in two, several strings snap at once, and there is a violent, deafening, and rather avant-garde explosion.
+Donna Cardicci bursts into the room with a Derringer in her hands, and fires.
+
+I wake up in a hospital ward with a new scar.
+“You’re lucky as well as stupid,” says Ruby. “That bullet missed your spine by about a tenth of an inch.”
+
+> undo
+Undone “exit through door”
+
+> west
+Ok
+I’m in a lavish front room.
+
+> north
+Ok
+I’m in the foyer of an opulent mansion.
+
+> south
+Ok
+I’m in a lavish front room.
+
+> take hay
+As I pick up the hay, the china goes flying…
+SMAAAAAASH!!!
+Donna Cardicci bursts into the room with a Derringer in her hands, and fires.
+
+I wake up in a hospital ward with a new scar.
+“You’re lucky as well as stupid,” says Ruby. “That bullet missed your spine by about a tenth of an inch.”
+
+> undo
+Undone “take hay”
+
+> take china
+As I try to pick up the china, it slips from my fingers… and lands softly on the hay.
+
+> east
+Ok
+I’m in a back room done up in the art-deco style.
+
+> wait
+Time passes…
+
+> read book
+I flip through the book, and an entry catches my eye:
+“MOBSTERS’ MANSIONS. If you’re casing out a mobster’s mansion, try not to make too much noise. They ain’t heavy sleepers. Soft footwear is recommended.”
+
+> west
+Ok
+I’m in a lavish front room.
+
+> north
+Ok
+I’m in the foyer of an opulent mansion.
+
+> up
+Ok
+I’m in a bedroom.
+
+> down
+Ok
+I’m in the foyer of an opulent mansion.
+
+> out
+Ok
+I’m on a front lawn before an opulent mansion.
+
+> enter stable
+Ok
+I’m in a stable.
+
+> out
+Ok
+I’m on a front lawn before an opulent mansion.
+A gray horse looks at me, then carries on nibbling grass.
+
+> pet horses
+I pet the nose of a gray horse. It gives a quiet whicker.
+
+> enter mansion
+Ok
+I’m in the foyer of an opulent mansion.
+
+> out
+Ok
+I’m on a front lawn before an opulent mansion.
+
+> climb gate
+I can’t climb anything while wearing these goofy houseshoes!
+A gray horse looks at me, then carries on nibbling grass.
+
+> remove houseshoes
+Ok, I’ve taken them off.
+
+> climb gate
+The bars are wide enough apart to get a foothold. I climb over…
+I’m at Nebraska Street and Princeley Boulevard, in Princeley Heights.
+
+> west
+Ok
+I’m at Nebraska Street and 6th Avenue, in Princeley Heights.
+A Bentley glides past.
+
+> read paper
+It reads:
+“1306 Princeley Blvd (at Nebraska St)”
+A yellow cab comes into view.
+
+> read receipt
+It reads:
+“Cawmill’s Lumberyard, Ohio & 1st, West New Losago
+700 pine coffins: $4,900
+Payable by cash or check”
+The yellow cab drives off.
+
+> west
+Ok
+I’m at Nebraska Street and 5th Avenue.
+
+> west
+Ok
+I’m at Nebraska Street and 4th Avenue.
+
+> west
+Ok
+I’m at Nebraska Street and 3rd Avenue.
+
+> west
+Ok
+I’m at Nebraska Street and 2nd Avenue, in the Westside.
+I find a nickel on the sidewalk.
+As I step into West New Losago, I grit my teeth and start watching my back a little closer. This ain’t the fanciest part of town.
+
+> west
+Ok
+I’m at Nebraska Street and 1st Avenue, in the Westside.
+A yellow cab comes into view.
+
+> north
+Ok
+I’m at Maine Street and 1st Avenue, in the Westside.
+
+> south
+Ok
+I’m at Nebraska Street and 1st Avenue, in the Westside.
+A yellow cab comes into view.
+
+> south
+Ok
+I’m at Ohio Street and 1st Avenue, in the Westside.
+
+> enter lumberyard
+Ok
+I’m in a lumberyard.
+
+> enter workshop
+Ok
+I’m in a lumber workshop.
+The owner walks out to the yard.
+A bony man cuts a wooden pole in half.
+
+> talk to workers
+The workers do their best to listen while continuing to work.
+An old woman hammers a nail into a piece of wood.
+
+> ask workers about work
+“How’s the work?” I ask an old man.
+The worker spits. “It sucks. The hours are long, my back’s killin’ me, no pension, no insurance, no fun. Not even a water cooler, an’ the thirstiest work I ever done.”
+A lanky woman sands a log down on a noisy machine.
+
+> ask workers about cawmill
+“So what do you think of your boss?” I ask the workers.
+A man in a flat cap spits on the floor. “He treats us like dirt. But it’s not like we can afford to quit.”
+A skinny woman in a flat cap carries a log from one machine to another.
+
+> ask workers about coffins
+“Any of you guys remember an order for 700 coffins recently?” I ask the floor.
+An old man answers. “Yeah, I remember. Mr Cawmill had us workin’ double time at half pay. Never told us who they was for.”
+Cawmill walks in.
+A skinny man drills a hole in a piece of wood.
+
+> talk to cawmill
+“Whaddya want?” says Cawmill.
+A bony man sands a piece of wood down on a noisy machine.
+
+> ask cawmill about coffins
+“I’m interested in an order you met recently,” I say. “For 700 coffins. Ring any bells?”
+“I don’t discuss my accounts with strangers,” says Cawmill. “You wanna nose through my books, go get a real cop, bring a warrant.”
+A oil-covered man in dirty clothes puts a log into a chipper.
+
+> ask cawmill about workers
+“Your workers don’t seem as happy with the business as you do,” I point out.
+“Those lunkheads? They ain’t supposed to be happy,” he chuckles. “You wouldn’t understand, not bein’ an employer yourself. If your workers are happy, you ain’t got real power over ’em.”
+A woman drills a hole in a plank of wood.
+
+> ask cawmill about lumberyard
+“Nice place you got here,” I say.
+“Built the business from scratch myself,” says Cawmill between cigar puffs. “Pulled myself up by my own bootstraps, and a small loan of ten grand from my father.”
+A bony woman in dirty clothes nails two beams together.
+
+> end conversation
+“If you’ll excuse me,” says Cawmill, “I got work to supervise.”
+
+> wait
+Time passes…
+A woman in coveralls puts a plank of wood into a chipper.
+
+> wait
+Time passes…
+A young man puts a log into a chipper.
+
+> wait
+Time passes…
+A woman nails two beams together.
+
+> take oilcan
+Taken
+A bony man nails two beams together.
+
+> take saw
+Taken
+Cawmill walks out to the yard.
+A bony woman cuts a beam in half.
+
+> take account book
+One of the workers, a skinny woman, sees me going for the account book, and stops me.”I don’t think Mr Cawmill would want you doin’ that.”
+A skinny man in dirty clothes cuts a wooden pole in half.
+
+> talk to workers
+The workers do their best to listen while continuing to work.
+A woman in dirty clothes sands a plank of wood down on a noisy machine.
+
+> end conversation
+“I’ll let you get on with your work,” I tell them.
+
+> out
+Ok
+I’m in a lumberyard.
+
+> out
+Ok
+I’m at Ohio Street and 1st Avenue, in the Westside.
+
+> north
+Ok
+I’m at Nebraska Street and 1st Avenue, in the Westside.
+
+> east
+Ok
+I’m at Nebraska Street and 2nd Avenue, in the Westside.
+A girl clatters past on a cheap bicycle.
+A yellow cab comes into view.
+
+> east
+Ok
+I’m at Nebraska Street and 3rd Avenue.
+A cop car races by with its siren wailing.
+A yellow cab comes into view.
+
+> east
+Ok
+I’m at Nebraska Street and 4th Avenue.
+A girl clatters past on a bicycle.
+
+> east
+Ok
+I’m at Nebraska Street and 5th Avenue.
+A yellow cab comes into view.
+
+> look at watch
+It’s 3:38 PM.
+
+> east
+Ok
+I’m at Nebraska Street and 6th Avenue, in Princeley Heights.
+
+> east
+Ok
+I’m at Nebraska Street and Princeley Boulevard, in Princeley Heights.
+A boy clatters past on an expensive bicycle.
+
+> climb gate
+The bars are wide enough apart to get a foothold. I climb over…
+I’m on a front lawn before an opulent mansion.
+
+> enter mansion
+Ok
+I’m in the foyer of an opulent mansion.
+I hear snoring from upstairs.
+
+> wear houseshoes
+Ok, I’m wearing them.
+
+> up
+Ok
+I’m in a bedroom.
+
+> oil bureau
+I apply a liberal squirt of oil to the bureau.
+
+> open bureau
+The drawer glides open smoothly.
+Some things fall out.
+
+> take sheet
+Taken
+
+> take pillow
+Taken
+
+> down
+Ok
+I’m in the foyer of an opulent mansion.
+
+> south
+Ok
+I’m in a lavish front room.
+
+> east
+Ok
+I’m in a back room done up in the art-deco style.
+
+> drop pillow
+Dropped
+
+> exit through door
+As I open the door, a draft of cold air rushes in. The sculpture wavers, then collapses… and lands softly on the pillow.
+I’m on a back lawn.
+
+> enter hedge
+Ok
+I’m on a trail winding through a hillside.
+An eagle soars overhead.
+
+> east
+Ok
+I’m in a swampy hollow.
+
+> talk to hillbilly
+“Hey there, trav’ler,” says the old man. “Granpappy Clunkett’s the name. “What c’n I do for you?”
+An eagle soars overhead.
+
+> ask granpappy about cardiccis
+“You acquainted with two city guys?” I ask. “A skinny fella, and a big fella that don’t talk much? And maybe an old Italian lady?”
+“Why yes,” says the old man after a pause. “They come here an’ buy my liquor.” His eyes narrow. “Unless you’re the revenooers, in which case they says to tell you I ain’t never seen ’em.”
+
+> ask granpappy about still
+“That’s a fascinating machine you got there,” I say.
+“Yessir,” says the old man. “My pappy made it hissel’ outta fryin’ pans an’ tractor parts. Makes the best gulp a mountain dew this side a the Mississippi, if ya know how to use it. Here, take a taste.”
+He takes a tin mug out of his overalls, draws off a measure of brownish liquid from the still, and hands it to me.
+
+> drink mug
+I steel myself and neck the contents of the mug.
+“Whew,” I say when my vision clears. “That’s…”
+“I know,” says Granpappy sadly. “I do m’best, but it always comes out tastin’ a rotten armadillas. ‘Course, it was m’granddaughter was the expert.”
+He takes back the empty mug with an apologetic smile.
+
+> ask granpappy about granddaughter
+“So where’s your granddaughter now?” I ask.
+“Aw, Mary Jo Lou Belle got some high-falutin city job,” says Granpappy. “Some fancy Fifth Avenue law firm in New Losago. Tragic waste a talent. I mean I ain’t impartial, but she mus’ be the greatest moonshiner this side a the Rockies. Brings tears to m’eyes to remember her liquor, jes’ like it used to do when I drank it.”
+
+> ask granpappy about granddaughter
+“So where’s your granddaughter now?” I ask.
+“Aw, Mary Jo Lou Belle got some high-falutin city job,” says Granpappy. “Some fancy Fifth Avenue law firm in New Losago. Tragic waste a talent. I mean I ain’t impartial, but she mus’ be the greatest moonshiner this side a the Rockies. Brings tears to m’eyes to remember her liquor, jes’ like it used to do when I drank it.”
+
+> ask granpappy about still
+“That’s a fascinating machine you got there,” I say.
+“Yessir,” says the old man. “My pappy made it hissel’ outta fryin’ pans an’ tractor parts. Makes the best gulp a mountain dew this side a the Mississippi, if ya know how to use it. ‘Course, it was m’granddaughter that was the expert,” he adds with a downward glance.
+
+> ask granpappy about cardiccis
+“You acquainted with two city guys?” I ask. “A skinny fella, and a big fella that don’t talk much? And maybe an old Italian lady?”
+“Why yes,” says the old man after a pause. “They come here an’ buy my liquor.” His eyes narrow. “Unless you’re the revenooers, in which case they says to tell you I ain’t never seen ’em.”
+
+> west
+Ok
+I’m on a trail winding through a hillside.
+
+> enter hedge
+Ok
+I’m on a back lawn.
+
+> enter hedge
+Ok
+I’m on a trail winding through a hillside.
+
+> east
+Ok
+I’m in a swampy hollow.
+
+> talk to granpappy
+“Hey there, trav’ler,” says Granpappy.
+
+> west
+Ok
+I’m on a trail winding through a hillside.
+
+> enter hedge
+Ok
+I’m on a back lawn.
+
+> enter mansion
+Ok
+I’m in a back room done up in the art-deco style.
+
+> west
+Ok
+I’m in a lavish front room.
+
+> north
+Ok
+I’m in the foyer of an opulent mansion.
+
+> out
+Ok
+I’m on a front lawn before an opulent mansion.
+
+> remove houseshoes
+Ok, I’ve taken them off.
+
+> climb gate
+The bars are wide enough apart to get a foothold. I climb over…
+I’m at Nebraska Street and Princeley Boulevard, in Princeley Heights.
+
+> west
+Ok
+I’m at Nebraska Street and 6th Avenue, in Princeley Heights.
+A yellow cab comes into view.
+
+> west
+Ok
+I’m at Nebraska Street and 5th Avenue.
+A cop car races by with its siren wailing.
+
+> north
+Ok
+I’m at Maine Street and 5th Avenue.
+
+> enter law firm
+Ok
+I’m in the office of a fancy law firm.
+
+> talk to secretary
+The secretary gives me a forced smile. “Welcome to the law offices of J Epsom Esquire,” she says. “My name is Mary Jo Lou Belle, I’m Mr Epsom’s secretary. How may I help you?”
+
+> ask mary jo lou belle about granpappy
+“Would you happen to be related to a Mr Granpappy Clunkett?”
+“Why yes,” says Mary Lou Jo Belle. “He’s my Granpappy. I miss him, but times is a-movin’ on, an’ I can’t stay in the family business forever.”
+
+> ask mary jo lou belle about moonshine
+I lower my voice and lean in. “Now if I were to inform Mr Epsom about your previous occupation, do you think you’d keep this job?”
+Mary Lou Jo Belle snorts. “Go ahead. Mr Epsom likes a drink as much as anyone else.”
+
+> talk to lawyer
+“I am J Epsom, Esquire,” says the lawyer. “How do you do?”
+“Lanson Rose, private investigator,” I say.
+
+> tell mr epsom about moonshine
+“Would it interest you to know,” I say, “that your secretary over there previously worked as a moonshine maker in some swamp in the mountains?”
+“Come now, Mr Rose,” says Mr Epsom with a thin smile. “You and I know Prohibition is a sham. Everyone carries on drinking, everyone is well aware of it, but the police can now arrest whomever they choose. Which of course does not include pillars of the status quo like ourselves. Miss Clunkett is an excellent secretary and I am willing to overlook her employment history.”
+
+> ask mr epsom about mary jo lou belle
+“Where did you find your secretary?” I ask him.
+“She walked in and asked for a job. I’m a generous man, she shows excellent organisational skills, and she didn’t seem to have a clue what an acceptable salary was. Did you, dear?” he adds, with a patronising smile in Mary Jo Lou Belle’s direction.
+
+> ask mr epsom about firm
+“How’s lawyering these days?” I ask the guy.
+“Oh, you know,” he says. “As long as people don’t all start getting along, there’ll always be plenty of work for us.”
+
+> search inbox
+I wait until nobody’s looking and quickly flick through the papers in the inbox. Something catches my eye: a condemnation order for a tiny hamlet southeast of the city called Swampy Hollow. I pull it out.
+
+> read condemnation order
+This is an order for the compulsory sale to the state of some land southeast of New Losago known as “Swampy Hollow”, and the demolition of all structures built on it. The sale price don’t look exactly fair, either. It’s signed by the state governor and witnessed by a Senator Brinkman.
+
+> talk to mary jo lou belle
+Mary Jo Lou Belle gives me a forced smile. “Welcome to the law offices of J Epsom Esquire,” she says. “I’m Mr Epsom’s secretary. How may I help you?”
+
+> talk to mr epsom
+“How do you do, Mr Rose?” says Mr Epsom.
+
+> show condemnation order
+(to Mary Jo Lou Belle)
+“Take a look at this,” I say to the girl. “Swampy Hollow. Ain’t that where your folks hail from?”
+Mary Jo Lou Belle takes the paper, reads it, then angrily waves it at Mr Epsom.
+“What’s this?” she demands. “You’re helpin’ someone demolish my home swamp?”
+“Oh, is that where you’re from?” says Mr Epsom. “Well, you’ve moved on from there, haven’t you? You can live in a proper apartment in the city, eat real food instead of roadkill…”
+“That’s it!” she says. “I quit!”
+She throws the paper to the floor and storms out of the office.
+
+> take condemnation order
+Taken
+
+> talk to mr epsom
+I’m already talking to Mr Epsom.
+
+> ask mr epsom about mary jo lou belle
+“Where did you find your secretary?” I ask him.
+“She walked in and asked for a job. I’m a generous man, she shows excellent organisational skills, and she didn’t seem to have a clue what an acceptable salary was.”
+
+> out
+Ok
+I’m at Maine Street and 5th Avenue.
+A yellow cab comes into view.
+
+> talk to mary jo lou belle
+Mary Jo Lou Belle looks at me with a scowl. “I suppose you’re gonna say I should go back to my folks,” she says.
+
+> say go home
+“It’d be a selfless service,” I tell her. “If what I hear’s true, you’re the Mozart of moonshine. The Beethoven of booze. The, er, Liszt of liquor.” I run out of composers. “Plus, your granpappy’s gonna need a hand to defend the place when the bulldozers come.”
+“I guess you’re right,” she says simply.
+Her gaze meets mine for a moment, then she walks away.
+
+Case closed: SPEAKEASY STREET
+Some people just got callings, whether they like ’em or not. Detectives gotta detect, and moonshiners gotta moonshine. The good booze will be flowing again shortly, and a city with good booze is a city with good times. And who knows, maybe soon someone will put up enough bribe money to get Prohibition repealed, and the girl can follow her heart then.
+I guess I should go find Wexler and see about getting the rest of my fee.
+The yellow cab drives off.
+
+> save end 1
+Game saved as ‘END 1’
+
+> undo
+Undone “talk to Mary Jo Lou Belle”
+
+> talk to mary jo lou belle
+Mary Jo Lou Belle looks at me with a scowl. “I suppose you’re gonna say I should go back to my folks,” she says.
+The yellow cab drives off.
+
+> say don’t go home
+“You don’t have to do anything you don’t want to do, kid,” I tell her. “You’ve tried moonshining and you’ve tried legal secretarying. There’s a million other things to try out there. You ever thought of being a private detective, for example?”
+“Maybe not that,” says the girl. “But I got places I wanna see. Plus,” she adds with a smile, “I stole fifty grand off that creep.” She pats her handbag, looks at me for a moment, and walks out of my life.
+
+Case closed: SPEAKEASY STREET
+Well, the booze isn’t getting any better, at least not until someone puts up enough bribe money to get Prohibition repealed. But I found out what was going on, so I guess I did the detectiving all right. Something tells me Mr Wexler won’t be happy, though. Hope the girl does enough with her life to make it worth it.
+I guess I should go find Wexler and see about getting the rest of my fee.
+
+> undo
+Undone “talk to Mary Jo Lou Belle”
+
+> talk to mary jo lou belle
+Mary Jo Lou Belle looks at me with a scowl. “I suppose you’re gonna say I should go back to my folks,” she says.
+The yellow cab drives off.
+
+> say go home
+“It’d be a selfless service,” I tell her. “If what I hear’s true, you’re the Mozart of moonshine. The Beethoven of booze. The, er, Liszt of liquor.” I run out of composers. “Plus, your granpappy’s gonna need a hand to defend the place when the bulldozers come.”
+“I guess you’re right,” she says simply.
+Her gaze meets mine for a moment, then she walks away.
+
+Case closed: SPEAKEASY STREET
+Some people just got callings, whether they like ’em or not. Detectives gotta detect, and moonshiners gotta moonshine. The good booze will be flowing again shortly, and a city with good booze is a city with good times. And who knows, maybe soon someone will put up enough bribe money to get Prohibition repealed, and the girl can follow her heart then.
+I guess I should go find Wexler and see about getting the rest of my fee.
+
+> north
+Ok
+I’m at Louisiana Street and 5th Avenue.
+
+> south
+Ok
+I’m at Maine Street and 5th Avenue.
+
+> west
+Ok
+I’m at Maine Street and 4th Avenue.
+
+> west
+Ok
+I’m at Maine Street and 3rd Avenue.
+
+> enter office
+Ok
+I’m in a dimly lit office building.
+
+> enter office door
+Ok
+I’m in my office.
+
+> take note
+Taken
+
+> read note
+It reads:
+“Mr Rose –
+“Thanks for taking on my case. When you’re done, come see me at my place – Apt. 282, Kentucky & 2nd, West New Losago.
+“Wexler.”
+
+> out
+Ok
+I’m in a dimly lit office building.
+
+> enter office door
+Ok
+I’m in my office.
+
+> out
+Ok
+I’m in a dimly lit office building.
+
+> out
+Ok
+I’m at Maine Street and 3rd Avenue.
+
+> north
+Ok
+I’m at Louisiana Street and 3rd Avenue.
+A boy clatters past on a bicycle.
+A yellow cab comes into view.
+
+> north
+Ok
+I’m at Kentucky Street and 3rd Avenue.
+A yellow cab comes into view.
+
+> west
+Ok
+I’m at Kentucky Street and 2nd Avenue, in the Westside.
+A yellow cab comes into view.
+
+> enter apartments
+Ok
+I’m in a shoddy apartment building.
+
+> enter apartment
+I knock on the apartment door. Wexler answers, and ushers me in.
+I’m in a cheap-looking, sparsely furnished apartment.
+
+> talk to wexler
+Wexler’s ratty face twitches in my direction.
+
+> ask wexler about money
+“Well, Mr Wexler, I got to the bottom of that little supply problem,” I say.
+“I heard,” says Wexler. “Well done, Mr Rose. Here’s your other fifty.”
+I pocket the bill. “Pleasure doin’ business,” I tell him.
+
+> talk to wexler
+Wexler’s ratty face twitches in my direction.
+
+> out
+Ok
+I’m in a shoddy apartment building.
+
+> out
+Ok
+I’m at Kentucky Street and 2nd Avenue, in the Westside.
+
+> east
+Ok
+I’m at Kentucky Street and 3rd Avenue.
+A cop car races by with its siren wailing.
+
+> south
+Ok
+I’m at Louisiana Street and 3rd Avenue.
+A yellow cab comes into view.
+
+> south
+Ok
+I’m at Maine Street and 3rd Avenue.
+A girl clatters past on a bicycle.
+A yellow cab comes into view.
+
+> enter office
+Ok
+I’m in a dimly lit office building.
+
+> talk to mrs macdonald
+“Step into my office, Mrs Macdonald,” I tell her. She steps in, and I follow.
+
+Case opened: THE BIG PICKLE
+“It’s my husband,” says the dame. “He’s been missing five days now. Please find him, Mr Rose. I’ve heard you’re the – well, I’ve heard you’re a detective.”
+
+> ask mrs macdonald about another woman
+“Please don’t take this the wrong way,” I say, “but the usual reason, when a husband goes missing –”
+Mrs Macdonald shakes her head. “Not Gilbert. He wouldn’t do that to me. Besides, no other woman would have him.”
+
+> ask mrs macdonald about money
+“Now, my fees…” I begin.
+“A hundred now, and a hundred when you finish,” says Mrs Macdonald, handing me a crisp bill.
+That’s twice what I would have taken. I try not to let her see that.
+
+> ask mrs macdonald about home
+“Where do you and your husband live?” I ask.
+“In Princeley Heights,” she says. “By Louisiana street. Here,” she says. She takes out a sheet of notepaper and a fountain pen, writes an address, and hands me the paper.
+
+> read notepaper
+It reads:
+“Professor and Mrs G. R. Macdonald
+1107 Princeley Blvd (at Louisiana Street)
+Princeley Heights, New Losago”
+
+> ask mrs macdonald about husband
+“Tell me a little about your husband,” I say.
+“He’s Professor Gilbert Macdonald,” she says. “You know, the food scientist. Runs a lab at Corndale College. We’ve been married six years. I last saw him when he left for work five days ago.”
+
+> ask mrs macdonald about her husband’s work
+“Can you tell me any more regarding your husband’s work at Corndale?” I say to her.
+“He’s worked there for twenty years, since long before I met him,” she tells me. “For the last three years, he’s been working on a top secret project. He never told me anything about it. Just kept saying he was on to something big.”
+
+> ask mrs macdonald about money
+“Now, my fees…” I begin.
+“I though we’d agreed about that,” she says.
+
+> end conversation
+Mrs Macdonald gives a sardonic smile.
+
+> out
+Ok
+I’m in a dimly lit office building.
+
+> out
+Ok
+I’m at Maine Street and 3rd Avenue.
+A yellow cab comes into view.
+
+> north
+Ok
+I’m at Louisiana Street and 3rd Avenue.
+
+> east
+Ok
+I’m at Louisiana Street and 4th Avenue.
+
+> east
+Ok
+I’m at Louisiana Street and 5th Avenue.
+A yellow cab comes into view.
+
+> east
+Ok
+I’m at Louisiana Street and 6th Avenue, in Princeley Heights.
+A boy clatters past on an expensive bicycle.
+
+> east
+Ok
+I’m at Louisiana Street and Princeley Boulevard, in Princeley Heights.
+
+> enter macdonald house
+The door’s unlocked. I let myself in.
+I’m in the foyer of a nice house.
+
+> north
+Ok
+I’m in a spacious parlor.
+
+> tune radio
+I tune the radio to a different station.
+
+> east
+Ok
+I’m in a huge kitchen.
+
+> open cupboard
+Something falls out.
+
+> read turpentine
+It reads:
+“Handy Hank’s Oil of Turpentine. Useful for thinning or stripping paint. Warning: TOXIC!”
+I hear the front door open, and the clicking of a woman’s footsteps in the parlor.
+
+> take turpentine
+Taken
+
+> open refrigerator
+Something falls out.
+
+> open belljar
+Something falls out.
+
+> take sandwich
+Taken
+
+> eat sandwich
+I take a bite out of the sandwich. The bread’s dry, and the meat inside tastes a bit off – I don’t mean bad, but inaccurate, like somebody tried to explain the taste of a steak to a person who’d never had one. It’s soft and very easy to eat.
+
+> take belljar
+Taken
+
+> open belljar
+There’s nothing inside.
+
+> west
+Ok
+I’m in a spacious parlor.
+Mrs Macdonald arrives from the south.
+“Why, come in, Mr Rose,” says Mrs Macdonald drily. “Show yourself around.”
+
+> talk to mrs macdonald
+Mrs Macdonald looks at me with eyes that don’t give anything away.
+
+> ask mrs macdonald about sandwich
+“What can you tell me about this?” I ask, holding out the sandwich.
+“I’ve no idea,” she says with a flutter of her eyes. “Some piece of science my husband’s working on, perhaps.”
+
+> end conversation
+Mrs Macdonald gives a sardonic smile.
+
+> south
+Ok
+I’m in the foyer of a nice house.
+
+> up
+Ok
+I’m on an upstairs landing.
+
+> north
+Ok
+I’m in a dusty bedroom.
+
+> open wardrobe
+Something falls out.
+
+> take tweed jacket
+Taken
+
+> wear tweed jacket
+Ok, I’m wearing it.
+
+> remove tweed jacket
+Ok, I’ve taken it off.
+
+> open desk
+Some things fall out.
+
+> take tobacco
+Taken
+
+> take pipe
+Taken
+
+> take crossword book
+Taken
+
+> read crossword book
+This is a slim volume containing page after page of black and white grids. All of them have been completely filled in with untidy capital letters.
+
+> fill pipe
+I take a pinch of tobacco from the pouch and stuff it into the bowl of the pipe.
+Mrs Macdonald arrives from the south.
+
+> light pipe
+I light the pipe with my lighter and start puffing.
+I must say, this feels sophisticated as hell.
+Cherry-smelling tobacco smoke rises from the pipe in my hand.
+
+> unlight pipe
+I tamp the pipe out with my thumb.
+Ok, I’ve put it out.
+Mrs Macdonald walks south.
+
+> open wardrobe
+There’s nothing inside.
+
+> open desk
+There’s nothing inside.
+
+> eat sandwich
+I take a bite out of the sandwich. The bread’s dry, and the meat inside tastes a bit off – I don’t mean bad, but inaccurate, like somebody tried to explain the taste of a steak to a person who’d never had one. It’s soft and very easy to eat.
+Mrs Macdonald arrives from the south.
+
+> south
+Ok
+I’m on an upstairs landing.
+Mrs Macdonald arrives from the north.
+
+> south
+Ok
+I’m in a neat bedroom.
+
+> open vanity table
+Some things fall out.
+
+> read periodic table
+There’s antimony, arsenic, aluminum, selenium, and hydrogen, and oxygen, and nitrogen, and rhenium…
+
+> take journal
+Taken
+
+> read journal
+It’s this quarter’s issue of the “American Journal of Food Chemistry”. I flip to one of the articles, but it’s way above my level.
+
+> take notebook
+Taken
+
+> read notebook
+The notebook is full of handwritten calculations and chemical formulas that I can’t make head nor tail of. There are enough exclamation marks and circled bits that it must be something exciting, to the right people anyway. And the handwriting – that’s Mrs Macdonald’s, same as on the notepaper she wrote her address on.
+
+> take periodic table
+Taken
+
+> open wardrobe
+Something falls out.
+
+> take cocktail dress
+Taken
+
+> wear cocktail dress
+It’s not really my color.
+
+> open vanity table
+There’s nothing inside.
+
+> north
+Ok
+I’m on an upstairs landing.
+
+> talk to mrs macdonald
+Mrs Macdonald looks at me with eyes that don’t give anything away.
+
+> ask mrs macdonald about science
+“Forgive me, but I took a peep at your drawers,” I tell her. “Been taking an interest in the Professor’s work, have you?”
+She glares. “I guess you may as well know – he’s no scientist. Barely knows the difference between a monoglyceride and a phospholipid. The college board gave him the job as a courtesy because his old man funded the place. He gets a lab to sit in and do crossword puzzles. I can tell you’ve been wondering why I married him – that’s why. Those antiques would never employ a woman scientist, so I get to do my research and publish it under his name. What difference does it make, anyway?”
+“I don’t know,” I say. “Not much of a chemist myself. What are you working on, anyway?”
+“Never you mind,” she snaps. “It’s not relevant.”
+
+> ask mrs macdonald about sandwich
+“Let’s try again,” I say. “What is this weird sandwich?”
+“All right,” she says coolly. “It’s called a hamburger. A revolutionary advancement in culinary technology! One cow can be ground up into eight thousand of these. They can be cooked in forty-five seconds, and eaten in less.” Her eyes flash. “We are about to enter a new era, Mr Rose – the era of fast food! Stuffy restaurant meals will be a thing of the past! No more lounging around making idle chat with your friends while you wait for your supper. No more obsequious waiters, no more pretentious menus! Just get in, eat your damn hamburger and get out!”
+“I see,” I say. “And was everybody as thrilled about this ‘fast food’ revolution as you?”
+“Well, no,” she says. “Gilbert got some hate mail. Chefs, restaurateurs, food snobs. Jealous.” She stops. “You don’t think that might have something to do with his disappearance?”
+
+> ask mrs macdonald about hate mail
+“This hate mail,” I say. “You coulda mentioned it earlier. I’d be interested to read it.”
+“He said he just left it in his pigeonhole at work,” she replies. “Here, I’ll give you a key.” She rummages in her décolletage, pulls out a small mailbox key, and hands it to me.
+
+> read journal
+It’s this quarter’s issue of the “American Journal of Food Chemistry”. I flip to one of the articles, but it’s way above my level.
+
+> read crossword book
+This is a slim volume containing page after page of black and white grids. All of them have been completely filled in with untidy capital letters.
+
+> wear tweed jacket
+Ok, I’m wearing it.
+
+> ask mrs macdonald about husband
+“Tell me a little about your husband,” I say.
+“He’s Professor Gilbert Macdonald,” she says. “You know, the food scientist. Runs a lab at Corndale College. We’ve been married six years. I last saw him when he left for work five days ago.”
+
+> down
+Ok
+I’m in the foyer of a nice house.
+
+> out
+Ok
+I’m at Louisiana Street and Princeley Boulevard, in Princeley Heights.
+A Rolls Royce glides past.
+
+> west
+Ok
+I’m at Louisiana Street and 6th Avenue, in Princeley Heights.
+
+> west
+Ok
+I’m at Louisiana Street and 5th Avenue.
+A cop car races by with its siren wailing.
+
+> west
+Ok
+I’m at Louisiana Street and 4th Avenue.
+A yellow cab comes into view.
+
+> hail taxi
+The cab stops and I get in.
+
+> talk to cabbie
+The cabbie snarls, “Where ya wanna go?”
+
+> say corndale college
+The cab pulls up. I pay the fare and get out.
+I’m at Ohio Street and 5th Avenue.
+The yellow cab drives off.
+
+> enter campus
+Ok
+I’m at the north end of a college campus.
+
+> talk to students
+A sophomore with slicked back hair looks at me disdainfully. “What do you want, grandpa?”
+
+> ask students about professor macdonald
+“Any of you boys know a Professor Macdonald who works here?” I ask.
+“I take his food science class, but he hasn’t been in this week,” says a senior with a check jacket. “Arrogant old guy. Kept telling us we may as well not bother taking notes, because his research was about to make the whole subject obsolete anyway.”
+
+> ask students about college
+“How are you finding it here at Corndale?” I ask.
+“Swell, I guess,” says a graduate student. “Only…” he looks sheepish. “There are no girls.”
+I look along the line of clean young male faces. He’s right. This ain’t one of those progressive colleges.
+
+> enter dorm
+A well-dressed sophomore with a striped necktie blocks my way. “No way, old man,” he says with a soapy smile. “I can tell you’re not a real professor. Those guys all smoke like chimneys.”
+
+> fill pipe
+I take a pinch of tobacco from the pouch and stuff it into the bowl of the pipe.
+
+> light pipe
+I light the pipe with my lighter and start puffing.
+I must say, this feels sophisticated as hell.
+
+> enter dorm
+The students get out of my way respectfully.
+I’m at the south end of a college campus.
+
+> enter science building
+Ok
+I’m in the lobby of a science building.
+
+> look at faculty photos
+A row of tweedy old white men with stern academic faces peer down at me from the wall. One of them, pretty much indistinguishable from the others, is labeled “G. Macdonald, Professor Emeritus of Food Science. Laboratory 10D.”
+Cherry-smelling tobacco smoke rises from the pipe in my hand.
+
+> open mailbox
+It’s locked.
+Cherry-smelling tobacco smoke rises from the pipe in my hand.
+
+> open mailbox
+The key fits, and the mailbox opens.
+Some things fall out.
+My pipe goes out.
+
+> take hate mail
+Taken
+
+> read hate mail
+This is a bunch of hate mail addressed to Professor Macdonald of Corndale College. I pick out a note written in crayon.
+It reads:
+“Dear Professor, your ‘fast food’ will be the slow death of my business. Sincerely, a concerned business owner.”
+
+> read hate mail
+This is a bunch of hate mail addressed to Professor Macdonald of Corndale College. I pick out a note written in neat capitals.
+It reads:
+“Dear Lunkhead, I hope you choke on your own hamburger. Screw you, a concerned business owner.”
+
+> take menu
+Taken
+
+> read menu
+I uncrumple the menu to read it. As I do so, an iron key falls out and clatters to the floor.
+This is the menu of the Italian restaurant on Maine and 4th, specializing in something called pizza. Looks quite appetizing.
+
+> take iron key
+Taken
+
+> read hate mail
+This is a bunch of hate mail addressed to Professor Macdonald of Corndale College. I pick out a note written in neat capitals.
+It reads:
+“Dear Professor, your research is an abomination. There are some things mankind was not meant to cook. Faithfully, a concerned business owner.”
+
+> read hate mail
+This is a bunch of hate mail addressed to Professor Macdonald of Corndale College. I pick out a note written in crayon.
+It reads:
+“Dear Professor, your research is an abomination. There are some things mankind was not meant to cook. Sincerely, a concerned business owner.”
+
+> out
+Ok
+I’m at the south end of a college campus.
+
+> enter science building
+Ok
+I’m in the lobby of a science building.
+
+> west
+Ok
+I’m in a long corridor smelling of formaldehyde.
+
+> enter lab 10d
+Ok
+I’m in a trashed laboratory.
+
+> read chalkboard
+The chalkboard has been snapped in two. One of the halves – the top, I think – has been scuffed out in whatever struggle took place here. In a bottom corner of the other half is chalked, in an untidy hand: “Prototype 1 blew up. Prototype 2 taken home for further study.”
+
+> out
+Ok
+I’m in a long corridor smelling of formaldehyde.
+
+> east
+Ok
+I’m in the lobby of a science building.
+
+> out
+Ok
+I’m at the south end of a college campus.
+
+> north
+Ok
+I’m at the north end of a college campus.
+
+> climb flagpole
+The driving gloves help me get a good grip.
+Up I go…
+I’m up a flagpole on a college campus.
+I make it to the top of the flagpole and sit down to get my breath.
+The eyes of the college students below goggle up at me.
+“Gee whiz,” says a sophomore with a check jacket. “That bird’s sitting on a flagpole. He’s invented a new craze!”
+A well-dressed graduate student with a bow tie runs out to the phone booth on the street and dials. “Hey Shipwreck, it’s your cousin, Marvin Kelly,” he says. “You know that new pointless fad you’re looking for? Well, listen to this…”
+“Let’s ALL find flagpoles to sit on,” puts in a sophomore.
+The college students disperse, whooping cheerfully.
+
+> enter window
+It’s too far to reach from here.
+
+> down
+Ok
+I’m at the north end of a college campus.
+
+> climb flagpole
+The driving gloves help me get a good grip.
+Up I go…
+I’m up a flagpole on a college campus.
+
+> enter window
+It’s too far to reach from here.
+
+> read book
+I flip through the book, and an entry catches my eye:
+“COLLEGES. These are the hotspots of intellectualism where the brightest young minds of the age congregate to wear stupid clothes, drink, and sleep through a few lectures. College kids are impressionable and prone to fads. They generally respect avoid the professors, who they are mortally afraid might teach them something.”
+
+> down
+Ok
+I’m at the north end of a college campus.
+
+> apply turpentine to flagpole
+I rub some turpentine into the flagpole. The white paint runs off, leaving a rough wooden surface.
+
+> climb flagpole
+The rough wood is perfect for climbing.
+Up I go…
+I’m up a flagpole on a college campus.
+
+> drop saw
+Dropped
+The saw falls to the ground.
+
+> down
+Ok
+I’m at the north end of a college campus.
+
+> take saw
+Taken
+
+> enter dorm
+Ok
+I’m in a college dorm.
+
+> up
+Ok
+I’m on the second floor of a college dorm.
+
+> down
+Ok
+I’m in a college dorm.
+
+> out
+Ok
+I’m at the north end of a college campus.
+
+> north
+Ok
+I’m at Ohio Street and 5th Avenue.
+
+> enter campus
+Ok
+I’m at the north end of a college campus.
+
+> south
+Ok
+I’m at the south end of a college campus.
+
+> north
+Ok
+I’m at the north end of a college campus.
+
+> read menu
+This is the menu of the Italian restaurant on Maine and 4th, specializing in something called pizza. Looks quite appetizing.
+
+> north
+Ok
+I’m at Ohio Street and 5th Avenue.
+A yellow cab comes into view.
+
+> north
+Ok
+I’m at Nebraska Street and 5th Avenue.
+
+> west
+Ok
+I’m at Nebraska Street and 4th Avenue.
+
+> south
+Ok
+I’m at Ohio Street and 4th Avenue.
+
+> north
+Ok
+I’m at Nebraska Street and 4th Avenue.
+A delivery truck rumbles by.
+
+> north
+Ok
+I’m at Maine Street and 4th Avenue.
+
+> enter italian restaurant
+Ok
+I’m in an Italian restaurant.
+
+> talk to chef
+“What can I do for you, signore?” says the chef brightly.
+
+> ask chef about himself
+“Tell me about yourself,” I say to the guy.
+“My name is Tony Pepperoni,” says the chef. “I am born in Italy. Alla my life I dream of running a restaurant. But everyone in Italy is a better cook than Tony! So I move to America.”
+
+> open utility closet
+“Hey!” cries Tony. “What’s the matter, you gotta no respect? You stay outta Tony’s closet!”
+
+> buy pizza
+I pay Tony a dollar fifty. “I’d like to order a pizza,” I say.
+The man’s eyes light up. “Certainly, signore!” he says. “You get cheese, tomato, and up to three extra toppings! Whatta you want?”
+
+> say spicy salami
+“You like the spice, eh?” says Tony. “Tony no like the spice myself, but I it make for you. What else?”
+
+> say black olives
+“Delicioso!” says Tony. And?”
+
+> end conversation
+“You wait ten minutes, signore!” says Tony, and disappears into the kitchen.
+
+> open utility closet
+It’s locked.
+From the kitchen, I hear Tony singing an Italian anthem.
+
+> open utility closet
+The iron key fits in the lock, and the door swings open.
+Out falls a white-haired old man, gagged with a table napkin and bound around the wrists and ankles with strong spaghetti. Professor Macdonald, I presume.
+I hear a sizzle from the kitchen.
+
+> untie professor macdonald
+I remove the napkin and the spaghetti from the Professor.
+From the kitchen, I hear the creak of a refrigerator door opening.
+
+> take spaghetti
+Taken
+From the kitchen, I hear the bubble of a boiling saucepan.
+
+> talk to professor macdonald
+The Professor looks at me. “My wife sent you, I assume? She never could mind her own business.”
+From the kitchen, I hear the creak of a refrigerator door opening.
+
+> ask professor macdonald about what happened
+“That chef came to my work and grabbed me,” says the Professor. “I can only conclude that he’s bothered by some of the research my w– I mean, I’m conducting. I managed to grab that key from his pocket and stuff it in my mailbox as he dragged me out.”
+
+> ask professor macdonald about chef
+“How are we going to get away from that chef?” I say.
+“He’ll be out of that kitchen when he’s finished making your meal,” says the Professor. “We have a few minutes to act.”
+“Thank goodness he’s not cooking hamburgers,” I say.
+“Maybe you could set some sort of trap,” says the Professor.
+
+> tie spaghetti
+I tie the spaghetti between the legs of two tables.
+I hear a sizzle from the kitchen.
+
+> take napkin
+Taken
+From the kitchen, I hear the chop-chop-chop of Tony cutting vegetables.
+
+> drop napkin
+Dropped
+The smell of tomatoes wafts in from the kitchen.
+
+> take napkin
+Taken
+From the kitchen, I hear Tony singing an Italian anthem.
+
+> drop hamburger
+Dropped
+Tony emerges from the kitchen, carrying a yummy smelling pizza.
+“Sorry about the wait, si-” he begins, then trips over the spaghetti. As he flails to catch his balance, he pivots around, then falls to the floor on his back.
+The pizza in his hands goes flying, arcs, and falls slice by slice into his gaping mouth.
+He sputters and turns slightly pink, but manages to gulp it down. Furiously, he gets to his feet, pulls out a rolling pin and clonks me on the head.
+“Now,” I hear his voice say, “I put Signore Professor back in the closet, and you forget, yes?”
+Everything goes black.
+
+I wake up a couple hours later in a hospital ward with a sore head.
+
+> undo
+Undone “drop hamburger”
+
+> undo
+Undone “take napkin”
+
+> undo
+Undone “drop napkin”
+
+> undo
+Undone “take napkin”
+
+> undo
+Undone “tie spaghetti”
+
+> undo
+Undone “talk to Professor Macdonald”
+
+> undo
+Undone “take spaghetti”
+
+> undo
+Undone “untie Professor Macdonald”
+
+> undo
+Undone “open utility closet”
+
+> undo
+Undone “open utility closet”
+
+> undo
+Undone “buy pizza”
+
+> undo
+Undone “open utility closet”
+
+> ask tony about himself
+“Tell me about yourself,” I say to the guy.
+“My name is Tony Pepperoni,” says Tony. “I am born in Italy. Alla my life I dream of running a restaurant. But everyone in Italy is a better cook than Tony! So I move to America.”
+
+> buy pizza
+I pay Tony a dollar fifty. “I’d like to order a pizza,” I say.
+The man’s eyes light up. “Certainly, signore!” he says. “You get cheese, tomato, and up to three extra toppings! Whatta you want?”
+
+> say hot sauce
+“You like the spice, eh?” says Tony. “Tony no like the spice myself, but I it make for you. What else?”
+
+> say spicy salami
+“Aha, you really like the spice!” says Tony. “I make it extra spicy for you. What else?”
+
+> say chilies
+“You wait ten minutes, signore!” says Tony, and disappears into the kitchen.
+
+> open utility closet
+The iron key fits in the lock, and the door swings open.
+Out falls a white-haired old man, gagged with a table napkin and bound around the wrists and ankles with strong spaghetti. Professor Macdonald, I presume.
+From the kitchen, I hear Tony singing an Italian anthem.
+
+> untie professor macdonald
+I remove the napkin and the spaghetti from the Professor.
+From the kitchen, I hear the chop-chop-chop of Tony cutting vegetables.
+
+> take spaghetti
+Taken
+The smell of cheese wafts in from the kitchen.
+
+> talk to professor macdonald
+The Professor looks at me. “My wife sent you, I assume? She never could mind her own business.”
+From the kitchen, I hear the creak of a refrigerator door opening.
+
+> ask professor macdonald about what happened
+“That chef came to my work and grabbed me,” says the Professor. “I can only conclude that he’s bothered by some of the research my w– I mean, I’m conducting. I managed to grab that key from his pocket and stuff it in my mailbox as he dragged me out.”
+
+> ask professor macdonald about chef
+“How are we going to get away from that chef?” I say.
+“He’ll be out of that kitchen when he’s finished making your meal,” says the Professor. “We have a few minutes to act.”
+“Thank goodness he’s not cooking hamburgers,” I say.
+“Maybe you could set some sort of trap,” says the Professor.
+
+> tie spaghetti
+I tie the spaghetti between the legs of two tables.
+From the kitchen, I hear Tony singing an Italian anthem.
+
+> out
+The Professor grabs me. “Don’t leave me alone with that maniac!” he pleads.
+From the kitchen, I hear the chop-chop-chop of Tony cutting vegetables.
+
+> end conversation
+The Professor smiles grimly.
+
+> take napkin
+Taken
+From the kitchen, I hear the chop-chop-chop of Tony cutting vegetables.
+
+> wait
+Time passes…
+From the kitchen, I hear the chop-chop-chop of Tony cutting vegetables.
+
+> wait
+Time passes…
+From the kitchen, I hear the bubble of a boiling saucepan.
+
+> wait
+Time passes…
+Tony emerges from the kitchen, carrying a yummy smelling pizza.
+“Sorry about the wait, si-” he begins, then trips over the spaghetti. As he flails to catch his balance, he pivots around, then falls to the floor on his back.
+The pizza in his hands goes flying, arcs, and falls slice by slice into his gaping mouth.
+As he attempts to gulp it down, his eyes widen and his face turns bright red.
+While he lies there, flailing and coughing, I leap on him and pin him down.
+“Go get the cops,” I tell the Professor.
+
+Case closed: THE BIG PICKLE
+Lieutenant Miles arrives, takes a couple of statements, gets us outside, ropes off the restaurant and drags Tony away in handcuffs.
+I guess I should go find Mrs Macdonald and see about getting the rest of my fee.
+A yellow cab comes into view.
+I’m at Maine Street and 4th Avenue.
+
+> south
+Ok
+I’m at Nebraska Street and 4th Avenue.
+An automobile rumbles by.
+A yellow cab comes into view.
+
+> east
+Ok
+I’m at Nebraska Street and 5th Avenue.
+
+> south
+Ok
+I’m at Ohio Street and 5th Avenue.
+
+> north
+Ok
+I’m at Nebraska Street and 5th Avenue.
+
+> north
+Ok
+I’m at Maine Street and 5th Avenue.
+
+> south
+Ok
+I’m at Nebraska Street and 5th Avenue.
+
+> south
+Ok
+I’m at Ohio Street and 5th Avenue.
+
+> west
+Ok
+I’m at Ohio Street and 4th Avenue.
+An automobile rumbles by.
+
+> west
+Ok
+I’m at Ohio Street and 3rd Avenue.
+
+> north
+Ok
+I’m at Nebraska Street and 3rd Avenue.
+A delivery truck rumbles by.
+
+> north
+Ok
+I’m at Maine Street and 3rd Avenue.
+
+> enter office
+Ok
+I’m in a dimly lit office building.
+
+> enter office door
+Ok
+I’m in my office.
+
+> out
+Ok
+I’m in a dimly lit office building.
+
+> out
+Ok
+I’m at Maine Street and 3rd Avenue.
+A yellow cab comes into view.
+
+> hail taxi
+The cab stops and I get in.
+
+> talk to cabbie
+The cabbie snarls, “Where ya wanna go?”
+
+> say macdonald house
+The cab pulls up. I pay the fare and get out.
+I’m at Louisiana Street and Princeley Boulevard, in Princeley Heights.
+A Rolls Royce glides past.
+
+> enter macdonald house
+Ok
+I’m in the foyer of a nice house.
+
+> up
+Ok
+I’m on an upstairs landing.
+
+> north
+Ok
+I’m in a dusty bedroom.
+
+> south
+Ok
+I’m on an upstairs landing.
+
+> north
+Ok
+I’m in a dusty bedroom.
+
+> south
+Ok
+I’m on an upstairs landing.
+
+> south
+Ok
+I’m in a neat bedroom.
+
+> north
+Ok
+I’m on an upstairs landing.
+
+> down
+Ok
+I’m in the foyer of a nice house.
+
+> north
+Ok
+I’m in a spacious parlor.
+
+> talk to mrs macdonald
+Mrs Macdonald looks at me with eyes that don’t give anything away.
+
+> ask mrs macdonald about money
+“My fee…” I begin.
+“Here’s your other hundred,” says Mrs Macdonald. “Goodbye, Mr Rose, and thanks.”
+
+> end conversation
+Mrs Macdonald gives a sardonic smile.
+
+> south
+Ok
+I’m in the foyer of a nice house.
+
+> out
+Ok
+I’m at Louisiana Street and Princeley Boulevard, in Princeley Heights.
+A girl clatters past on an expensive bicycle.
+A yellow cab comes into view.
